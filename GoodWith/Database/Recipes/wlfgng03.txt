@@ -1,0 +1,3962 @@
+<?xml version="1.0" standalone="yes" encoding="ISO-8859-1"?>
+<!DOCTYPE mx2 SYSTEM "mx2.dtd">
+<mx2 source="MasterCook 6.0" date="August 08, 2001">
+<Summ>
+<Nam>
+Chicken Stock II
+</Nam>
+<Nam>
+Classic Bruschetta
+</Nam>
+<Nam>
+Classic Garlic Bread
+</Nam>
+<Nam>
+English Scones With Cheddar And Rosemary
+</Nam>
+<Nam>
+Fettuccine With Roasted Red Peppers
+</Nam>
+<Nam>
+French Croque-Monsieur (Ham And Cheese) Sandwiches
+</Nam>
+<Nam>
+Frittata With Tomato, Onion, And Basil
+</Nam>
+<Nam>
+Ginger Creme Brulee
+</Nam>
+<Nam>
+Major Grey&apos;s Chutney Toast
+</Nam>
+<Nam>
+Mushroom And Tomato Salad
+</Nam>
+<Nam>
+Nutty Coleslaw
+</Nam>
+<Nam>
+Pears Poached In Zinfandel
+</Nam>
+<Nam>
+Picasso Chicken Croquettes
+</Nam>
+<Nam>
+Pink And Yellow Salad
+</Nam>
+<Nam>
+Pizza With Smoked Salmon And Caviar
+</Nam>
+<Nam>
+Portabella Mushroom Risotto Spago
+</Nam>
+<Nam>
+Really Orange Salad
+</Nam>
+<Nam>
+Roasted Chicken Breast, Wild Mushroom Risotto, Black Truffle
+</Nam>
+<Nam>
+Saffron Risotto With Grilled Shrimp
+</Nam>
+<Nam>
+Simple Arugula Salad
+</Nam>
+<Nam>
+Slightly Spicy Corn Bread
+</Nam>
+<Nam>
+Spicy Arizona Chicken Wings
+</Nam>
+<Nam>
+Spicy Sausage Hash Browns
+</Nam>
+<Nam>
+Spinach And Bacon Sandwiches
+</Nam>
+<Nam>
+Spinach Salad With Honey And Bacon Dressing
+</Nam>
+<Nam>
+Sun-Dried Tomato Quesadillas With Goat Cheese
+</Nam>
+<Nam>
+Sweet Corn Fritters
+</Nam>
+<Nam>
+Swiss Cheese Potato Gratin
+</Nam>
+<Nam>
+Thai Shrimp
+</Nam>
+<Nam>
+Three-Color Bruschetta
+</Nam>
+<Nam>
+Vegetable Soup With Sweet Basil
+</Nam>
+<Nam>
+Wolfgang Puck&apos;s Braised Moroccan Lamb
+</Nam>
+<Nam>
+Wolfgang Puck&apos;s Moroccan Lamb Tangine
+</Nam>
+<Nam>
+Wolfgang Puck&apos;s Pumpkin Pie
+</Nam>
+<Nam>
+Wolfgang&apos;s Baked Spuds
+</Nam></Summ>
+<RcpE name="Chicken Stock II" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                             Chicken Stock II
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 16    Preparation Time :0:00
+Categories    : Chicken                         Poultry
+                Soups/Stews                     Stocks
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  2                     leeks
+  2                     carrots
+  2                     celery stalks
+  1                     chicken - (2 1/2 to 3 lbs)
+                        = (or chicken bones and wings)
+     1/2      teaspoon  salt
+     1/2      teaspoon  whole peppercorns
+  1              pinch  thyme
+  1                     bay leaf
+  4             quarts  water
+
+Clean the vegetables and cut them into 1-inch pieces.  Place in a stockpot with the chicken, salt, peppercorns, thyme, bay leaf, and water.
+
+Bring to a boil and skim as necessary.  Cook for 30 minutes or until chicken is tender.
+
+Remove whole chicken or bones and wings, and strain the stock into a clean bowl or stockpot.  Skim to completely remove fat.
+
+This recipe yields 1 gallon.  For a glace, reduce to about 2 1/2 or 3 cups.
+
+Nutrition per 1 cup serving:  Calories 18;  Fat 0g;  Carbohydrates 3g;  Cholesterol 4mg;  Sodium 88mg;  Protein 1g;  Fiber 1g;  Calories from Fat 0%;  Calories from Carbs 67%.
+
+Comments:  One of the most useful stocks in your kitchen, chicken stock will enhance your sauces and soups.
+
+Source:
+  ""Wolfgang Puck's Modern French Cooking for the American Kitchen:
+  Recipes from the Famed Beard Award-Winning Owner of Spago" by Wolfgang
+  Puck (Houghton Mifflin Co, 1998)"
+S(Formatted for MC6):
+  "06-26-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 11 Calories; trace Fat (4.0% calories from fat); trace Protein; 3g Carbohydrate; 1g Dietary Fiber; 0mg Cholesterol; 83mg Sodium.  Exchanges: 0 Grain(Starch); 1/2 Vegetable; 0 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="16"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Chicken
+</CatT>
+<CatT>
+Poultry
+</CatT>
+<CatT>
+Soups/Stews
+</CatT>
+<CatT>
+Stocks
+</CatT>
+</CatS>
+<IngR name="leeks" qty="2"></IngR>
+<IngR name="carrots" qty="2"></IngR>
+<IngR name="celery stalks" qty="2"></IngR>
+<IngR name="chicken - (2 1/2 to 3 lbs)" qty="1"></IngR>
+<IngR name="= (or chicken bones and wings)"></IngR>
+<IngR name="salt" unit="teaspoon" qty="1/2"></IngR>
+<IngR name="whole peppercorns" unit="teaspoon" qty="1/2"></IngR>
+<IngR name="thyme" unit="pinch" qty="1"></IngR>
+<IngR name="bay leaf" qty="1"></IngR>
+<IngR name="water" unit="quarts" qty="4"></IngR>
+<DirS>
+<DirT>
+Clean the vegetables and cut them into 1-inch pieces.  Place in a stockpot with the chicken, salt, peppercorns, thyme, bay leaf, and water.
+</DirT>
+<DirT>
+Bring to a boil and skim as necessary.  Cook for 30 minutes or until chicken is tender.
+</DirT>
+<DirT>
+Remove whole chicken or bones and wings, and strain the stock into a clean bowl or stockpot.  Skim to completely remove fat.
+</DirT>
+<DirT>
+This recipe yields 1 gallon.  For a glace, reduce to about 2 1/2 or 3 cups.
+</DirT>
+<DirT>
+Nutrition per 1 cup serving:  Calories 18;  Fat 0g;  Carbohydrates 3g;  Cholesterol 4mg;  Sodium 88mg;  Protein 1g;  Fiber 1g;  Calories from Fat 0%;  Calories from Carbs 67%.
+</DirT>
+<DirT>
+Comments:  One of the most useful stocks in your kitchen, chicken stock will enhance your sauces and soups.
+</DirT>
+</DirS>
+<Srce>
+&quot;Wolfgang Puck&apos;s Modern French Cooking for the American Kitchen: Recipes from the Famed Beard Award-Winning Owner of Spago&quot; by Wolfgang Puck (Houghton Mifflin Co, 1998)
+</Srce>
+<AltS label="Formatted for MC6" source="06-26-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Classic Bruschetta" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                            Classic Bruschetta
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Accompaniment                   Side Dish
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  2                     tomatoes -- peeled, seeded,
+                        and finely diced
+  4                     anchovy fillets
+                        = (2 of them finely chopped)
+  2                     salted capers -- rinsed, dried,
+                        and roughly chopped
+  1                     garlic clove -- finely chopped
+  2                     fresh basil leaves -- torn small pieces
+     1/4      teaspoon  dried oregano
+  2                     thick slices country bread
+                        Freshly-ground black pepper -- to taste
+                        Salt -- if necessary
+  2        tablespoons  extra-virgin olive oil
+
+Place the diced tomato, the finely chopped anchovies, and the capers in a bowl.  Add the garlic, basil, and oregano.  Season with pepper and with salt if necessary (the salt in the anchovies might be sufficient).  Stir in the extra virgin olive oil.
+
+Toast the bread and spread the tomato mixture and top with remaining anchovies.
+
+This recipe yields 2 servings.
+
+Comments:  Serve with Wolfgang Puck's Creamy Chicken or Thick Country Vegetable Soup.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 165 Calories; 15g Fat (77.1% calories from fat); 3g Protein; 6g Carbohydrate; 1g Dietary Fiber; 7mg Cholesterol; 305mg Sodium.  Exchanges: 0 Grain(Starch); 1/2 Lean Meat; 1 Vegetable; 2 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="tomatoes" qty="2">
+<IPrp>
+peeled, seeded,
+</IPrp>
+</IngR>
+<IngR name="and finely diced"></IngR>
+<IngR name="anchovy fillets" qty="4"></IngR>
+<IngR name="= (2 of them finely chopped)"></IngR>
+<IngR name="salted capers" qty="2">
+<IPrp>
+rinsed, dried,
+</IPrp>
+</IngR>
+<IngR name="and roughly chopped"></IngR>
+<IngR name="garlic clove" qty="1">
+<IPrp>
+finely chopped
+</IPrp>
+</IngR>
+<IngR name="fresh basil leaves" qty="2">
+<IPrp>
+torn small pieces
+</IPrp>
+</IngR>
+<IngR name="dried oregano" unit="teaspoon" qty="1/4"></IngR>
+<IngR name="thick slices country bread" qty="2"></IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Salt">
+<IPrp>
+if necessary
+</IPrp>
+</IngR>
+<IngR name="extra-virgin olive oil" unit="tablespoons" qty="2"></IngR>
+<DirS>
+<DirT>
+Place the diced tomato, the finely chopped anchovies, and the capers in a bowl.  Add the garlic, basil, and oregano.  Season with pepper and with salt if necessary (the salt in the anchovies might be sufficient).  Stir in the extra virgin olive oil.
+</DirT>
+<DirT>
+Toast the bread and spread the tomato mixture and top with remaining anchovies.
+</DirT>
+<DirT>
+This recipe yields 2 servings.
+</DirT>
+<DirT>
+Comments:  Serve with Wolfgang Puck&apos;s Creamy Chicken or Thick Country Vegetable Soup.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Classic Garlic Bread" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                           Classic Garlic Bread
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 8     Preparation Time :0:00
+Categories    : Accompaniment                   Side Dish
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1                     baguette or loaf of French bread
+  3        tablespoons  butter
+  2                     fresh garlic cloves -- chopped finely, or
+                        forced through a press
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+
+Cut the bread diagonally into 3/4-inch slices.  Don't slice all the way through the loaf.
+
+Mix the butter and the garlic, add a pinch of salt and pepper and blend into a smooth paste.  Spread the mixture onto each slice as if you were buttering a piece of bread.
+
+Put the loaf back together, wrap it in foil and put it in a hot oven for ten minutes.  Unwrap the foil for the last minute of heating and you'll get a crisp crust to the loaf.
+
+This recipe yields 4 servings.
+
+Comments:  Garlic Bread goes well with any of Wolfgang's Soups, but try it with his new Turkey with Egg Noodles or Chicken with Pasta and Mushrooms and you'll discover a perfect combination.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 38 Calories; 4g Fat (99.5% calories from fat); trace Protein; trace Carbohydrate; 0g Dietary Fiber; 12mg Cholesterol; 44mg Sodium.  Exchanges: 1 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="8"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="baguette or loaf of French bread" qty="1"></IngR>
+<IngR name="butter" unit="tablespoons" qty="3"></IngR>
+<IngR name="fresh garlic cloves" qty="2">
+<IPrp>
+chopped finely, or
+</IPrp>
+</IngR>
+<IngR name="forced through a press"></IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Cut the bread diagonally into 3/4-inch slices.  Don&apos;t slice all the way through the loaf.
+</DirT>
+<DirT>
+Mix the butter and the garlic, add a pinch of salt and pepper and blend into a smooth paste.  Spread the mixture onto each slice as if you were buttering a piece of bread.
+</DirT>
+<DirT>
+Put the loaf back together, wrap it in foil and put it in a hot oven for ten minutes.  Unwrap the foil for the last minute of heating and you&apos;ll get a crisp crust to the loaf.
+</DirT>
+<DirT>
+This recipe yields 4 servings.
+</DirT>
+<DirT>
+Comments:  Garlic Bread goes well with any of Wolfgang&apos;s Soups, but try it with his new Turkey with Egg Noodles or Chicken with Pasta and Mushrooms and you&apos;ll discover a perfect combination.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="English Scones With Cheddar And Rosemary" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                 English Scones With Cheddar And Rosemary
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Accompaniment                   Biscuits
+                Side Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  2               cups  all-purpose flour
+  1         tablespoon  baking powder
+     1/2      teaspoon  salt
+  1              pinch  cayenne pepper
+     3/4           cup  grated Cheddar cheese
+  1                cup  milk
+  1           teaspoon  finely-chopped fresh rosemary
+                        = (or 1/2 tsp dried rosemary)
+
+Sift the dry ingredients together.  Add the cheese and mix to a light dough by hand or in a food processor, gradually adding the milk until the mixture is complete.  Add the rosemary and mix in well.
+
+Knead and roll out on a floured bench or board, cut into pieces.  Place on a cold baking tray and bake for 10 minutes at 450 degrees.
+
+This recipe yields 4 to 6 servings; 8 to 10 scones.
+
+Comments:  Try these scones with Wolfgang's Country Broccoli and Cheddar Soup.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 352 Calories; 10g Fat (25.0% calories from fat); 14g Protein; 52g Carbohydrate; 2g Dietary Fiber; 31mg Cholesterol; 795mg Sodium.  Exchanges: 3 Grain(Starch); 1/2 Lean Meat; 0 Non-Fat Milk; 1 1/2 Fat; 0 Other Carbohydrates.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Biscuits
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="all-purpose flour" unit="cups" qty="2"></IngR>
+<IngR name="baking powder" unit="tablespoon" qty="1"></IngR>
+<IngR name="salt" unit="teaspoon" qty="1/2"></IngR>
+<IngR name="cayenne pepper" unit="pinch" qty="1"></IngR>
+<IngR name="grated Cheddar cheese" unit="cup" qty="3/4"></IngR>
+<IngR name="milk" unit="cup" qty="1"></IngR>
+<IngR name="finely-chopped fresh rosemary" unit="teaspoon" qty="1"></IngR>
+<IngR name="= (or 1/2 tsp dried rosemary)"></IngR>
+<DirS>
+<DirT>
+Sift the dry ingredients together.  Add the cheese and mix to a light dough by hand or in a food processor, gradually adding the milk until the mixture is complete.  Add the rosemary and mix in well.
+</DirT>
+<DirT>
+Knead and roll out on a floured bench or board, cut into pieces.  Place on a cold baking tray and bake for 10 minutes at 450 degrees.
+</DirT>
+<DirT>
+This recipe yields 4 to 6 servings; 8 to 10 scones.
+</DirT>
+<DirT>
+Comments:  Try these scones with Wolfgang&apos;s Country Broccoli and Cheddar Soup.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Fettuccine With Roasted Red Peppers" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                   Fettuccine With Roasted Red Peppers
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Main Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+     1/4           cup  chopped onion
+  2        tablespoons  minced garlic
+  2        tablespoons  extra-virgin olive oil
+  2              large  red bell peppers - (abt 1 lb) -- roasted, peeled,
+                        cored, seeded, cut into 1/4" strips
+  1              pinch  red pepper flakes
+                        Kosher salt -- to taste
+                        Freshly-ground black pepper -- to taste
+     2/3           cup  chicken stock or broth
+  6             ounces  fettuccine - (fresh preferred)
+  1           teaspoon  chopped fresh thyme
+     1/2      teaspoon  sherry wine vinegar
+                        Chopped fresh cilantro -- for garnish
+
+In a medium skillet over medium-high heat, sautÈ onion and garlic in olive oil until translucent, 2 to 3 minutes.  Add roasted peppers and red pepper flakes; cook 3 to 4 minutes.  Add salt and pepper to taste.  Remove about 1/4 of the mixture; set aside.
+
+Pour stock into the pan with remaining pepper mixture; bring to a boil.  Transfer ingredients to a blender; puree until smooth.  Return to pan; keep warm.
+
+Cook noodles in boiling water until al dente, about 1 minute for fresh pasta.  (Cook dried pasta according to package directions.)  Drain noodles; stir into sauce.  Stir in thyme, vinegar and reserved pepper mixture.  Adjust seasoning to taste.  Garnish with cilantro.
+
+This recipe yields 2 servings.
+
+Source:
+  "The Chicago Tribune"
+S(Formatted for MC6):
+  "08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 140 Calories; 14g Fat (85.1% calories from fat); 1g Protein; 5g Carbohydrate; 1g Dietary Fiber; 0mg Cholesterol; 2mg Sodium.  Exchanges: 0 Grain(Starch); 1 Vegetable; 2 1/2 Fat.
+
+NOTES : Recipe from "Wolfgang Puck's Pizza, Pasta, and More" by Wolfgang Puck, Judy Gethers (Random House 2000)
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Main Dish
+</CatT>
+</CatS>
+<IngR name="chopped onion" unit="cup" qty="1/4"></IngR>
+<IngR name="minced garlic" unit="tablespoons" qty="2"></IngR>
+<IngR name="extra-virgin olive oil" unit="tablespoons" qty="2"></IngR>
+<IngR name="red bell peppers - (abt 1 lb)" unit="large" qty="2">
+<IPrp>
+roasted, peeled,
+</IPrp>
+</IngR>
+<IngR name="cored, seeded, cut into 1/4&quot; strips"></IngR>
+<IngR name="red pepper flakes" unit="pinch" qty="1"></IngR>
+<IngR name="Kosher salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="chicken stock or broth" unit="cup" qty="2/3"></IngR>
+<IngR name="fettuccine - (fresh preferred)" unit="ounces" qty="6"></IngR>
+<IngR name="chopped fresh thyme" unit="teaspoon" qty="1"></IngR>
+<IngR name="sherry wine vinegar" unit="teaspoon" qty="1/2"></IngR>
+<IngR name="Chopped fresh cilantro">
+<IPrp>
+for garnish
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+In a medium skillet over medium-high heat, sautÈ onion and garlic in olive oil until translucent, 2 to 3 minutes.  Add roasted peppers and red pepper flakes; cook 3 to 4 minutes.  Add salt and pepper to taste.  Remove about 1/4 of the mixture; set aside.
+</DirT>
+<DirT>
+Pour stock into the pan with remaining pepper mixture; bring to a boil.  Transfer ingredients to a blender; puree until smooth.  Return to pan; keep warm.
+</DirT>
+<DirT>
+Cook noodles in boiling water until al dente, about 1 minute for fresh pasta.  (Cook dried pasta according to package directions.)  Drain noodles; stir into sauce.  Stir in thyme, vinegar and reserved pepper mixture.  Adjust seasoning to taste.  Garnish with cilantro.
+</DirT>
+<DirT>
+This recipe yields 2 servings.
+</DirT>
+</DirS>
+<Srce>
+The Chicago Tribune
+</Srce>
+<AltS label="Formatted for MC6" source="08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+<Note>
+Recipe from &quot;Wolfgang Puck&apos;s Pizza, Pasta, and More&quot; by Wolfgang Puck, Judy Gethers (Random House 2000)
+</Note>
+</RcpE>
+<RcpE name="French Croque-Monsieur (Ham And Cheese) Sandwiches" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+            French Croque-Monsieur (Ham And Cheese) Sandwiches
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Accompaniment                   Sandwiches
+                Side Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  4                     thin slices dry bread
+  1         tablespoon  Dijon mustard
+  4             slices  Gruyere cheese
+  2                     thin slices ham
+  1         tablespoon  butter or extra-virgin olive oil
+
+Spread the bread with the mustard.  Place a slice of cheese on two slices of the bread, then a slice of ham, then another slice of cheese.  Cover with the remaining bread slices.
+
+Heat the butter or oil in a frying pan and cook the sandwiches on both sides until golden brown and the cheese has melted.  Serve immediately.
+
+This recipe yields 2 servings.
+
+Comments:  The perfect soup to go with a croque-monsieur?  Obviously Wolfgang's Country French Onion Soup.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 898 Calories; 70g Fat (70.5% calories from fat); 65g Protein; 1g Carbohydrate; trace Dietary Fiber; 238mg Cholesterol; 820mg Sodium.  Exchanges: 9 Lean Meat; 7 1/2 Fat; 0 Other Carbohydrates.
+
+
+Nutr. Assoc. : 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Sandwiches
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="thin slices dry bread" qty="4"></IngR>
+<IngR name="Dijon mustard" unit="tablespoon" qty="1"></IngR>
+<IngR name="Gruyere cheese" unit="slices" qty="4"></IngR>
+<IngR name="thin slices ham" qty="2"></IngR>
+<IngR name="butter or extra-virgin olive oil" unit="tablespoon" qty="1"></IngR>
+<DirS>
+<DirT>
+Spread the bread with the mustard.  Place a slice of cheese on two slices of the bread, then a slice of ham, then another slice of cheese.  Cover with the remaining bread slices.
+</DirT>
+<DirT>
+Heat the butter or oil in a frying pan and cook the sandwiches on both sides until golden brown and the cheese has melted.  Serve immediately.
+</DirT>
+<DirT>
+This recipe yields 2 servings.
+</DirT>
+<DirT>
+Comments:  The perfect soup to go with a croque-monsieur?  Obviously Wolfgang&apos;s Country French Onion Soup.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Frittata With Tomato, Onion, And Basil" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                  Frittata With Tomato, Onion, And Basil
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Accompaniment                   Omelets
+                Side Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1 1/2           cups  finely-sliced onion
+  2        tablespoons  extra-virgin olive oil
+     1/2           cup  chopped peeled seeded plum tomatoes
+  4                     eggs
+  1         tablespoon  freshly-grated Parmesan cheese
+     1/4           cup  coarsely-chopped fresh basil
+  1         tablespoon  butter
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+
+SautÈ the onion in olive oil in a frying pan.  Add a pinch of salt.  Lower the heat and cover.  Cook until the onion is a golden color.  Add the tomatoes and simmer for 20 minutes.  Spoon off the excess oil and transfer the vegetables to a bowl.
+
+In another bowl beat the eggs, add the onions and tomatoes, the grated parmesan and a little pepper.  Combine the ingredients and add the basil.
+
+In a cast-iron or non-stick skillet melt the butter and once it's foaming add the egg and vegetable mixture.  Make sure the heat's low and cook until the eggs are thick and set.
+
+Finish the dish for a few seconds under a broiler.  Serve in wedges.
+
+This recipe yields 2 servings.
+
+Comments:  Try this frittata with Wolfgang's Country Tomato & Basil Soup.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 301 Calories; 28g Fat (83.9% calories from fat); 11g Protein; 1g Carbohydrate; 0g Dietary Fiber; 390mg Cholesterol; 169mg Sodium.  Exchanges: 1 1/2 Lean Meat; 4 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Omelets
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="finely-sliced onion" unit="cups" qty="1 1/2"></IngR>
+<IngR name="extra-virgin olive oil" unit="tablespoons" qty="2"></IngR>
+<IngR name="chopped peeled seeded plum tomatoes" unit="cup" qty="1/2"></IngR>
+<IngR name="eggs" qty="4"></IngR>
+<IngR name="freshly-grated Parmesan cheese" unit="tablespoon" qty="1"></IngR>
+<IngR name="coarsely-chopped fresh basil" unit="cup" qty="1/4"></IngR>
+<IngR name="butter" unit="tablespoon" qty="1"></IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+SautÈ the onion in olive oil in a frying pan.  Add a pinch of salt.  Lower the heat and cover.  Cook until the onion is a golden color.  Add the tomatoes and simmer for 20 minutes.  Spoon off the excess oil and transfer the vegetables to a bowl.
+</DirT>
+<DirT>
+In another bowl beat the eggs, add the onions and tomatoes, the grated parmesan and a little pepper.  Combine the ingredients and add the basil.
+</DirT>
+<DirT>
+In a cast-iron or non-stick skillet melt the butter and once it&apos;s foaming add the egg and vegetable mixture.  Make sure the heat&apos;s low and cook until the eggs are thick and set.
+</DirT>
+<DirT>
+Finish the dish for a few seconds under a broiler.  Serve in wedges.
+</DirT>
+<DirT>
+This recipe yields 2 servings.
+</DirT>
+<DirT>
+Comments:  Try this frittata with Wolfgang&apos;s Country Tomato &amp; Basil Soup.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Ginger Creme Brulee" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                           Ginger Creme Brulee
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 6     Preparation Time :0:00
+Categories    : Custards                        Desserts
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  6                     egg yolks
+     1/2           cup  granulated sugar
+  3               cups  heavy cream
+  1                     vanilla bean -- split
+  3             pieces  fresh ginger - (dime-size)
+  7        tablespoons  unsalted butter -- softened
+     1/2           cup  brown cane sugar
+
+In a large metal bowl set over a pan of warm water on medium-low heat, whisk the egg yolks and granulated sugar together until the mixture is light and thick enough to form a ribbon.  Remove from the heat and carefully whisk in the cream.
+
+Add split vanilla bean and ginger slices.  Place bowl back over warm water and cook slowly for about 45 minutes, stirring frequently.  Take care that the water in the pan does not boil.  The custard is done when mixture adheres to your fingers without dripping.
+
+When the custard is done, remove from the heat and whisk in the butter, a little at a time until all of it has been incorporated.  Strain through a fine strainer into a bowl.  Ladle into 6 individual 4-ounce ramekins or a shallow 1-quart heat-proof dish.  Cover and chill in the refrigerator at least 6 hours.
+
+Preheat broiler.  Sieve over the custard an even layer of brown sugar approximately 1/4-inch thick.  With the rack as close as it will go to the broiler, place the ramekins under the hot broiler for about 3 minutes or until sugar caramelizes (you can use a propane torch to accomplish the same task).  Chill until ready to serve.
+
+This recipe yields 6 servings.
+
+Source:
+  "The Wolfgang Puck Cookbook: Recipes from Spago, Chinois and Points
+  East and West" by Wolfgang Puck, Jason Epstein (Random House 1996)"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 653 Calories; 63g Fat (84.6% calories from fat); 5g Protein; 20g Carbohydrate; 0g Dietary Fiber; 412mg Cholesterol; 54mg Sodium.  Exchanges: 1/2 Lean Meat; 1/2 Non-Fat Milk; 12 Fat; 1 Other Carbohydrates.
+
+NOTES : Recipe as published in the San Diego Union-Tribune
+Nutr. Assoc. : 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="6"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Custards
+</CatT>
+<CatT>
+Desserts
+</CatT>
+</CatS>
+<IngR name="egg yolks" qty="6"></IngR>
+<IngR name="granulated sugar" unit="cup" qty="1/2"></IngR>
+<IngR name="heavy cream" unit="cups" qty="3"></IngR>
+<IngR name="vanilla bean" qty="1">
+<IPrp>
+split
+</IPrp>
+</IngR>
+<IngR name="fresh ginger - (dime-size)" unit="pieces" qty="3"></IngR>
+<IngR name="unsalted butter" unit="tablespoons" qty="7">
+<IPrp>
+softened
+</IPrp>
+</IngR>
+<IngR name="brown cane sugar" unit="cup" qty="1/2"></IngR>
+<DirS>
+<DirT>
+In a large metal bowl set over a pan of warm water on medium-low heat, whisk the egg yolks and granulated sugar together until the mixture is light and thick enough to form a ribbon.  Remove from the heat and carefully whisk in the cream.
+</DirT>
+<DirT>
+Add split vanilla bean and ginger slices.  Place bowl back over warm water and cook slowly for about 45 minutes, stirring frequently.  Take care that the water in the pan does not boil.  The custard is done when mixture adheres to your fingers without dripping.
+</DirT>
+<DirT>
+When the custard is done, remove from the heat and whisk in the butter, a little at a time until all of it has been incorporated.  Strain through a fine strainer into a bowl.  Ladle into 6 individual 4-ounce ramekins or a shallow 1-quart heat-proof dish.  Cover and chill in the refrigerator at least 6 hours.
+</DirT>
+<DirT>
+Preheat broiler.  Sieve over the custard an even layer of brown sugar approximately 1/4-inch thick.  With the rack as close as it will go to the broiler, place the ramekins under the hot broiler for about 3 minutes or until sugar caramelizes (you can use a propane torch to accomplish the same task).  Chill until ready to serve.
+</DirT>
+<DirT>
+This recipe yields 6 servings.
+</DirT>
+</DirS>
+<Srce>
+The Wolfgang Puck Cookbook: Recipes from Spago, Chinois and Points East and West&quot; by Wolfgang Puck, Jason Epstein (Random House 1996)
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+<Note>
+Recipe as published in the San Diego Union-Tribune
+</Note>
+</RcpE>
+<RcpE name="Major Grey&apos;s Chutney Toast" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                        Major Grey's Chutney Toast
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 3     Preparation Time :0:00
+Categories    : Accompaniment                   Side Dish
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  4             slices  Italian or French bread/ 1/2" thick
+  2          teaspoons  spicy brown mustard
+  1                cup  grated extra-sharp Cheddar cheese
+  2        tablespoons  mango chutney (often called Major Grey's)
+  1              pinch  cayenne pepper
+
+Toast the bread lightly on both sides.  Mix together the chutney, mustard, and the cayenne in a small bowl.  Spread the mixture onto the toast slices.
+
+Divide the grated cheese among the toast slices and grill until the cheese is golden-colored and melted, between 2 and 4 minutes.
+
+This recipe yields 3 servings.
+
+Comments:  Try this exciting toast recipe with Wolfgang's Creamy Chicken Soup.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): trace Calories; trace Fat (36.1% calories from fat); trace Protein; trace Carbohydrate; trace Dietary Fiber; 0mg Cholesterol; trace Sodium.  Exchanges: 0 Grain(Starch); 0 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="3"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="Italian or French bread/ 1/2&quot; thick" unit="slices" qty="4"></IngR>
+<IngR name="spicy brown mustard" unit="teaspoons" qty="2"></IngR>
+<IngR name="grated extra-sharp Cheddar cheese" unit="cup" qty="1"></IngR>
+<IngR name="mango chutney (often called Major Grey&apos;s)" unit="tablespoons" qty="2"></IngR>
+<IngR name="cayenne pepper" unit="pinch" qty="1"></IngR>
+<DirS>
+<DirT>
+Toast the bread lightly on both sides.  Mix together the chutney, mustard, and the cayenne in a small bowl.  Spread the mixture onto the toast slices.
+</DirT>
+<DirT>
+Divide the grated cheese among the toast slices and grill until the cheese is golden-colored and melted, between 2 and 4 minutes.
+</DirT>
+<DirT>
+This recipe yields 3 servings.
+</DirT>
+<DirT>
+Comments:  Try this exciting toast recipe with Wolfgang&apos;s Creamy Chicken Soup.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Mushroom And Tomato Salad" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                        Mushroom And Tomato Salad
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Accompaniment                   Salads/Dressings
+                Side Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  2        tablespoons  olive or vegetable oil
+  2          teaspoons  lemon juice
+  1              pinch  salt
+  1              pinch  freshly-ground black pepper
+  2               cups  sliced fresh mushrooms
+  1                cup  halved cherry tomatoes
+  1         tablespoon  chopped chives
+  2          teaspoons  sesame seeds -- toasted
+  2                     lettuce leaves
+
+In a large bowl, whisk together oil, lemon juice, salt and pepper.  Add mushrooms; toss to coat.  Chill for at least 1 hour.
+
+Just before serving, stir in tomatoes and chives; sprinkle with sesame seeds.  Serve on a lettuce leaf.
+
+This recipe yields 2 servings
+
+Comments:  Soup and Salad.  Perfect partners.  Especially if you try this recipe with Wolfgang's Spicy Seven Bean with Italian Sausage Soup.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 53 Calories; 2g Fat (29.7% calories from fat); 3g Protein; 8g Carbohydrate; 2g Dietary Fiber; 0mg Cholesterol; 77mg Sodium.  Exchanges: 0 Grain(Starch); 0 Lean Meat; 1 1/2 Vegetable; 0 Fruit; 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Salads/Dressings
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="olive or vegetable oil" unit="tablespoons" qty="2"></IngR>
+<IngR name="lemon juice" unit="teaspoons" qty="2"></IngR>
+<IngR name="salt" unit="pinch" qty="1"></IngR>
+<IngR name="freshly-ground black pepper" unit="pinch" qty="1"></IngR>
+<IngR name="sliced fresh mushrooms" unit="cups" qty="2"></IngR>
+<IngR name="halved cherry tomatoes" unit="cup" qty="1"></IngR>
+<IngR name="chopped chives" unit="tablespoon" qty="1"></IngR>
+<IngR name="sesame seeds" unit="teaspoons" qty="2">
+<IPrp>
+toasted
+</IPrp>
+</IngR>
+<IngR name="lettuce leaves" qty="2"></IngR>
+<DirS>
+<DirT>
+In a large bowl, whisk together oil, lemon juice, salt and pepper.  Add mushrooms; toss to coat.  Chill for at least 1 hour.
+</DirT>
+<DirT>
+Just before serving, stir in tomatoes and chives; sprinkle with sesame seeds.  Serve on a lettuce leaf.
+</DirT>
+<DirT>
+This recipe yields 2 servings
+</DirT>
+<DirT>
+Comments:  Soup and Salad.  Perfect partners.  Especially if you try this recipe with Wolfgang&apos;s Spicy Seven Bean with Italian Sausage Soup.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Nutty Coleslaw" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                              Nutty Coleslaw
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Accompaniment                   Salads/Dressings
+                Side Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  2               cups  shredded white cabbage
+  1                     carrot -- grated
+  1         tablespoon  white wine vinegar
+  1         tablespoon  lemon juice
+  2        tablespoons  peanut butter -- smooth
+  2        tablespoons  mayonnaise
+  1         tablespoon  sesame oil
+  1           teaspoon  soy sauce
+     1/3           cup  unsalted roasted peanuts
+  1           teaspoon  butter
+                        Hot pepper sauce -- to taste
+  1           teaspoon  chopped fresh parsley
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+
+Wash the cabbage and then shred it into thin slices.
+
+Mix the vinegar, lemon juice, peanut butter, mayonnaise, sesame oil, and soy sauce in a bowl.  Blend well and season with salt, pepper, and a dash of hot pepper sauce if you like it fiery.
+
+Pour this mixture over the cabbage and grated carrot in a large bowl.  Toss energetically.  Place in the refrigerator, covered, for at least an hour.
+
+Meanwhile melt the butter in a saucepan, add the peanuts and stir for three or four minutes until the peanuts are golden brown.  Be careful to avoid burning the peanuts.  Drain on a paper towel, cool, and sprinkle with chopped parsley over the salad immediately prior to serving.
+
+This recipe yields 4 servings
+
+Comments:  This is the perfect accompaniment for Wolfgang's new Thick Country Potato Soup or Roast Chicken with Wild Rice.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 146 Calories; 14g Fat (83.3% calories from fat); 2g Protein; 4g Carbohydrate; 1g Dietary Fiber; 5mg Cholesterol; 179mg Sodium.  Exchanges: 0 Grain(Starch); 0 Lean Meat; 1/2 Vegetable; 0 Fruit; 2 Fat; 0 Other Carbohydrates.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Salads/Dressings
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="shredded white cabbage" unit="cups" qty="2"></IngR>
+<IngR name="carrot" qty="1">
+<IPrp>
+grated
+</IPrp>
+</IngR>
+<IngR name="white wine vinegar" unit="tablespoon" qty="1"></IngR>
+<IngR name="lemon juice" unit="tablespoon" qty="1"></IngR>
+<IngR name="peanut butter" unit="tablespoons" qty="2">
+<IPrp>
+smooth
+</IPrp>
+</IngR>
+<IngR name="mayonnaise" unit="tablespoons" qty="2"></IngR>
+<IngR name="sesame oil" unit="tablespoon" qty="1"></IngR>
+<IngR name="soy sauce" unit="teaspoon" qty="1"></IngR>
+<IngR name="unsalted roasted peanuts" unit="cup" qty="1/3"></IngR>
+<IngR name="butter" unit="teaspoon" qty="1"></IngR>
+<IngR name="Hot pepper sauce">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="chopped fresh parsley" unit="teaspoon" qty="1"></IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Wash the cabbage and then shred it into thin slices.
+</DirT>
+<DirT>
+Mix the vinegar, lemon juice, peanut butter, mayonnaise, sesame oil, and soy sauce in a bowl.  Blend well and season with salt, pepper, and a dash of hot pepper sauce if you like it fiery.
+</DirT>
+<DirT>
+Pour this mixture over the cabbage and grated carrot in a large bowl.  Toss energetically.  Place in the refrigerator, covered, for at least an hour.
+</DirT>
+<DirT>
+Meanwhile melt the butter in a saucepan, add the peanuts and stir for three or four minutes until the peanuts are golden brown.  Be careful to avoid burning the peanuts.  Drain on a paper towel, cool, and sprinkle with chopped parsley over the salad immediately prior to serving.
+</DirT>
+<DirT>
+This recipe yields 4 servings
+</DirT>
+<DirT>
+Comments:  This is the perfect accompaniment for Wolfgang&apos;s new Thick Country Potato Soup or Roast Chicken with Wild Rice.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Pears Poached In Zinfandel" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                        Pears Poached In Zinfandel
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Desserts                        Fruit
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  4                     ripe pears
+  1                     lemon
+  1             bottle  Zinfandel
+  1              whole  vanilla bean -- split in half
+     1/2      teaspoon  black peppercorns
+     1/2                cinnamon stick
+     1/3           cup  sugar
+  1                     basket fresh raspberries
+                        Fresh mint sprigs -- for garnish
+
+Peel, halve and core the pears.  Rub each half with lemon juice.
+
+In a heavy non-reactive saucepan, bring the Zinfandel, vanilla bean, peppercorns, cinnamon stick and sugar to a boil.  Reduce the heat, add the pears and poach them until tender, approximately 20 minutes.  (The time will vary depending upon the ripeness of the fruit.)
+
+Remove the pears and drain them thoroughly, reserving the poaching liquid.  Arrange 2 pear halves per serving on warm plates.
+
+Toss the raspberries in the poaching liquid, then drain them immediately so that they are warm but not mushy.
+
+Presentation:  Sprinkle the warm berries over the pears.  Garnish with the mint sprigs.
+
+This recipe yields 4 servings.
+
+Source:
+  "Wolfgang Puck"
+S(Formatted for MC6):
+  "08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 74 Calories; trace Fat (1.3% calories from fat); trace Protein; 20g Carbohydrate; 1g Dietary Fiber; 0mg Cholesterol; 1mg Sodium.  Exchanges: 0 Grain(Starch); 0 Fruit; 0 Fat; 1 Other Carbohydrates.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Desserts
+</CatT>
+<CatT>
+Fruit
+</CatT>
+</CatS>
+<IngR name="ripe pears" qty="4"></IngR>
+<IngR name="lemon" qty="1"></IngR>
+<IngR name="Zinfandel" unit="bottle" qty="1"></IngR>
+<IngR name="vanilla bean" unit="whole" qty="1">
+<IPrp>
+split in half
+</IPrp>
+</IngR>
+<IngR name="black peppercorns" unit="teaspoon" qty="1/2"></IngR>
+<IngR name="cinnamon stick" qty="1/2"></IngR>
+<IngR name="sugar" unit="cup" qty="1/3"></IngR>
+<IngR name="basket fresh raspberries" qty="1"></IngR>
+<IngR name="Fresh mint sprigs">
+<IPrp>
+for garnish
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Peel, halve and core the pears.  Rub each half with lemon juice.
+</DirT>
+<DirT>
+In a heavy non-reactive saucepan, bring the Zinfandel, vanilla bean, peppercorns, cinnamon stick and sugar to a boil.  Reduce the heat, add the pears and poach them until tender, approximately 20 minutes.  (The time will vary depending upon the ripeness of the fruit.)
+</DirT>
+<DirT>
+Remove the pears and drain them thoroughly, reserving the poaching liquid.  Arrange 2 pear halves per serving on warm plates.
+</DirT>
+<DirT>
+Toss the raspberries in the poaching liquid, then drain them immediately so that they are warm but not mushy.
+</DirT>
+<DirT>
+Presentation:  Sprinkle the warm berries over the pears.  Garnish with the mint sprigs.
+</DirT>
+<DirT>
+This recipe yields 4 servings.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck
+</Srce>
+<AltS label="Formatted for MC6" source="08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Picasso Chicken Croquettes" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                        Picasso Chicken Croquettes
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Main Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+     1/4           cup  clarified butter
+     1/4           cup  white onion brunoise -- see * Note
+  1                cup  all-purpose flour -- divided
+     1/3           cup  warm milk
+     1/3           cup  celery root brunoise -- see * Note
+     1/3           cup  carrots brunoise -- see * Note
+  6             ounces  cooked boneless chicken -- chopped finely
+  3                     eggs -- beaten
+     3/4           cup  bread crumbs
+     1/2           cup  vegetable oil
+
+* Note:  To make brunoise, finely dice or shred vegetables.  SautÈ each vegetable in 2 tablespoons butter over medium heat for about 3 minutes.
+
+In a large saucepan, place clarified butter and white onion brunoise.  SautÈ onions until tender, about 5 minutes.  Stir in 2/3 cup flour; mix well to form paste.  Gradually stir in warm milk and stir with wooden spoon until smooth.
+
+Add celery root and carrots to flour paste mix; stir well to incorporate.  Add chicken and mix well.  Place croquette mixture in pan; oil to prevent sticking.  Cool overnight.
+
+Shape paste into dumplings.  Dip dumplings individually first in 1/3 cup flour, then eggs and bread crumbs.  Heat oil over medium-high heat; fry dumplings about 3 minute each, or until golden brown in color.
+
+This recipe yields 4 servings.
+
+Source:
+  "The Bergen Record, 09-20-2000"
+S(Formatted for MC6):
+  "08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 609 Calories; 45g Fat (66.9% calories from fat); 11g Protein; 40g Carbohydrate; 1g Dietary Fiber; 176mg Cholesterol; 227mg Sodium.  Exchanges: 2 1/2 Grain(Starch); 1/2 Lean Meat; 0 Non-Fat Milk; 8 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Main Dish
+</CatT>
+</CatS>
+<IngR name="clarified butter" unit="cup" qty="1/4"></IngR>
+<IngR name="white onion brunoise" unit="cup" qty="1/4">
+<IPrp>
+see * Note
+</IPrp>
+</IngR>
+<IngR name="all-purpose flour" unit="cup" qty="1">
+<IPrp>
+divided
+</IPrp>
+</IngR>
+<IngR name="warm milk" unit="cup" qty="1/3"></IngR>
+<IngR name="celery root brunoise" unit="cup" qty="1/3">
+<IPrp>
+see * Note
+</IPrp>
+</IngR>
+<IngR name="carrots brunoise" unit="cup" qty="1/3">
+<IPrp>
+see * Note
+</IPrp>
+</IngR>
+<IngR name="cooked boneless chicken" unit="ounces" qty="6">
+<IPrp>
+chopped finely
+</IPrp>
+</IngR>
+<IngR name="eggs" qty="3">
+<IPrp>
+beaten
+</IPrp>
+</IngR>
+<IngR name="bread crumbs" unit="cup" qty="3/4"></IngR>
+<IngR name="vegetable oil" unit="cup" qty="1/2"></IngR>
+<DirS>
+<DirT>
+* Note:  To make brunoise, finely dice or shred vegetables.  SautÈ each vegetable in 2 tablespoons butter over medium heat for about 3 minutes.
+</DirT>
+<DirT>
+In a large saucepan, place clarified butter and white onion brunoise.  SautÈ onions until tender, about 5 minutes.  Stir in 2/3 cup flour; mix well to form paste.  Gradually stir in warm milk and stir with wooden spoon until smooth.
+</DirT>
+<DirT>
+Add celery root and carrots to flour paste mix; stir well to incorporate.  Add chicken and mix well.  Place croquette mixture in pan; oil to prevent sticking.  Cool overnight.
+</DirT>
+<DirT>
+Shape paste into dumplings.  Dip dumplings individually first in 1/3 cup flour, then eggs and bread crumbs.  Heat oil over medium-high heat; fry dumplings about 3 minute each, or until golden brown in color.
+</DirT>
+<DirT>
+This recipe yields 4 servings.
+</DirT>
+</DirS>
+<Srce>
+The Bergen Record, 09-20-2000
+</Srce>
+<AltS label="Formatted for MC6" source="08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Pink And Yellow Salad" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                          Pink And Yellow Salad
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Accompaniment                   Salads/Dressings
+                Side Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1              small  butter or Boston lettuce head
+  4                     radishes -- thinly sliced
+  1                cup  shredded white cabbage
+     1/4           cup  frozen or fresh sweetcorn
+  2             ounces  cream cheese
+     1/4           cup  heavy cream
+  1         tablespoon  ketchup
+  1           teaspoon  lemon juice
+  1           teaspoon  paprika
+  1           teaspoon  Worcestershire Sauce
+                        Hot pepper sauce -- to taste
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+
+Wash the lettuce and dry it thoroughly.  Tear it into one-inch squares.  Mix the lettuce, radishes, cabbage and corn in a bowl and split them onto two serving plates.
+
+Place the cheese, cream and ketchup in a small bowl and mix together with a fork.  Add a squirt of lemon juice, the paprika, Worcestershire sauce and as much hot pepper sauce as you enjoy.  Taste it, adjust it if necessary, and serve alongside the salad.
+
+This recipe yields 2 servings.
+
+Comments:  This is the perfect salad to accompany Wolfgang's Chicken with Egg Noodles or Chicken with Sweet Corn Soup.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 217 Calories; 21g Fat (85.0% calories from fat); 3g Protein; 5g Carbohydrate; trace Dietary Fiber; 72mg Cholesterol; 211mg Sodium.  Exchanges: 0 Grain(Starch); 1/2 Lean Meat; 0 Vegetable; 0 Fruit; 0 Non-Fat Milk; 4 Fat; 0 Other Carbohydrates.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Salads/Dressings
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="butter or Boston lettuce head" unit="small" qty="1"></IngR>
+<IngR name="radishes" qty="4">
+<IPrp>
+thinly sliced
+</IPrp>
+</IngR>
+<IngR name="shredded white cabbage" unit="cup" qty="1"></IngR>
+<IngR name="frozen or fresh sweetcorn" unit="cup" qty="1/4"></IngR>
+<IngR name="cream cheese" unit="ounces" qty="2"></IngR>
+<IngR name="heavy cream" unit="cup" qty="1/4"></IngR>
+<IngR name="ketchup" unit="tablespoon" qty="1"></IngR>
+<IngR name="lemon juice" unit="teaspoon" qty="1"></IngR>
+<IngR name="paprika" unit="teaspoon" qty="1"></IngR>
+<IngR name="Worcestershire Sauce" unit="teaspoon" qty="1"></IngR>
+<IngR name="Hot pepper sauce">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Wash the lettuce and dry it thoroughly.  Tear it into one-inch squares.  Mix the lettuce, radishes, cabbage and corn in a bowl and split them onto two serving plates.
+</DirT>
+<DirT>
+Place the cheese, cream and ketchup in a small bowl and mix together with a fork.  Add a squirt of lemon juice, the paprika, Worcestershire sauce and as much hot pepper sauce as you enjoy.  Taste it, adjust it if necessary, and serve alongside the salad.
+</DirT>
+<DirT>
+This recipe yields 2 servings.
+</DirT>
+<DirT>
+Comments:  This is the perfect salad to accompany Wolfgang&apos;s Chicken with Egg Noodles or Chicken with Sweet Corn Soup.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Pizza With Smoked Salmon And Caviar" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                   Pizza With Smoked Salmon And Caviar
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Pizza
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1             recipe  Pizza Dough -- (see recipe)
+  3             ounces  smoked salmon - (to 4)
+     1/4           cup  extra-virgin olive oil
+     1/2        medium  red onion -- cut julienne strips
+     1/4         bunch  fresh dill -- minced, plush
+  4              small  dill sprigs -- for garnish
+     1/3           cup  sour cream or creme fraiche
+                        Freshly-ground black pepper -- to taste
+  4        tablespoons  domestic golden caviar - (heaping)
+  1           teaspoon  black caviar - (heaping)
+
+To prepare before you are ready to bake the pizzas, preheat the oven with a pizza stone inside to 500 degrees for 30 minutes.
+
+Cut the salmon into paper-thin slices. Reserve.
+
+Roll or stretch the dough into four 8-inch circles.  Place the pizzas on a lightly floured wooden peel.  Brush the center of each pizza to within 1-inch of the edge with olive oil and sprinkle it with some of red onion.  Slide the pizza onto the stone and bake 8 to 12 minutes or until crust is golden brown.
+
+Mix the dill with the sour cream or creme fraiche and freshly ground pepper to taste.  Transfer the pizzas to heated dinner plates and spread them with the sour cream mixture.
+
+Divide the salmon, and arrange decoratively over the cream.  Place a spoonful of golden caviar in the center of each pizza, then spoon a little of the black caviar into the center of the golden caviar.
+
+This recipe yields 4 servings.
+
+Source:
+  "Wolfgang Puck"
+S(Formatted for MC6):
+  "08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 321 Calories; 16g Fat (44.2% calories from fat); 6g Protein; 39g Carbohydrate; 1g Dietary Fiber; 0mg Cholesterol; 4mg Sodium.  Exchanges: 2 1/2 Grain(Starch); 1/2 Vegetable; 3 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Pizza
+</CatT>
+</CatS>
+<IngR name="Pizza Dough" unit="recipe" qty="1">
+<IPrp>
+(see recipe)
+</IPrp>
+</IngR>
+<IngR name="smoked salmon - (to 4)" unit="ounces" qty="3"></IngR>
+<IngR name="extra-virgin olive oil" unit="cup" qty="1/4"></IngR>
+<IngR name="red onion" unit="medium" qty="1/2">
+<IPrp>
+cut julienne strips
+</IPrp>
+</IngR>
+<IngR name="fresh dill" unit="bunch" qty="1/4">
+<IPrp>
+minced, plush
+</IPrp>
+</IngR>
+<IngR name="dill sprigs" unit="small" qty="4">
+<IPrp>
+for garnish
+</IPrp>
+</IngR>
+<IngR name="sour cream or creme fraiche" unit="cup" qty="1/3"></IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="domestic golden caviar - (heaping)" unit="tablespoons" qty="4"></IngR>
+<IngR name="black caviar - (heaping)" unit="teaspoon" qty="1"></IngR>
+<DirS>
+<DirT>
+To prepare before you are ready to bake the pizzas, preheat the oven with a pizza stone inside to 500 degrees for 30 minutes.
+</DirT>
+<DirT>
+Cut the salmon into paper-thin slices. Reserve.
+</DirT>
+<DirT>
+Roll or stretch the dough into four 8-inch circles.  Place the pizzas on a lightly floured wooden peel.  Brush the center of each pizza to within 1-inch of the edge with olive oil and sprinkle it with some of red onion.  Slide the pizza onto the stone and bake 8 to 12 minutes or until crust is golden brown.
+</DirT>
+<DirT>
+Mix the dill with the sour cream or creme fraiche and freshly ground pepper to taste.  Transfer the pizzas to heated dinner plates and spread them with the sour cream mixture.
+</DirT>
+<DirT>
+Divide the salmon, and arrange decoratively over the cream.  Place a spoonful of golden caviar in the center of each pizza, then spoon a little of the black caviar into the center of the golden caviar.
+</DirT>
+<DirT>
+This recipe yields 4 servings.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck
+</Srce>
+<AltS label="Formatted for MC6" source="08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Portabella Mushroom Risotto Spago" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                    Portabella Mushroom Risotto Spago
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Rice/Grains
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+     1/4           cup  peanut oil
+  1 1/2           cups  minced onion
+  1              large  garlic clove -- minced
+  2               cups  arborio rice
+  1                cup  dry white wine
+  8             ounces  portobello mushrooms
+  3        tablespoons  olive oil
+  6               cups  chicken broth
+  4        tablespoons  chilled butter -- cut small pieces
+     1/2           cup  grated parmesan cheese -- divided
+  1         tablespoon  chopped parsley
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+
+In a medium-sized heavy saucepan, heat peanut oil.  Add onion and garlic; sautÈ and stir until softened, about 4 minutes.  Add rice; continue to cook and stir, coating the rice with oil.  Add the wine; cook, stirring often, until the liquid is absorbed.
+
+Meanwhile, trim mushrooms.  With a spoon, remove the gills (the dark portion) from the mushrooms; cut mushrooms into bite-sized pieces.
+
+In a medium skillet, heat olive oil.  Add mushrooms; cook and stir until tender, 5 to 6 minutes.  Pour 3 cups of the broth into the rice, over medium-high heat stir until almost al dente.  Stir in the cooked mushrooms and the additional broth, as needed.  The risotto should be creamy, not runny.
+
+Remove saucepan from heat.  Vigorously beat in butter and 1/4 cup of the Parmesan cheese until completely dissolved.  Stir in parsley and season to taste with salt and pepper.  Serve with remaining 1/4 cup Parmesan cheese.
+
+This recipe yields 4 servings.
+
+Source:
+  "http://cjonline.com/stories/051700/foo_vegas.html"
+S(Formatted for MC6):
+  "08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 723 Calories; 29g Fat (38.7% calories from fat); 20g Protein; 84g Carbohydrate; 2g Dietary Fiber; 8mg Cholesterol; 1355mg Sodium.  Exchanges: 4 1/2 Grain(Starch); 1 1/2 Lean Meat; 1 1/2 Vegetable; 5 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Rice/Grains
+</CatT>
+</CatS>
+<IngR name="peanut oil" unit="cup" qty="1/4"></IngR>
+<IngR name="minced onion" unit="cups" qty="1 1/2"></IngR>
+<IngR name="garlic clove" unit="large" qty="1">
+<IPrp>
+minced
+</IPrp>
+</IngR>
+<IngR name="arborio rice" unit="cups" qty="2"></IngR>
+<IngR name="dry white wine" unit="cup" qty="1"></IngR>
+<IngR name="portobello mushrooms" unit="ounces" qty="8"></IngR>
+<IngR name="olive oil" unit="tablespoons" qty="3"></IngR>
+<IngR name="chicken broth" unit="cups" qty="6"></IngR>
+<IngR name="chilled butter" unit="tablespoons" qty="4">
+<IPrp>
+cut small pieces
+</IPrp>
+</IngR>
+<IngR name="grated parmesan cheese" unit="cup" qty="1/2">
+<IPrp>
+divided
+</IPrp>
+</IngR>
+<IngR name="chopped parsley" unit="tablespoon" qty="1"></IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+In a medium-sized heavy saucepan, heat peanut oil.  Add onion and garlic; sautÈ and stir until softened, about 4 minutes.  Add rice; continue to cook and stir, coating the rice with oil.  Add the wine; cook, stirring often, until the liquid is absorbed.
+</DirT>
+<DirT>
+Meanwhile, trim mushrooms.  With a spoon, remove the gills (the dark portion) from the mushrooms; cut mushrooms into bite-sized pieces.
+</DirT>
+<DirT>
+In a medium skillet, heat olive oil.  Add mushrooms; cook and stir until tender, 5 to 6 minutes.  Pour 3 cups of the broth into the rice, over medium-high heat stir until almost al dente.  Stir in the cooked mushrooms and the additional broth, as needed.  The risotto should be creamy, not runny.
+</DirT>
+<DirT>
+Remove saucepan from heat.  Vigorously beat in butter and 1/4 cup of the Parmesan cheese until completely dissolved.  Stir in parsley and season to taste with salt and pepper.  Serve with remaining 1/4 cup Parmesan cheese.
+</DirT>
+<DirT>
+This recipe yields 4 servings.
+</DirT>
+</DirS>
+<Srce>
+http://cjonline.com/stories/051700/foo_vegas.html
+</Srce>
+<AltS label="Formatted for MC6" source="08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Really Orange Salad" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                           Really Orange Salad
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Accompaniment                   Salads/Dressings
+                Side Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  2                     carrots
+  2              small  oranges
+  2        tablespoons  flavored vinegar
+                        = (raspberry or strawberry)
+  1         tablespoon  orange juice
+  4        tablespoons  extra-virgin olive oil
+  1         tablespoon  grated fresh ginger
+  3                     really crisp lettuce leaves - (to 4)
+                        = (Romaine is perfect)
+     1/2      teaspoon  caraway seeds
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+
+Clean the carrots and julienne them (small strips).  Steam them for ten minutes and allow to cool.
+
+Skin the oranges, remove the pith, and slice into thin slices.
+
+Reduce the vinegar in a small pot over a low heat to half its quantity.  Add a pinch of salt and pepper, the orange juice, and 4 tablespoons of olive oil.  Pour this dressing over the carrots, add the ginger, and mix well.  Chill in the refrigerator for an hour.
+
+Wash and dry the lettuce; shred or cut into small pieces.  Arrange the oranges on the bottom of a serving plate, then add the lettuce, carrots, and dressing.  Sprinkle caraway seeds over salad prior to serving.
+
+This recipe yields 2 servings.
+
+Comments:  The perfect partner for Wolfgang's Hearty Vegetable Beef Soup.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 337 Calories; 27g Fat (70.4% calories from fat); 2g Protein; 24g Carbohydrate; 6g Dietary Fiber; 0mg Cholesterol; 25mg Sodium.  Exchanges: 1 1/2 Vegetable; 1 Fruit; 5 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Salads/Dressings
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="carrots" qty="2"></IngR>
+<IngR name="oranges" unit="small" qty="2"></IngR>
+<IngR name="flavored vinegar" unit="tablespoons" qty="2"></IngR>
+<IngR name="= (raspberry or strawberry)"></IngR>
+<IngR name="orange juice" unit="tablespoon" qty="1"></IngR>
+<IngR name="extra-virgin olive oil" unit="tablespoons" qty="4"></IngR>
+<IngR name="grated fresh ginger" unit="tablespoon" qty="1"></IngR>
+<IngR name="really crisp lettuce leaves - (to 4)" qty="3"></IngR>
+<IngR name="= (Romaine is perfect)"></IngR>
+<IngR name="caraway seeds" unit="teaspoon" qty="1/2"></IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Clean the carrots and julienne them (small strips).  Steam them for ten minutes and allow to cool.
+</DirT>
+<DirT>
+Skin the oranges, remove the pith, and slice into thin slices.
+</DirT>
+<DirT>
+Reduce the vinegar in a small pot over a low heat to half its quantity.  Add a pinch of salt and pepper, the orange juice, and 4 tablespoons of olive oil.  Pour this dressing over the carrots, add the ginger, and mix well.  Chill in the refrigerator for an hour.
+</DirT>
+<DirT>
+Wash and dry the lettuce; shred or cut into small pieces.  Arrange the oranges on the bottom of a serving plate, then add the lettuce, carrots, and dressing.  Sprinkle caraway seeds over salad prior to serving.
+</DirT>
+<DirT>
+This recipe yields 2 servings.
+</DirT>
+<DirT>
+Comments:  The perfect partner for Wolfgang&apos;s Hearty Vegetable Beef Soup.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Roasted Chicken Breast, Wild Mushroom Risotto, Black Truffle" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+       Roasted Chicken Breast, Wild Mushroom Risotto, Black Truffle
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Main Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  3             ounces  goat cheese
+  1              ounce  black truffles -- divided
+  4              whole  chicken breasts -- boned
+  5        tablespoons  olive oil -- divided
+                        Freshly-ground black pepper
+     1/2           cup  port
+  5 1/2           cups  chicken stock -- heated, divided
+  2        tablespoons  unsalted butter
+     1/2           cup  peanut oil
+  1                cup  minced onion
+  1              large  garlic clove -- minced
+  2               cups  Arborio rice
+  1                cup  dry white wine
+  2               cups  mushroom stock -- heated, divided
+     1/2         pound  wild mushrooms -- stems reserved
+                        for stock
+                        Salt -- to taste
+     1/4           cup  chopped peeled seeded tomato
+  4        tablespoons  unsalted butter -- chilled, and
+                        cut into small pieces
+     1/2           cup  grated Parmesan cheese
+  1              large  pinch chopped Italian parsley
+
+For the chicken:  Preheat oven to 350 degrees.  In small bowl, crumble goat cheese and combine with 1 teaspoon chopped black  Gently slip your fingers under skin of each chicken breast, lifting it slightly.  Divide cheese mixture and stuff under skin, patting down to distribute it evenly.
+
+Rub each breast with only 2 tablespoons of olive oil, and season with salt and pepper to taste.  Put chicken breast, skin-side down, on grill or sear in sautÈ pan until golden brown.  Turn breast to meat side and sear for 5 minutes more.  Finish cooking in 350 degree oven for 10 to 15 minutes until chicken breast is done.  Do not overcook.
+
+Remove chicken from pan and keep warm.  Pour out any fat that may remain and deglaze pan with port.  Add only 1/2 cup of chicken stock and reduce just until sauce thickens.  Whisk in butter and season with salt and pepper to taste.
+
+For the risotto:  In medium-size heavy saucepan, heat peanut oil.  Over medium-high heat, sautÈ onion and garlic just to soften, stirring often with wooden spoon, about 3 to 4 minutes.  Add rice and continue to stir, coating rice with oil and onion.
+
+Deglaze with white wine and cook until liquid is absorbed, stirring often.  Pour in enough mushroom and/or chicken stock to cover, about 3 cups.  Cook, stirring often, until liquid is absorbed.
+
+Meanwhile, in medium skillet, heat remaining 3 tablespoons of olive oil.  If mushrooms are large, cut them into bite-size pieces and sautÈ over medium-high heat just to soften, 3 to 4 minutes.  Set aside.
+
+Pour 3 more cups of stock into rice, turn heat to high and stir in generous pinch of salt and tomatoes.  Stir until almost al dente.  Stir in mushrooms and, if necessary, remaining 1 cup of stock.  Risotto should be creamy, not runny.  Remove from heat and vigorously beat in chilled butter and Parmesan cheese until completely melted.  Stir in parsley and season with salt and pepper to taste.
+
+For the presentation:  Place mushroom risotto on heated plate, top with grilled chicken breast and spoon a little sauce over.  Using a mandoline, thinly slice remaining truffles and sprinkle over each chicken breast.  Serve immediately.
+
+This recipe yields 4 servings.
+
+Comments:  Truffles, available at gourmet food stores, are quite expensive.  If youíre on a budget, this recipe may be prepared without them.
+
+Source:
+  "Homestore.com Inc."
+S(Formatted for MC6):
+  "08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 1601 Calories; 99g Fat (58.3% calories from fat); 80g Protein; 80g Carbohydrate; 1g Dietary Fiber; 262mg Cholesterol; 3418mg Sodium.  Exchanges: 4 1/2 Grain(Starch); 10 Lean Meat; 1/2 Vegetable; 13 1/2 Fat.
+
+NOTES : This dish comes from the menu of the 72nd Academy Awards Governors Ball in March 2000.
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Main Dish
+</CatT>
+</CatS>
+<IngR name="goat cheese" unit="ounces" qty="3"></IngR>
+<IngR name="black truffles" unit="ounce" qty="1">
+<IPrp>
+divided
+</IPrp>
+</IngR>
+<IngR name="chicken breasts" unit="whole" qty="4">
+<IPrp>
+boned
+</IPrp>
+</IngR>
+<IngR name="olive oil" unit="tablespoons" qty="5">
+<IPrp>
+divided
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper"></IngR>
+<IngR name="port" unit="cup" qty="1/2"></IngR>
+<IngR name="chicken stock" unit="cups" qty="5 1/2">
+<IPrp>
+heated, divided
+</IPrp>
+</IngR>
+<IngR name="unsalted butter" unit="tablespoons" qty="2"></IngR>
+<IngR name="peanut oil" unit="cup" qty="1/2"></IngR>
+<IngR name="minced onion" unit="cup" qty="1"></IngR>
+<IngR name="garlic clove" unit="large" qty="1">
+<IPrp>
+minced
+</IPrp>
+</IngR>
+<IngR name="Arborio rice" unit="cups" qty="2"></IngR>
+<IngR name="dry white wine" unit="cup" qty="1"></IngR>
+<IngR name="mushroom stock" unit="cups" qty="2">
+<IPrp>
+heated, divided
+</IPrp>
+</IngR>
+<IngR name="wild mushrooms" unit="pound" qty="1/2">
+<IPrp>
+stems reserved
+</IPrp>
+</IngR>
+<IngR name="for stock"></IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="chopped peeled seeded tomato" unit="cup" qty="1/4"></IngR>
+<IngR name="unsalted butter" unit="tablespoons" qty="4">
+<IPrp>
+chilled, and
+</IPrp>
+</IngR>
+<IngR name="cut into small pieces"></IngR>
+<IngR name="grated Parmesan cheese" unit="cup" qty="1/2"></IngR>
+<IngR name="pinch chopped Italian parsley" unit="large" qty="1"></IngR>
+<DirS>
+<DirT>
+For the chicken:  Preheat oven to 350 degrees.  In small bowl, crumble goat cheese and combine with 1 teaspoon chopped black  Gently slip your fingers under skin of each chicken breast, lifting it slightly.  Divide cheese mixture and stuff under skin, patting down to distribute it evenly.
+</DirT>
+<DirT>
+Rub each breast with only 2 tablespoons of olive oil, and season with salt and pepper to taste.  Put chicken breast, skin-side down, on grill or sear in sautÈ pan until golden brown.  Turn breast to meat side and sear for 5 minutes more.  Finish cooking in 350 degree oven for 10 to 15 minutes until chicken breast is done.  Do not overcook.
+</DirT>
+<DirT>
+Remove chicken from pan and keep warm.  Pour out any fat that may remain and deglaze pan with port.  Add only 1/2 cup of chicken stock and reduce just until sauce thickens.  Whisk in butter and season with salt and pepper to taste.
+</DirT>
+<DirT>
+For the risotto:  In medium-size heavy saucepan, heat peanut oil.  Over medium-high heat, sautÈ onion and garlic just to soften, stirring often with wooden spoon, about 3 to 4 minutes.  Add rice and continue to stir, coating rice with oil and onion.
+</DirT>
+<DirT>
+Deglaze with white wine and cook until liquid is absorbed, stirring often.  Pour in enough mushroom and/or chicken stock to cover, about 3 cups.  Cook, stirring often, until liquid is absorbed.
+</DirT>
+<DirT>
+Meanwhile, in medium skillet, heat remaining 3 tablespoons of olive oil.  If mushrooms are large, cut them into bite-size pieces and sautÈ over medium-high heat just to soften, 3 to 4 minutes.  Set aside.
+</DirT>
+<DirT>
+Pour 3 more cups of stock into rice, turn heat to high and stir in generous pinch of salt and tomatoes.  Stir until almost al dente.  Stir in mushrooms and, if necessary, remaining 1 cup of stock.  Risotto should be creamy, not runny.  Remove from heat and vigorously beat in chilled butter and Parmesan cheese until completely melted.  Stir in parsley and season with salt and pepper to taste.
+</DirT>
+<DirT>
+For the presentation:  Place mushroom risotto on heated plate, top with grilled chicken breast and spoon a little sauce over.  Using a mandoline, thinly slice remaining truffles and sprinkle over each chicken breast.  Serve immediately.
+</DirT>
+<DirT>
+This recipe yields 4 servings.
+</DirT>
+<DirT>
+Comments:  Truffles, available at gourmet food stores, are quite expensive.  If youíre on a budget, this recipe may be prepared without them.
+</DirT>
+</DirS>
+<Srce>
+Homestore.com Inc.
+</Srce>
+<AltS label="Formatted for MC6" source="08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+<Note>
+This dish comes from the menu of the 72nd Academy Awards Governors Ball in March 2000.
+</Note>
+</RcpE>
+<RcpE name="Saffron Risotto With Grilled Shrimp" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                   Saffron Risotto With Grilled Shrimp
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Rice/Grains                     Seafood
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  6        tablespoons  unsalted butter -- divided
+  3        tablespoons  extra-virgin olive oil -- divided
+  1           teaspoon  minced garlic
+  1           teaspoon  minced shallots
+     1/2           cup  arborio rice
+  1              pinch  saffron threads
+     1/4           cup  dry white wine
+  1                cup  hot chicken stock - (to 1 1/2)
+     1/4           cup  freshly-grated Parmesan cheese
+                        Kosher salt -- to taste
+                        Freshly-ground white pepper -- to taste
+  8              large  peeled deveined shrimp -- halved
+                        lengthwise
+     1/2      teaspoon  fresh lemon juice
+                        Minced fresh parsley leaves
+
+To cook rice:  In medium saucepan, heat 2 tablespoons butter and 2 tablespoons oil. Add garlic and shallots.  SautÈ until soft.  (Do not brown.)  Add rice and saffron.  SautÈ until well coated with oil.  Deglaze pan with wine.  Reduce until almost dry.
+
+Using 4-ounce ladle, add 1 ladle of boiling stock to rice.  Stir over medium heat until stock is absorbed and rice is almost dry.  Add another ladle of stock.  Repeat procedure until all stock has been added or just until rice is tender but still firm.  (It should be moist and creamy but not runny.)  Remove from heat.  Stir in remaining 4 tablespoons butter and Parmesan cheese.  Season with salt and pepper.  Add more stock if necessary.
+
+To grill shrimp:  Season shrimp with 1 tablespoon oil, salt and pepper.  Grill just until done. Sprinkle with lemon juice and parsley.
+
+To serve:  Divide saffron risotto between 2 warm serving plates.  Top each with half of grilled shrimp.  Serve immediately.
+
+This recipe yields 2 servings.
+
+Comments:  Instead of adding the shrimp to the risotto, adding them on top makes the dish look prettier and adds different flavors.
+
+Source:
+  "Pioneer Planet, 12-10-2000"
+S(Formatted for MC6):
+  "08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 674 Calories; 55g Fat (74.7% calories from fat); 4g Protein; 38g Carbohydrate; trace Dietary Fiber; 93mg Cholesterol; 15mg Sodium.  Exchanges: 2 1/2 Grain(Starch); 0 Vegetable; 0 Fruit; 11 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Rice/Grains
+</CatT>
+<CatT>
+Seafood
+</CatT>
+</CatS>
+<IngR name="unsalted butter" unit="tablespoons" qty="6">
+<IPrp>
+divided
+</IPrp>
+</IngR>
+<IngR name="extra-virgin olive oil" unit="tablespoons" qty="3">
+<IPrp>
+divided
+</IPrp>
+</IngR>
+<IngR name="minced garlic" unit="teaspoon" qty="1"></IngR>
+<IngR name="minced shallots" unit="teaspoon" qty="1"></IngR>
+<IngR name="arborio rice" unit="cup" qty="1/2"></IngR>
+<IngR name="saffron threads" unit="pinch" qty="1"></IngR>
+<IngR name="dry white wine" unit="cup" qty="1/4"></IngR>
+<IngR name="hot chicken stock - (to 1 1/2)" unit="cup" qty="1"></IngR>
+<IngR name="freshly-grated Parmesan cheese" unit="cup" qty="1/4"></IngR>
+<IngR name="Kosher salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground white pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="peeled deveined shrimp" unit="large" qty="8">
+<IPrp>
+halved
+</IPrp>
+</IngR>
+<IngR name="lengthwise"></IngR>
+<IngR name="fresh lemon juice" unit="teaspoon" qty="1/2"></IngR>
+<IngR name="Minced fresh parsley leaves"></IngR>
+<DirS>
+<DirT>
+To cook rice:  In medium saucepan, heat 2 tablespoons butter and 2 tablespoons oil. Add garlic and shallots.  SautÈ until soft.  (Do not brown.)  Add rice and saffron.  SautÈ until well coated with oil.  Deglaze pan with wine.  Reduce until almost dry.
+</DirT>
+<DirT>
+Using 4-ounce ladle, add 1 ladle of boiling stock to rice.  Stir over medium heat until stock is absorbed and rice is almost dry.  Add another ladle of stock.  Repeat procedure until all stock has been added or just until rice is tender but still firm.  (It should be moist and creamy but not runny.)  Remove from heat.  Stir in remaining 4 tablespoons butter and Parmesan cheese.  Season with salt and pepper.  Add more stock if necessary.
+</DirT>
+<DirT>
+To grill shrimp:  Season shrimp with 1 tablespoon oil, salt and pepper.  Grill just until done. Sprinkle with lemon juice and parsley.
+</DirT>
+<DirT>
+To serve:  Divide saffron risotto between 2 warm serving plates.  Top each with half of grilled shrimp.  Serve immediately.
+</DirT>
+<DirT>
+This recipe yields 2 servings.
+</DirT>
+<DirT>
+Comments:  Instead of adding the shrimp to the risotto, adding them on top makes the dish look prettier and adds different flavors.
+</DirT>
+</DirS>
+<Srce>
+Pioneer Planet, 12-10-2000
+</Srce>
+<AltS label="Formatted for MC6" source="08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Simple Arugula Salad" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                           Simple Arugula Salad
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Accompaniment                   Salads/Dressings
+                Side Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1              bunch  arugula
+  1                     garlic clove
+  1         tablespoon  butter
+  2        tablespoons  olive oil
+  2        tablespoons  shaved Parmesan cheese
+  1           teaspoon  white wine vinegar
+  2             slices  bacon -- cooked, crumbled,
+                        reserving the bacon fat
+  1              slice  Italian bread
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+
+Trim, wash, and dry the arugula.  Cut the crusts from the bread and cut into cubes.  Peel and crush the garlic.
+
+Heat the butter with the bacon fat in a skillet, add the garlic and then saute the bread cubes until golden brown.  Drain on a paper towel.
+
+Blend the olive oil and vinegar in a bowl, season with salt and pepper, then gently but thoroughly coat the arugula leaves with this dressing.  Cut the bacon into small pieces, add croutons, and mix with the salad.  Serve immediately.
+
+This recipe yields 2 servings.
+
+Comments:  The bitterness of the arugula goes well with Wolfgang's Hearty Potato and Cheddar Soup or Chicken with Sweet Corn.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 237 Calories; 23g Fat (85.5% calories from fat); 3g Protein; 6g Carbohydrate; trace Dietary Fiber; 21mg Cholesterol; 219mg Sodium.  Exchanges: 1/2 Grain(Starch); 1/2 Lean Meat; 0 Vegetable; 4 1/2 Fat; 0 Other Carbohydrates.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Salads/Dressings
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="arugula" unit="bunch" qty="1"></IngR>
+<IngR name="garlic clove" qty="1"></IngR>
+<IngR name="butter" unit="tablespoon" qty="1"></IngR>
+<IngR name="olive oil" unit="tablespoons" qty="2"></IngR>
+<IngR name="shaved Parmesan cheese" unit="tablespoons" qty="2"></IngR>
+<IngR name="white wine vinegar" unit="teaspoon" qty="1"></IngR>
+<IngR name="bacon" unit="slices" qty="2">
+<IPrp>
+cooked, crumbled,
+</IPrp>
+</IngR>
+<IngR name="reserving the bacon fat"></IngR>
+<IngR name="Italian bread" unit="slice" qty="1"></IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Trim, wash, and dry the arugula.  Cut the crusts from the bread and cut into cubes.  Peel and crush the garlic.
+</DirT>
+<DirT>
+Heat the butter with the bacon fat in a skillet, add the garlic and then saute the bread cubes until golden brown.  Drain on a paper towel.
+</DirT>
+<DirT>
+Blend the olive oil and vinegar in a bowl, season with salt and pepper, then gently but thoroughly coat the arugula leaves with this dressing.  Cut the bacon into small pieces, add croutons, and mix with the salad.  Serve immediately.
+</DirT>
+<DirT>
+This recipe yields 2 servings.
+</DirT>
+<DirT>
+Comments:  The bitterness of the arugula goes well with Wolfgang&apos;s Hearty Potato and Cheddar Soup or Chicken with Sweet Corn.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Slightly Spicy Corn Bread" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                        Slightly Spicy Corn Bread
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Accompaniment                   Breads/Rolls
+                Side Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1                cup  flour
+  1                cup  cornmeal
+  1           teaspoon  salt
+  2        tablespoons  baking powder
+  2          teaspoons  chili powder
+  2                     eggs
+  1                can  cream-style corn - (12 oz)
+     1/2           cup  milk
+  1                cup  grated sharp Cheddar cheese
+
+Put flour, cornmeal, salt, baking powder and chili powder into a bowl and mix.  In a second bowl mix the eggs, corn, and milk.  Add the dry ingredients and mix fast until combined.
+
+Line an 8-inch round baking tin with wax paper and pour mixture in.  Put the grated cheese over the top of the mixture and bake at 350 degrees for 50 to 60 minutes.  You know it's cooked when a skewer comes out clean.  Cool for ten minutes.
+
+This recipe yields 4 servings.
+
+Comments:  Serve with Wolfgang's Spicy Seven Bean with Italian Sausage Soup or Hearty Vegetable Beef Soup.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 299 Calories; 4g Fat (13.0% calories from fat); 10g Protein; 55g Carbohydrate; 4g Dietary Fiber; 98mg Cholesterol; 1321mg Sodium.  Exchanges: 3 1/2 Grain(Starch); 1/2 Lean Meat; 0 Non-Fat Milk; 1/2 Fat; 0 Other Carbohydrates.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Breads/Rolls
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="flour" unit="cup" qty="1"></IngR>
+<IngR name="cornmeal" unit="cup" qty="1"></IngR>
+<IngR name="salt" unit="teaspoon" qty="1"></IngR>
+<IngR name="baking powder" unit="tablespoons" qty="2"></IngR>
+<IngR name="chili powder" unit="teaspoons" qty="2"></IngR>
+<IngR name="eggs" qty="2"></IngR>
+<IngR name="cream-style corn - (12 oz)" unit="can" qty="1"></IngR>
+<IngR name="milk" unit="cup" qty="1/2"></IngR>
+<IngR name="grated sharp Cheddar cheese" unit="cup" qty="1"></IngR>
+<DirS>
+<DirT>
+Put flour, cornmeal, salt, baking powder and chili powder into a bowl and mix.  In a second bowl mix the eggs, corn, and milk.  Add the dry ingredients and mix fast until combined.
+</DirT>
+<DirT>
+Line an 8-inch round baking tin with wax paper and pour mixture in.  Put the grated cheese over the top of the mixture and bake at 350 degrees for 50 to 60 minutes.  You know it&apos;s cooked when a skewer comes out clean.  Cool for ten minutes.
+</DirT>
+<DirT>
+This recipe yields 4 servings.
+</DirT>
+<DirT>
+Comments:  Serve with Wolfgang&apos;s Spicy Seven Bean with Italian Sausage Soup or Hearty Vegetable Beef Soup.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Spicy Arizona Chicken Wings" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                       Spicy Arizona Chicken Wings
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 3     Preparation Time :0:00
+Categories    : Accompaniment                   Chicken
+                Poultry                         Side Dish
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  12                    chicken wings -- cut in half,
+                        with tips trimmed
+     1/2           cup  yogurt
+     1/4           cup  cornmeal
+     1/4           cup  dry breadcrumbs
+  2          teaspoons  chili powder
+  1           teaspoon  ground cumin
+  1              pinch  cayenne
+                        Salt -- to taste
+
+Turn the oven to 425 degrees.  Toss the wings in the yogurt until coated evenly.  Mix the remaining ingredients in a small bowl and dredge the wings through this mixture.
+
+Place wings in a baking pan and bake them for half an hour, turning them once, until they're golden brown in color.
+
+This recipe yields 3 servings.
+
+Comments:  Perfect with Wolfgang's Country Tomato and Basil Soup.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 546 Calories; 34g Fat (56.5% calories from fat); 40g Protein; 19g Carbohydrate; 2g Dietary Fiber; 156mg Cholesterol; 258mg Sodium.  Exchanges: 1 Grain(Starch); 5 Lean Meat; 0 Non-Fat Milk; 3 1/2 Fat; 0 Other Carbohydrates.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="3"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Chicken
+</CatT>
+<CatT>
+Poultry
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="chicken wings" qty="12">
+<IPrp>
+cut in half,
+</IPrp>
+</IngR>
+<IngR name="with tips trimmed"></IngR>
+<IngR name="yogurt" unit="cup" qty="1/2"></IngR>
+<IngR name="cornmeal" unit="cup" qty="1/4"></IngR>
+<IngR name="dry breadcrumbs" unit="cup" qty="1/4"></IngR>
+<IngR name="chili powder" unit="teaspoons" qty="2"></IngR>
+<IngR name="ground cumin" unit="teaspoon" qty="1"></IngR>
+<IngR name="cayenne" unit="pinch" qty="1"></IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Turn the oven to 425 degrees.  Toss the wings in the yogurt until coated evenly.  Mix the remaining ingredients in a small bowl and dredge the wings through this mixture.
+</DirT>
+<DirT>
+Place wings in a baking pan and bake them for half an hour, turning them once, until they&apos;re golden brown in color.
+</DirT>
+<DirT>
+This recipe yields 3 servings.
+</DirT>
+<DirT>
+Comments:  Perfect with Wolfgang&apos;s Country Tomato and Basil Soup.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Spicy Sausage Hash Browns" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                        Spicy Sausage Hash Browns
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Accompaniment                   Side Dish
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1                cup  cubed sausage like kielbasa or
+                        spicy Italian sausage
+  1              large  onion -- finely chopped
+  1         tablespoon  olive oil
+  1              large  baking potato -- chopped 1/2" dice
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+  1                     green onion -- sliced
+
+Use a cast-iron skillet and saute the sausage and the onion in the olive oil over a medium heat until the onion turns golden.
+
+Stir in the diced potato and season with salt and pepper.  Arrange the resulting mixture evenly in the skillet, cover and cook for 20 minutes.
+
+Remove the lid, turn up the heat for 3 or 4 minutes and stir until you have perfect hash.  Sprinkle sliced green onion over hash and serve.
+
+This recipe yields 2 servings.
+
+Comments:  Delicious with Wolfgang's Thick Country Vegetable Soup or Old World Minestrone.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 156 Calories; 7g Fat (38.9% calories from fat); 3g Protein; 22g Carbohydrate; 3g Dietary Fiber; 0mg Cholesterol; 8mg Sodium.  Exchanges: 1 Grain(Starch); 1 Vegetable; 1 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="cubed sausage like kielbasa or" unit="cup" qty="1"></IngR>
+<IngR name="spicy Italian sausage"></IngR>
+<IngR name="onion" unit="large" qty="1">
+<IPrp>
+finely chopped
+</IPrp>
+</IngR>
+<IngR name="olive oil" unit="tablespoon" qty="1"></IngR>
+<IngR name="baking potato" unit="large" qty="1">
+<IPrp>
+chopped 1/2&quot; dice
+</IPrp>
+</IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="green onion" qty="1">
+<IPrp>
+sliced
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Use a cast-iron skillet and saute the sausage and the onion in the olive oil over a medium heat until the onion turns golden.
+</DirT>
+<DirT>
+Stir in the diced potato and season with salt and pepper.  Arrange the resulting mixture evenly in the skillet, cover and cook for 20 minutes.
+</DirT>
+<DirT>
+Remove the lid, turn up the heat for 3 or 4 minutes and stir until you have perfect hash.  Sprinkle sliced green onion over hash and serve.
+</DirT>
+<DirT>
+This recipe yields 2 servings.
+</DirT>
+<DirT>
+Comments:  Delicious with Wolfgang&apos;s Thick Country Vegetable Soup or Old World Minestrone.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Spinach And Bacon Sandwiches" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                       Spinach And Bacon Sandwiches
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Accompaniment                   Sandwiches
+                Side Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1                     garlic clove -- minced
+  1         tablespoon  olive oil
+  1            package  frozen chopped spinach - (10 oz) -- thawed, squeezed dry
+     1/4      teaspoon  salt
+  1              pinch  freshly-ground black pepper
+  3             slices  bacon -- cooked, crumbled
+     1/2           cup  shredded Mozzarella cheese
+     1/2         small  loaf Italian bread
+  1         tablespoon  shredded Parmesan cheese
+
+In a large skillet sautÈ garlic in olive oil over medium heat.  Add spinach, salt and pepper; cook, stirring occasionally, until heated through.  Remove from the heat, cool for 5 minutes.  Add bacon and mozzarella, mix well.
+
+Slice bread horizontally.  Divide and spread the spinach mixture on each half.  Sprinkle with Parmesan if desired.  Bake at 450 degrees for 6 to 8 minutes or until cheese is melted.
+
+This recipe yields 2 servings.
+
+Comments:  A hot bowl of Wolfgang's Chicken with Sweet Corn or Country Tomato with Basil Soup will make this sandwich sing!
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 525 Calories; 23g Fat (39.9% calories from fat); 20g Protein; 58g Carbohydrate; 3g Dietary Fiber; 35mg Cholesterol; 1241mg Sodium.  Exchanges: 3 1/2 Grain(Starch); 1 1/2 Lean Meat; 0 Vegetable; 3 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Sandwiches
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="garlic clove" qty="1">
+<IPrp>
+minced
+</IPrp>
+</IngR>
+<IngR name="olive oil" unit="tablespoon" qty="1"></IngR>
+<IngR name="frozen chopped spinach - (10 oz)" unit="package" qty="1">
+<IPrp>
+thawed, squeezed dry
+</IPrp>
+</IngR>
+<IngR name="salt" unit="teaspoon" qty="1/4"></IngR>
+<IngR name="freshly-ground black pepper" unit="pinch" qty="1"></IngR>
+<IngR name="bacon" unit="slices" qty="3">
+<IPrp>
+cooked, crumbled
+</IPrp>
+</IngR>
+<IngR name="shredded Mozzarella cheese" unit="cup" qty="1/2"></IngR>
+<IngR name="loaf Italian bread" unit="small" qty="1/2"></IngR>
+<IngR name="shredded Parmesan cheese" unit="tablespoon" qty="1"></IngR>
+<DirS>
+<DirT>
+In a large skillet sautÈ garlic in olive oil over medium heat.  Add spinach, salt and pepper; cook, stirring occasionally, until heated through.  Remove from the heat, cool for 5 minutes.  Add bacon and mozzarella, mix well.
+</DirT>
+<DirT>
+Slice bread horizontally.  Divide and spread the spinach mixture on each half.  Sprinkle with Parmesan if desired.  Bake at 450 degrees for 6 to 8 minutes or until cheese is melted.
+</DirT>
+<DirT>
+This recipe yields 2 servings.
+</DirT>
+<DirT>
+Comments:  A hot bowl of Wolfgang&apos;s Chicken with Sweet Corn or Country Tomato with Basil Soup will make this sandwich sing!
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Spinach Salad With Honey And Bacon Dressing" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+               Spinach Salad With Honey And Bacon Dressing
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Accompaniment                   Salads/Dressings
+                Side Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  2               cups  torn fresh spinach
+     1/2           cup  sliced fresh mushrooms
+  1                     green onion -- sliced
+  1             medium  tomato -- chopped
+  2             slices  bacon -- cooked, crumbled
+  1                     hard-cooked egg -- chopped
+  1         tablespoon  shredded Parmesan cheese
+                        === HONEY AND BACON DRESSING ===
+  2             slices  bacon -- cooked, crumbled
+  2        tablespoons  honey
+  1         tablespoon  vinegar
+  2        tablespoons  olive oil
+  1           teaspoon  yellow or spicy brown mustard
+
+Combine the first seven ingredients in a large bowl.  In a small bowl, whisk together dressing ingredients; pour over salad.  Serve immediately.
+
+This recipe yields 2 servings
+
+Comments:  The ideal soup to accompany this salad?  It's Wolfgang's Old World Minestrone Soup.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 288 Calories; 21g Fat (62.3% calories from fat); 6g Protein; 22g Carbohydrate; 1g Dietary Fiber; 13mg Cholesterol; 253mg Sodium.  Exchanges: 1/2 Lean Meat; 1 Vegetable; 3 1/2 Fat; 1 Other Carbohydrates.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Salads/Dressings
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="torn fresh spinach" unit="cups" qty="2"></IngR>
+<IngR name="sliced fresh mushrooms" unit="cup" qty="1/2"></IngR>
+<IngR name="green onion" qty="1">
+<IPrp>
+sliced
+</IPrp>
+</IngR>
+<IngR name="tomato" unit="medium" qty="1">
+<IPrp>
+chopped
+</IPrp>
+</IngR>
+<IngR name="bacon" unit="slices" qty="2">
+<IPrp>
+cooked, crumbled
+</IPrp>
+</IngR>
+<IngR name="hard-cooked egg" qty="1">
+<IPrp>
+chopped
+</IPrp>
+</IngR>
+<IngR name="shredded Parmesan cheese" unit="tablespoon" qty="1"></IngR>
+<IngR name="=== HONEY AND BACON DRESSING ==="></IngR>
+<IngR name="bacon" unit="slices" qty="2">
+<IPrp>
+cooked, crumbled
+</IPrp>
+</IngR>
+<IngR name="honey" unit="tablespoons" qty="2"></IngR>
+<IngR name="vinegar" unit="tablespoon" qty="1"></IngR>
+<IngR name="olive oil" unit="tablespoons" qty="2"></IngR>
+<IngR name="yellow or spicy brown mustard" unit="teaspoon" qty="1"></IngR>
+<DirS>
+<DirT>
+Combine the first seven ingredients in a large bowl.  In a small bowl, whisk together dressing ingredients; pour over salad.  Serve immediately.
+</DirT>
+<DirT>
+This recipe yields 2 servings
+</DirT>
+<DirT>
+Comments:  The ideal soup to accompany this salad?  It&apos;s Wolfgang&apos;s Old World Minestrone Soup.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Sun-Dried Tomato Quesadillas With Goat Cheese" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+              Sun-Dried Tomato Quesadillas With Goat Cheese
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Accompaniment                   Sandwiches
+                Side Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  4                     tortillas - (8" dia)
+  2        tablespoons  chopped drained oil-packed sun-dried
+                        tomatoes
+  4             ounces  goat cheese
+                        = (or soft cheese)
+  2        tablespoons  melted butter
+  1                     green onion -- chopped
+  1              pinch  cayenne pepper
+
+Stir the cheese and chopped sun-dried tomatoes in a small bowl.  Add a pinch of cayenne and blend together.
+
+Take two of the tortillas, brush them with butter on one side and then spread half of the cheese mixture on each tortilla.  Complete the sandwich with the two remaining tortillas, brush with butter and broil them for two minutes until the tops are crisp.
+
+Turn them over, brush the tops (or bottoms) with butter, and broil for one minute.  Cut into quarters and serve.
+
+This recipe yields 2 servings.
+
+Comments:  The perfect match for these quesadillas is either Wolfgang's Creamy Country Mushroom Soup or his Creamy Chicken Soup.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 360 Calories; 32g Fat (78.6% calories from fat); 18g Protein; 2g Carbohydrate; trace Dietary Fiber; 91mg Cholesterol; 314mg Sodium.  Exchanges: 0 Grain(Starch); 2 1/2 Lean Meat; 0 Vegetable; 5 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Sandwiches
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="tortillas - (8&quot; dia)" qty="4"></IngR>
+<IngR name="chopped drained oil-packed sun-dried" unit="tablespoons" qty="2"></IngR>
+<IngR name="tomatoes"></IngR>
+<IngR name="goat cheese" unit="ounces" qty="4"></IngR>
+<IngR name="= (or soft cheese)"></IngR>
+<IngR name="melted butter" unit="tablespoons" qty="2"></IngR>
+<IngR name="green onion" qty="1">
+<IPrp>
+chopped
+</IPrp>
+</IngR>
+<IngR name="cayenne pepper" unit="pinch" qty="1"></IngR>
+<DirS>
+<DirT>
+Stir the cheese and chopped sun-dried tomatoes in a small bowl.  Add a pinch of cayenne and blend together.
+</DirT>
+<DirT>
+Take two of the tortillas, brush them with butter on one side and then spread half of the cheese mixture on each tortilla.  Complete the sandwich with the two remaining tortillas, brush with butter and broil them for two minutes until the tops are crisp.
+</DirT>
+<DirT>
+Turn them over, brush the tops (or bottoms) with butter, and broil for one minute.  Cut into quarters and serve.
+</DirT>
+<DirT>
+This recipe yields 2 servings.
+</DirT>
+<DirT>
+Comments:  The perfect match for these quesadillas is either Wolfgang&apos;s Creamy Country Mushroom Soup or his Creamy Chicken Soup.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Sweet Corn Fritters" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                           Sweet Corn Fritters
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Accompaniment                   Fritters
+                Side Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1              large  egg
+  1                can  whole kernel sweet corn - (16 oz)
+     1/4           cup  liquid from sweet corn can
+  1                cup  all-purpose flour
+  1           teaspoon  baking powder
+     1/4           cup  olive oil
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+
+In a mixing bowl put the egg, the corn, and the liquid drained from the can.  Add the flour, baking powder, and a pinch of salt and pepper, and stir with a fork briefly.
+
+Heat a skillet, add oil (preferably olive oil, it's healthier), and drop spoonfuls of the batter mix into the hot oil to pancake depth.  Turn the fritters as soon as they're golden-colored and cook other side.
+
+This recipe yields 2 servings.
+
+Comments:  Serve with a spoonful of tomato salsa and Wolfgang's New England Clam Chowder.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 500 Calories; 30g Fat (53.8% calories from fat); 9g Protein; 49g Carbohydrate; 2g Dietary Fiber; 94mg Cholesterol; 273mg Sodium.  Exchanges: 3 Grain(Starch); 1/2 Lean Meat; 5 1/2 Fat; 0 Other Carbohydrates.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Fritters
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="egg" unit="large" qty="1"></IngR>
+<IngR name="whole kernel sweet corn - (16 oz)" unit="can" qty="1"></IngR>
+<IngR name="liquid from sweet corn can" unit="cup" qty="1/4"></IngR>
+<IngR name="all-purpose flour" unit="cup" qty="1"></IngR>
+<IngR name="baking powder" unit="teaspoon" qty="1"></IngR>
+<IngR name="olive oil" unit="cup" qty="1/4"></IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+In a mixing bowl put the egg, the corn, and the liquid drained from the can.  Add the flour, baking powder, and a pinch of salt and pepper, and stir with a fork briefly.
+</DirT>
+<DirT>
+Heat a skillet, add oil (preferably olive oil, it&apos;s healthier), and drop spoonfuls of the batter mix into the hot oil to pancake depth.  Turn the fritters as soon as they&apos;re golden-colored and cook other side.
+</DirT>
+<DirT>
+This recipe yields 2 servings.
+</DirT>
+<DirT>
+Comments:  Serve with a spoonful of tomato salsa and Wolfgang&apos;s New England Clam Chowder.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Swiss Cheese Potato Gratin" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                        Swiss Cheese Potato Gratin
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Accompaniment                   Side Dish
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1              pound  large red skin or Yukon Gold potatoes -- peeled, sliced thin
+  1                cup  coarsely-grated Gruyere or Swiss cheese
+  1                cup  milk
+  1                     egg
+  1              pinch  paprika
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+
+Put the potato slices into a large saucepan of salted boiling water and cook for four minutes.  Remove and drain.
+
+Arrange the first layer of sliced potatoes on the bottom of a baking dish.  Cover with about a third of the cheese and a pinch of salt and pepper.  Arrange the second layer of potatoes on top.  Add the another third of the cheese and season with salt and pepper.  Place the final layer of potatoes on top.
+
+Now comes the hard part!  In a small saucepan bring the milk to a boil.  In a mixing bowl whisk the egg for about thirty seconds.  In a steady stream add the hot milk into the egg, continuing to whisk the mixture as you pour.
+
+Pour the mixture over the potatoes, add the remaining cheese, a little salt, pepper, and paprika, and bake in a warm oven for half an hour.  It's ready when the top is golden brown and the potatoes are cooked.
+
+This recipe yields 2 servings.
+
+Comments:  The perfect accompaniment for Wolfgang's Roast Chicken and Vegetables.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 108 Calories; 6g Fat (52.6% calories from fat); 7g Protein; 6g Carbohydrate; trace Dietary Fiber; 110mg Cholesterol; 88mg Sodium.  Exchanges: 0 Grain(Starch); 1/2 Lean Meat; 1/2 Non-Fat Milk; 1 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="large red skin or Yukon Gold potatoes" unit="pound" qty="1">
+<IPrp>
+peeled, sliced thin
+</IPrp>
+</IngR>
+<IngR name="coarsely-grated Gruyere or Swiss cheese" unit="cup" qty="1"></IngR>
+<IngR name="milk" unit="cup" qty="1"></IngR>
+<IngR name="egg" qty="1"></IngR>
+<IngR name="paprika" unit="pinch" qty="1"></IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Put the potato slices into a large saucepan of salted boiling water and cook for four minutes.  Remove and drain.
+</DirT>
+<DirT>
+Arrange the first layer of sliced potatoes on the bottom of a baking dish.  Cover with about a third of the cheese and a pinch of salt and pepper.  Arrange the second layer of potatoes on top.  Add the another third of the cheese and season with salt and pepper.  Place the final layer of potatoes on top.
+</DirT>
+<DirT>
+Now comes the hard part!  In a small saucepan bring the milk to a boil.  In a mixing bowl whisk the egg for about thirty seconds.  In a steady stream add the hot milk into the egg, continuing to whisk the mixture as you pour.
+</DirT>
+<DirT>
+Pour the mixture over the potatoes, add the remaining cheese, a little salt, pepper, and paprika, and bake in a warm oven for half an hour.  It&apos;s ready when the top is golden brown and the potatoes are cooked.
+</DirT>
+<DirT>
+This recipe yields 2 servings.
+</DirT>
+<DirT>
+Comments:  The perfect accompaniment for Wolfgang&apos;s Roast Chicken and Vegetables.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Thai Shrimp" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                               Thai Shrimp
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Seafood                         Shellfish
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1 1/2         pounds  shrimp
+  5        tablespoons  peanut oil
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+  2        tablespoons  minced shallots
+  1         tablespoon  minced ginger
+  1         tablespoon  minced garlic
+  2               cups  diced cored seeded tomatoes
+  4        tablespoons  rice wine vinegar
+  2        tablespoons  honey
+  1           teaspoon  Chinese mustard -- mixed with water
+                        to make a paste
+  2        tablespoons  green onions -- cut diagonal slices
+                        Baby mixed greens
+
+Place the shrimp in a shallow dish and sprinkle with peanut oil.  Refrigerate until needed.  When ready to sautÈ, season lightly with salt and pepper.
+
+In a medium saucepan, heat the peanut oil.  SautÈ the shallots and ginger over medium-high heat just until wilted, 4 to 5 minutes.  Add the garlic and cook one minute longer.  Stir in the tomatoes, cook 2 or 3 minutes.  Pour in rice wine vinegar, honey and paste made with Chinese mustard.  Reduce until the sauce thickens.
+
+Add seasoned shrimp to sauce and cook until shrimp turn opaque, 2 to 3 minutes.
+
+Presentation:  Place baby mixed greens in center of platter, arrange shrimp and sauce around greens.  Garnish with green onions.
+
+This recipe yields 4 to 6 servings.
+
+Source:
+  "The Salt Lake Tribune, 03-21-2000"
+S(Formatted for MC6):
+  "08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 374 Calories; 20g Fat (48.2% calories from fat); 35g Protein; 13g Carbohydrate; trace Dietary Fiber; 259mg Cholesterol; 270mg Sodium.  Exchanges: 0 Grain(Starch); 5 Lean Meat; 0 Vegetable; 3 1/2 Fat; 1/2 Other Carbohydrates.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Seafood
+</CatT>
+<CatT>
+Shellfish
+</CatT>
+</CatS>
+<IngR name="shrimp" unit="pounds" qty="1 1/2"></IngR>
+<IngR name="peanut oil" unit="tablespoons" qty="5"></IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="minced shallots" unit="tablespoons" qty="2"></IngR>
+<IngR name="minced ginger" unit="tablespoon" qty="1"></IngR>
+<IngR name="minced garlic" unit="tablespoon" qty="1"></IngR>
+<IngR name="diced cored seeded tomatoes" unit="cups" qty="2"></IngR>
+<IngR name="rice wine vinegar" unit="tablespoons" qty="4"></IngR>
+<IngR name="honey" unit="tablespoons" qty="2"></IngR>
+<IngR name="Chinese mustard" unit="teaspoon" qty="1">
+<IPrp>
+mixed with water
+</IPrp>
+</IngR>
+<IngR name="to make a paste"></IngR>
+<IngR name="green onions" unit="tablespoons" qty="2">
+<IPrp>
+cut diagonal slices
+</IPrp>
+</IngR>
+<IngR name="Baby mixed greens"></IngR>
+<DirS>
+<DirT>
+Place the shrimp in a shallow dish and sprinkle with peanut oil.  Refrigerate until needed.  When ready to sautÈ, season lightly with salt and pepper.
+</DirT>
+<DirT>
+In a medium saucepan, heat the peanut oil.  SautÈ the shallots and ginger over medium-high heat just until wilted, 4 to 5 minutes.  Add the garlic and cook one minute longer.  Stir in the tomatoes, cook 2 or 3 minutes.  Pour in rice wine vinegar, honey and paste made with Chinese mustard.  Reduce until the sauce thickens.
+</DirT>
+<DirT>
+Add seasoned shrimp to sauce and cook until shrimp turn opaque, 2 to 3 minutes.
+</DirT>
+<DirT>
+Presentation:  Place baby mixed greens in center of platter, arrange shrimp and sauce around greens.  Garnish with green onions.
+</DirT>
+<DirT>
+This recipe yields 4 to 6 servings.
+</DirT>
+</DirS>
+<Srce>
+The Salt Lake Tribune, 03-21-2000
+</Srce>
+<AltS label="Formatted for MC6" source="08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Three-Color Bruschetta" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                          Three-Color Bruschetta
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 2     Preparation Time :0:00
+Categories    : Accompaniment                   Side Dish
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  2                     thick slices country bread
+  2                     ripe plum tomatoes
+  1              small  yellow onion
+  12                    thin slices cucumber
+                        Dried oregano -- to taste
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+                        Extra-virgin olive oil -- as needed
+
+Toast the bread.  Slice the tomatoes and onions thinly.  Layer the tomatoes and cucumber on the top, then scatter the rings of onion over the tomato and cucumber.  Sprinkle dried oregano over, season with salt and freshly ground black pepper, and dress with a little extra virgin olive oil.  Serve at once.
+
+This recipe yields 2 servings,
+
+Comments:  This classic Bruschetta is the perfect partner for Wolfgang's Old-fashioned Beef Barley Soup or new Chicken Parmesan with Pasta.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 21 Calories; trace Fat (3.4% calories from fat); 1g Protein; 5g Carbohydrate; 1g Dietary Fiber; 0mg Cholesterol; 2mg Sodium.  Exchanges: 1 Vegetable.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="2"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="thick slices country bread" qty="2"></IngR>
+<IngR name="ripe plum tomatoes" qty="2"></IngR>
+<IngR name="yellow onion" unit="small" qty="1"></IngR>
+<IngR name="thin slices cucumber" qty="12"></IngR>
+<IngR name="Dried oregano">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Extra-virgin olive oil">
+<IPrp>
+as needed
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Toast the bread.  Slice the tomatoes and onions thinly.  Layer the tomatoes and cucumber on the top, then scatter the rings of onion over the tomato and cucumber.  Sprinkle dried oregano over, season with salt and freshly ground black pepper, and dress with a little extra virgin olive oil.  Serve at once.
+</DirT>
+<DirT>
+This recipe yields 2 servings,
+</DirT>
+<DirT>
+Comments:  This classic Bruschetta is the perfect partner for Wolfgang&apos;s Old-fashioned Beef Barley Soup or new Chicken Parmesan with Pasta.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Vegetable Soup With Sweet Basil" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                     Vegetable Soup With Sweet Basil
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 6     Preparation Time :0:00
+Categories    : Soups/Stews
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  2              small  leeks, white part only
+  1              large  potato -- peeled
+  1              small  onion
+  2                     celery stalks
+  1             medium  zucchini
+  12                    green beans
+  2             medium  carrots -- peeled
+  6        tablespoons  olive oil
+  3        tablespoons  water
+     1/2        gallon  Chicken Stock II -- (see recipe)
+                        = (or 1/2 gallon water, 4 bouillon cubes,
+                        a pinch of thyme, and 1/2 bay leaf)
+  6                     ripe tomatoes -- peeled, seeded
+  4             medium  garlic cloves
+  30                    fresh basil leaves -- washed, dried
+                        Salt -- to taste
+     1/2      teaspoon  freshly-ground blak pepper
+
+Cut the leeks, potato, onion, celery, zucchini, green beans, and carrots into 1/4-inch dice.
+
+In a 6-quart stockpot, combine 3 tablespoons olive oil with 3 tablespoons water.  Add the vegetables and saute, over medium-low heat, until all the water evaporates.  Do not brown the vegetables.
+
+Add the stock and bring to a boil.  Cook at a gentle boil for 30 minutes.
+
+Meanwhile, make a puree with the tomatoes, basil leaves, garlic, and remaining 3 tablespoons olive oil.  Add the puree to the cooked soup.  Stir thoroughly.  Do not boil again.
+
+Season to taste with salt and pepper.  Serve hot or cold from a tureen or in individual bowls.
+
+This recipe yields 6 servings.
+
+Nutrition per serving:  Calories 301;  Fat 19g;  Carbohydrates 23g;  Cholesterol 0mg;  Sodium 273mg;  Protein 12g;  Fiber 5g;  Calories from Fat 57%;  Calories from Carbs 31%.
+
+Comments:  The distinctive flavor of this Provencal soup can only be achieved with fresh tomatoes and fresh basil added at the last moment.
+
+Wine recommendation:  We generally do not serve wine with this soup.
+
+Source:
+  ""Wolfgang Puck's Modern French Cooking for the American Kitchen:
+  Recipes from the Famed Beard Award-Winning Owner of Spago" by Wolfgang
+  Puck (Houghton Mifflin Co, 1998)"
+S(Formatted for MC6):
+  "06-26-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 192 Calories; 14g Fat (62.3% calories from fat); 3g Protein; 16g Carbohydrate; 4g Dietary Fiber; 0mg Cholesterol; 35mg Sodium.  Exchanges: 0 Grain(Starch); 2 1/2 Vegetable; 2 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="6"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Soups/Stews
+</CatT>
+</CatS>
+<IngR name="leeks, white part only" unit="small" qty="2"></IngR>
+<IngR name="potato" unit="large" qty="1">
+<IPrp>
+peeled
+</IPrp>
+</IngR>
+<IngR name="onion" unit="small" qty="1"></IngR>
+<IngR name="celery stalks" qty="2"></IngR>
+<IngR name="zucchini" unit="medium" qty="1"></IngR>
+<IngR name="green beans" qty="12"></IngR>
+<IngR name="carrots" unit="medium" qty="2">
+<IPrp>
+peeled
+</IPrp>
+</IngR>
+<IngR name="olive oil" unit="tablespoons" qty="6"></IngR>
+<IngR name="water" unit="tablespoons" qty="3"></IngR>
+<IngR name="Chicken Stock II" unit="gallon" qty="1/2">
+<IPrp>
+(see recipe)
+</IPrp>
+</IngR>
+<IngR name="= (or 1/2 gallon water, 4 bouillon cubes,"></IngR>
+<IngR name="a pinch of thyme, and 1/2 bay leaf)"></IngR>
+<IngR name="ripe tomatoes" qty="6">
+<IPrp>
+peeled, seeded
+</IPrp>
+</IngR>
+<IngR name="garlic cloves" unit="medium" qty="4"></IngR>
+<IngR name="fresh basil leaves" qty="30">
+<IPrp>
+washed, dried
+</IPrp>
+</IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="freshly-ground blak pepper" unit="teaspoon" qty="1/2"></IngR>
+<DirS>
+<DirT>
+Cut the leeks, potato, onion, celery, zucchini, green beans, and carrots into 1/4-inch dice.
+</DirT>
+<DirT>
+In a 6-quart stockpot, combine 3 tablespoons olive oil with 3 tablespoons water.  Add the vegetables and saute, over medium-low heat, until all the water evaporates.  Do not brown the vegetables.
+</DirT>
+<DirT>
+Add the stock and bring to a boil.  Cook at a gentle boil for 30 minutes.
+</DirT>
+<DirT>
+Meanwhile, make a puree with the tomatoes, basil leaves, garlic, and remaining 3 tablespoons olive oil.  Add the puree to the cooked soup.  Stir thoroughly.  Do not boil again.
+</DirT>
+<DirT>
+Season to taste with salt and pepper.  Serve hot or cold from a tureen or in individual bowls.
+</DirT>
+<DirT>
+This recipe yields 6 servings.
+</DirT>
+<DirT>
+Nutrition per serving:  Calories 301;  Fat 19g;  Carbohydrates 23g;  Cholesterol 0mg;  Sodium 273mg;  Protein 12g;  Fiber 5g;  Calories from Fat 57%;  Calories from Carbs 31%.
+</DirT>
+<DirT>
+Comments:  The distinctive flavor of this Provencal soup can only be achieved with fresh tomatoes and fresh basil added at the last moment.
+</DirT>
+<DirT>
+Wine recommendation:  We generally do not serve wine with this soup.
+</DirT>
+</DirS>
+<Srce>
+&quot;Wolfgang Puck&apos;s Modern French Cooking for the American Kitchen: Recipes from the Famed Beard Award-Winning Owner of Spago&quot; by Wolfgang Puck (Houghton Mifflin Co, 1998)
+</Srce>
+<AltS label="Formatted for MC6" source="06-26-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Wolfgang Puck&apos;s Braised Moroccan Lamb" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                  Wolfgang Puck's Braised Moroccan Lamb
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Lamb                            Main Dish
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1                     bone-in leg of lamb - (3 to 4 lbs)
+  2          teaspoons  ground cumin
+                        Freshly-ground black pepper -- to taste
+     1/2      teaspoon  chopped fresh thyme
+                        Salt -- to taste
+  4        tablespoons  olive oil
+     1/2         pound  onion - (1 large) -- coarsely chopped
+  1              large  carrot -- peeled, and
+                        coarsely chopped
+  1                     celery stalk -- coarsely chopped
+  2                     garlic cloves -- sliced
+  1           teaspoon  chopped fresh rosemary
+  1                cup  dry red wine
+  2               cups  brown chicken, brown veal or lamb stock
+  6             ounces  tomatoes -- ends removed,
+                        and coarsely chopped
+  5 1/2         ounces  blanched whole almonds -- lightly toasted,
+                        see * Note
+  8             ounces  California raisins
+
+* Note:  To toast almonds, spread on a baking tray and bake in a preheated 350 degree oven until lightly browned, about 20 minutes.
+
+Preheat the oven to 450 degrees.
+
+Lay the lamb out, skin-side down, and sprinkle with 1 teaspoon each cumin and pepper and thyme.  Roll and tie well with butcher's string.  Season the outside lightly with salt and pepper.
+
+Heat 2 tablespoons of the oil in an ovenproof casserole slightly larger than the lamb.  Brown the lamb on all sides, then pour out the oil.
+
+Add the remaining 2 tablespoons of the oil to the casserole, stir in the onion, carrot, celery, and garlic and, over medium-high heat, cook until the onion has colored slightly, 4 to 5 minutes.  Sprinkle with the remaining 1 teaspoon of cumin and the rosemary, deglaze the pan with the red wine, and bring to a boil.  Pour in the stock, add the tomatoes, season with 1/2 teaspoon each of salt and pepper, cover, and transfer to the oven.  Braise until almost tender, about 1 hour.
+
+Remove the meat and keep warm.  With a slotted spoon, separate the vegetable from the sauce and puree in a blender.  Scrape back into the sauce and reduce just until the sauce thickens slightly.  Strain into a clean casserole and season with salt and pepper to taste.  Place the meat in the sauce, surround with the almonds and raisins, and return to the oven for about 15 minutes longer, until the lamb is very tender and the raisins are soft.  (If the sauce thickens too much, thin with a little stock).
+
+Presentation:  Cut the lamb into thin slices and arrange on heated plates.  Spoon some sauce over, placing the raisins on and around the meat.  Serve immediately.  Pass any remaining sauce in a small bowl.
+
+To prepare ahead:  In step 5, strain the sauce into a clean casserole.  At serving time, return the meat to the pan along with the raisins and continue with the recipe.
+
+This recipe yields 4 to 6 servings.
+
+Source:
+  "http://www.calraisins.org/Consumer/recipes.html"
+S(Formatted for MC6):
+  "08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 186 Calories; 14g Fat (81.8% calories from fat); 1g Protein; 6g Carbohydrate; 1g Dietary Fiber; 0mg Cholesterol; 58mg Sodium.  Exchanges: 0 Grain(Starch); 0 Lean Meat; 1 Vegetable; 2 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Lamb
+</CatT>
+<CatT>
+Main Dish
+</CatT>
+</CatS>
+<IngR name="bone-in leg of lamb - (3 to 4 lbs)" qty="1"></IngR>
+<IngR name="ground cumin" unit="teaspoons" qty="2"></IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="chopped fresh thyme" unit="teaspoon" qty="1/2"></IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="olive oil" unit="tablespoons" qty="4"></IngR>
+<IngR name="onion - (1 large)" unit="pound" qty="1/2">
+<IPrp>
+coarsely chopped
+</IPrp>
+</IngR>
+<IngR name="carrot" unit="large" qty="1">
+<IPrp>
+peeled, and
+</IPrp>
+</IngR>
+<IngR name="coarsely chopped"></IngR>
+<IngR name="celery stalk" qty="1">
+<IPrp>
+coarsely chopped
+</IPrp>
+</IngR>
+<IngR name="garlic cloves" qty="2">
+<IPrp>
+sliced
+</IPrp>
+</IngR>
+<IngR name="chopped fresh rosemary" unit="teaspoon" qty="1"></IngR>
+<IngR name="dry red wine" unit="cup" qty="1"></IngR>
+<IngR name="brown chicken, brown veal or lamb stock" unit="cups" qty="2"></IngR>
+<IngR name="tomatoes" unit="ounces" qty="6">
+<IPrp>
+ends removed,
+</IPrp>
+</IngR>
+<IngR name="and coarsely chopped"></IngR>
+<IngR name="blanched whole almonds" unit="ounces" qty="5 1/2">
+<IPrp>
+lightly toasted,
+</IPrp>
+</IngR>
+<IngR name="see * Note"></IngR>
+<IngR name="California raisins" unit="ounces" qty="8"></IngR>
+<DirS>
+<DirT>
+* Note:  To toast almonds, spread on a baking tray and bake in a preheated 350 degree oven until lightly browned, about 20 minutes.
+</DirT>
+<DirT>
+Preheat the oven to 450 degrees.
+</DirT>
+<DirT>
+Lay the lamb out, skin-side down, and sprinkle with 1 teaspoon each cumin and pepper and thyme.  Roll and tie well with butcher&apos;s string.  Season the outside lightly with salt and pepper.
+</DirT>
+<DirT>
+Heat 2 tablespoons of the oil in an ovenproof casserole slightly larger than the lamb.  Brown the lamb on all sides, then pour out the oil.
+</DirT>
+<DirT>
+Add the remaining 2 tablespoons of the oil to the casserole, stir in the onion, carrot, celery, and garlic and, over medium-high heat, cook until the onion has colored slightly, 4 to 5 minutes.  Sprinkle with the remaining 1 teaspoon of cumin and the rosemary, deglaze the pan with the red wine, and bring to a boil.  Pour in the stock, add the tomatoes, season with 1/2 teaspoon each of salt and pepper, cover, and transfer to the oven.  Braise until almost tender, about 1 hour.
+</DirT>
+<DirT>
+Remove the meat and keep warm.  With a slotted spoon, separate the vegetable from the sauce and puree in a blender.  Scrape back into the sauce and reduce just until the sauce thickens slightly.  Strain into a clean casserole and season with salt and pepper to taste.  Place the meat in the sauce, surround with the almonds and raisins, and return to the oven for about 15 minutes longer, until the lamb is very tender and the raisins are soft.  (If the sauce thickens too much, thin with a little stock).
+</DirT>
+<DirT>
+Presentation:  Cut the lamb into thin slices and arrange on heated plates.  Spoon some sauce over, placing the raisins on and around the meat.  Serve immediately.  Pass any remaining sauce in a small bowl.
+</DirT>
+<DirT>
+To prepare ahead:  In step 5, strain the sauce into a clean casserole.  At serving time, return the meat to the pan along with the raisins and continue with the recipe.
+</DirT>
+<DirT>
+This recipe yields 4 to 6 servings.
+</DirT>
+</DirS>
+<Srce>
+http://www.calraisins.org/Consumer/recipes.html
+</Srce>
+<AltS label="Formatted for MC6" source="08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Wolfgang Puck&apos;s Moroccan Lamb Tangine" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                  Wolfgang Puck's Moroccan Lamb Tangine
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 0     Preparation Time :0:00
+Categories    : Lamb                            Main Dish
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  3             pounds  lamb (leg or shoulder) -- cut in 1" cubes
+  1             medium  onion -- cut large squares
+  2                     tomatoes -- chopped, with skin
+                        and seeds removed
+  2             medium  carrots -- large diced
+  10                    garlic cloves -- smashed
+  6               cups  chicken stock
+     1/2           cup  lamb stock
+  1                     cinnamon stick
+  3                     bay leaves
+  2        tablespoons  cumin seed -- ground
+  2        tablespoons  coriander seed -- cracked
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+     1/4           cup  tomato paste
+  3        tablespoons  brown sugar
+  1         tablespoon  curry powder
+  2        tablespoons  olive oil
+     1/2           cup  California raisins -- re-hydrated
+
+Season lamb with salt, pepper, 1/2 the cumin and 1/2 the coriander.  Meanwhile, heat large skillet with olive oil until smoking.  Carefully add lamb and sear evenly until golden, drain and reserve.
+
+To the pan add garlic, onions, carrots, remaining cumin, coriander and curry.  Cook until fragrant, then add tomatoes, paste, brown sugar, bay leaves, cinnamon, chicken and lamb stock.  Transfer everything into a large pot and bring to a simmer.  While simmering adjust the salt, pepper and brown sugar to taste.
+
+Add the lamb cover tightly and place in a pre-heated 300 degree oven.  Cook slowly until lamb is tender, about 2 hours.  Serve hot with steamed Cous Cous and California Raisins.
+
+This recipe yields ?? servings.
+
+Source:
+  "http://www.calraisins.org/Consumer/recipes.html"
+S(Formatted for MC6):
+  "08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 858 Calories; 36g Fat (37.3% calories from fat); 19g Protein; 116g Carbohydrate; 23g Dietary Fiber; 0mg Cholesterol; 13523mg Sodium.  Exchanges: 1 1/2 Grain(Starch); 0 Lean Meat; 11 Vegetable; 6 1/2 Fat; 1 1/2 Other Carbohydrates.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Lamb
+</CatT>
+<CatT>
+Main Dish
+</CatT>
+</CatS>
+<IngR name="lamb (leg or shoulder)" unit="pounds" qty="3">
+<IPrp>
+cut in 1&quot; cubes
+</IPrp>
+</IngR>
+<IngR name="onion" unit="medium" qty="1">
+<IPrp>
+cut large squares
+</IPrp>
+</IngR>
+<IngR name="tomatoes" qty="2">
+<IPrp>
+chopped, with skin
+</IPrp>
+</IngR>
+<IngR name="and seeds removed"></IngR>
+<IngR name="carrots" unit="medium" qty="2">
+<IPrp>
+large diced
+</IPrp>
+</IngR>
+<IngR name="garlic cloves" qty="10">
+<IPrp>
+smashed
+</IPrp>
+</IngR>
+<IngR name="chicken stock" unit="cups" qty="6"></IngR>
+<IngR name="lamb stock" unit="cup" qty="1/2"></IngR>
+<IngR name="cinnamon stick" qty="1"></IngR>
+<IngR name="bay leaves" qty="3"></IngR>
+<IngR name="cumin seed" unit="tablespoons" qty="2">
+<IPrp>
+ground
+</IPrp>
+</IngR>
+<IngR name="coriander seed" unit="tablespoons" qty="2">
+<IPrp>
+cracked
+</IPrp>
+</IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="tomato paste" unit="cup" qty="1/4"></IngR>
+<IngR name="brown sugar" unit="tablespoons" qty="3"></IngR>
+<IngR name="curry powder" unit="tablespoon" qty="1"></IngR>
+<IngR name="olive oil" unit="tablespoons" qty="2"></IngR>
+<IngR name="California raisins" unit="cup" qty="1/2">
+<IPrp>
+re-hydrated
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Season lamb with salt, pepper, 1/2 the cumin and 1/2 the coriander.  Meanwhile, heat large skillet with olive oil until smoking.  Carefully add lamb and sear evenly until golden, drain and reserve.
+</DirT>
+<DirT>
+To the pan add garlic, onions, carrots, remaining cumin, coriander and curry.  Cook until fragrant, then add tomatoes, paste, brown sugar, bay leaves, cinnamon, chicken and lamb stock.  Transfer everything into a large pot and bring to a simmer.  While simmering adjust the salt, pepper and brown sugar to taste.
+</DirT>
+<DirT>
+Add the lamb cover tightly and place in a pre-heated 300 degree oven.  Cook slowly until lamb is tender, about 2 hours.  Serve hot with steamed Cous Cous and California Raisins.
+</DirT>
+<DirT>
+This recipe yields ?? servings.
+</DirT>
+</DirS>
+<Srce>
+http://www.calraisins.org/Consumer/recipes.html
+</Srce>
+<AltS label="Formatted for MC6" source="08-02-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Wolfgang Puck&apos;s Pumpkin Pie" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                       Wolfgang Puck's Pumpkin Pie
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 6     Preparation Time :1:00
+Categories    : Desserts                        Pies
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+                        Pastry for 10" pie shell
+                        === CRANBERRY MARMALADE ===
+  4        tablespoons  minced orange zest
+  4        tablespoons  sugar syrup
+  2        tablespoons  Grand Marnier
+  1                     vanilla bean -- split
+  1                     cinnamon stick
+                        Freshly-grated nutmeg -- to taste
+  6             ounces  fresh cranberries
+                        === PUMPKIN FILLING ===
+  2               cups  pumpkin puree
+  1                cup  dark brown sugar - (packed)
+     1/2      teaspoon  cinnamon
+  1           teaspoon  ginger
+     1/2      teaspoon  nutmeg
+     1/2      teaspoon  ground cloves
+  1               dash  salt
+  1               dash  freshly-ground white pepper
+  4               each  eggs
+  1                cup  whipping cream
+     1/2           cup  half-and-half
+  3        tablespoons  bourbon
+                        Cinnamon ice cream -- (optional)
+
+Line a buttered 10-inch pie dish or flan ring with pastry.  Refrigerate for 1/2 hour.  Line with parchment paper and fill with pie weights or uncooked beans.  Bake at 350 degrees for 25 minutes, or until crust is golden.  Let cool.  Remove paper and beans.
+
+Meanwhile, in large stainless steel saucepan, combine sugar syrup, orange peel, Grand Marnier, vanilla bean with scrapings, cinnamon stick and nutmeg.  Bring to boil.  Stir in cranberries then reduce heat and simmer for 3 to 5 minutes or until berries are softened.  Remove vanilla bean and cinnamon stick.
+
+Spread mixture in thin layer on bottom of tart shell.  (Leftover marmalade is good served on side with smoked meat, fowl or curry.)
+
+In a bowl, combine pumpkin, brown sugar, cinnamon, ginger, nutmeg, cloves and pepper.  Beat in eggs, cream, half-and-half and bourbon.  Pour into pastry shell.  Bake at 375 degrees for 30 to 40 minutes or until set.
+
+Serve with cinnamon ice cream, if desired.
+
+This recipe yields 6 servings.
+
+Comments:  Wolfgang Puck is a German-born chef who has made his mark here in California.  He has such goldmines as Spago's in LA and Stars in the City plus a few more salted away around the globe.  This is Wolfgang  Puck's very own 'punkin' pie.  How does it stack up against Grandma's?
+
+Source:
+  "Wolfgang Puck"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 278 Calories; 18g Fat (62.7% calories from fat); 6g Protein; 19g Carbohydrate; 5g Dietary Fiber; 179mg Cholesterol; 102mg Sodium.  Exchanges: 0 Grain(Starch); 1/2 Lean Meat; 1 1/2 Vegetable; 0 Fruit; 0 Non-Fat Milk; 3 1/2 Fat; 0 Other Carbohydrates.
+
+NOTES : Recipe as published in the Hayward Daily Review, 10-26-1992
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="6"/>
+<PrpT elapsed="1:00"/>
+<CatS>
+<CatT>
+Desserts
+</CatT>
+<CatT>
+Pies
+</CatT>
+</CatS>
+<IngR name="Pastry for 10&quot; pie shell"></IngR>
+<IngR name="=== CRANBERRY MARMALADE ==="></IngR>
+<IngR name="minced orange zest" unit="tablespoons" qty="4"></IngR>
+<IngR name="sugar syrup" unit="tablespoons" qty="4"></IngR>
+<IngR name="Grand Marnier" unit="tablespoons" qty="2"></IngR>
+<IngR name="vanilla bean" qty="1">
+<IPrp>
+split
+</IPrp>
+</IngR>
+<IngR name="cinnamon stick" qty="1"></IngR>
+<IngR name="Freshly-grated nutmeg">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="fresh cranberries" unit="ounces" qty="6"></IngR>
+<IngR name="=== PUMPKIN FILLING ==="></IngR>
+<IngR name="pumpkin puree" unit="cups" qty="2"></IngR>
+<IngR name="dark brown sugar - (packed)" unit="cup" qty="1"></IngR>
+<IngR name="cinnamon" unit="teaspoon" qty="1/2"></IngR>
+<IngR name="ginger" unit="teaspoon" qty="1"></IngR>
+<IngR name="nutmeg" unit="teaspoon" qty="1/2"></IngR>
+<IngR name="ground cloves" unit="teaspoon" qty="1/2"></IngR>
+<IngR name="salt" unit="dash" qty="1"></IngR>
+<IngR name="freshly-ground white pepper" unit="dash" qty="1"></IngR>
+<IngR name="eggs" unit="each" qty="4"></IngR>
+<IngR name="whipping cream" unit="cup" qty="1"></IngR>
+<IngR name="half-and-half" unit="cup" qty="1/2"></IngR>
+<IngR name="bourbon" unit="tablespoons" qty="3"></IngR>
+<IngR name="Cinnamon ice cream">
+<IPrp>
+(optional)
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Line a buttered 10-inch pie dish or flan ring with pastry.  Refrigerate for 1/2 hour.  Line with parchment paper and fill with pie weights or uncooked beans.  Bake at 350 degrees for 25 minutes, or until crust is golden.  Let cool.  Remove paper and beans.
+</DirT>
+<DirT>
+Meanwhile, in large stainless steel saucepan, combine sugar syrup, orange peel, Grand Marnier, vanilla bean with scrapings, cinnamon stick and nutmeg.  Bring to boil.  Stir in cranberries then reduce heat and simmer for 3 to 5 minutes or until berries are softened.  Remove vanilla bean and cinnamon stick.
+</DirT>
+<DirT>
+Spread mixture in thin layer on bottom of tart shell.  (Leftover marmalade is good served on side with smoked meat, fowl or curry.)
+</DirT>
+<DirT>
+In a bowl, combine pumpkin, brown sugar, cinnamon, ginger, nutmeg, cloves and pepper.  Beat in eggs, cream, half-and-half and bourbon.  Pour into pastry shell.  Bake at 375 degrees for 30 to 40 minutes or until set.
+</DirT>
+<DirT>
+Serve with cinnamon ice cream, if desired.
+</DirT>
+<DirT>
+This recipe yields 6 servings.
+</DirT>
+<DirT>
+Comments:  Wolfgang Puck is a German-born chef who has made his mark here in California.  He has such goldmines as Spago&apos;s in LA and Stars in the City plus a few more salted away around the globe.  This is Wolfgang  Puck&apos;s very own &apos;punkin&apos; pie.  How does it stack up against Grandma&apos;s?
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+<Note>
+Recipe as published in the Hayward Daily Review, 10-26-1992
+</Note>
+</RcpE>
+<RcpE name="Wolfgang&apos;s Baked Spuds" author="Wolfgang Puck">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                          Wolfgang's Baked Spuds
+
+Recipe By     :Wolfgang Puck
+Serving Size  : 0     Preparation Time :0:00
+Categories    : Accompaniment                   Side Dish
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+                        Baking potatoes
+                        Olive oil -- as needed
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+                        === OPTIONAL TOPPINGS ===
+                        Butter
+                        Grated cheese
+                        Yoghurt
+                        Cottage cheese
+                        Cream cheese
+                        Fromage frais
+                        Tofu mayonnaise
+                        Chili mayonaisse
+                        Chopped scallions
+                        Crumbled cooked bacon
+
+This is the simplest possible accompaniment for Wolfgang's hearty soups.  Make sure you scrub the baking potatoes first.  Rub them with a little olive oil and salt.  The secret to great baked potatoes lies in cooking them on a wire rack and never on a solid surface like a baking tray.  Bake them for 50 to 60 minutes at 400 degrees.  You know they're cooked when the flesh 'gives' when you press them.
+
+Now's when the fun starts.  Cut them in two or split them across the top.  Add a little butter, cheese, yoghurt, cottage cheese, cream cheese, fromage frais, tofu mayonnaise, or chili mayonaisse.  Add scallions, bacon, anything that takes your fancy.  If necessary place the potato with the topping under the grill for a couple of minutes to melt the sauce into the potato.  And don't forget the salt and pepper.
+
+This recipe yields ? servings.
+
+Comments:  Baked potatoes go perfectly with Wolfgang's Hearty Vegetable Beef Soup.
+
+Source:
+  "Wolfgang Puck's Soups Site at http://www.wolfgangpucksoup.com/"
+S(Formatted for MC6):
+  "08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 0 Calories; 0g Fat (0.0% calories from fat); 0g Protein; 0g Carbohydrate; 0g Dietary Fiber; 0mg Cholesterol; 0mg Sodium.  Exchanges: .
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Accompaniment
+</CatT>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="Baking potatoes"></IngR>
+<IngR name="Olive oil">
+<IPrp>
+as needed
+</IPrp>
+</IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="=== OPTIONAL TOPPINGS ==="></IngR>
+<IngR name="Butter"></IngR>
+<IngR name="Grated cheese"></IngR>
+<IngR name="Yoghurt"></IngR>
+<IngR name="Cottage cheese"></IngR>
+<IngR name="Cream cheese"></IngR>
+<IngR name="Fromage frais"></IngR>
+<IngR name="Tofu mayonnaise"></IngR>
+<IngR name="Chili mayonaisse"></IngR>
+<IngR name="Chopped scallions"></IngR>
+<IngR name="Crumbled cooked bacon"></IngR>
+<DirS>
+<DirT>
+This is the simplest possible accompaniment for Wolfgang&apos;s hearty soups.  Make sure you scrub the baking potatoes first.  Rub them with a little olive oil and salt.  The secret to great baked potatoes lies in cooking them on a wire rack and never on a solid surface like a baking tray.  Bake them for 50 to 60 minutes at 400 degrees.  You know they&apos;re cooked when the flesh &apos;gives&apos; when you press them.
+</DirT>
+<DirT>
+Now&apos;s when the fun starts.  Cut them in two or split them across the top.  Add a little butter, cheese, yoghurt, cottage cheese, cream cheese, fromage frais, tofu mayonnaise, or chili mayonaisse.  Add scallions, bacon, anything that takes your fancy.  If necessary place the potato with the topping under the grill for a couple of minutes to melt the sauce into the potato.  And don&apos;t forget the salt and pepper.
+</DirT>
+<DirT>
+This recipe yields ? servings.
+</DirT>
+<DirT>
+Comments:  Baked potatoes go perfectly with Wolfgang&apos;s Hearty Vegetable Beef Soup.
+</DirT>
+</DirS>
+<Srce>
+Wolfgang Puck&apos;s Soups Site at http://www.wolfgangpucksoup.com/
+</Srce>
+<AltS label="Formatted for MC6" source="08-01-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE></mx2>

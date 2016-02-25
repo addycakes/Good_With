@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7702" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="iM3-qY-oNz">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7701"/>
+    </dependencies>
+    <scenes>
+        <!--TutorialVC-->
+        <scene sceneID="FNo-jJ-mOC">
+            <objects>
+                <viewController restorationIdentifier="Tutorial" storyboardIdentifier="Tutorial" id="cbG-ti-UNR" customClass="tutorialVC" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="oPi-FZ-pmV"/>
+                        <viewControllerLayoutGuide type="bottom" id="jk3-wH-fFR"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="sce-cz-lh3">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Gri-8K-s2c">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <connections>
+                        <outlet property="image" destination="Gri-8K-s2c" id="Exu-Jl-XOk"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="gvq-r5-k0d" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="109" y="-658"/>
+        </scene>
+        <!--SearchVC-->
+        <scene sceneID="Ge7-qa-0Ri">
+            <objects>
+                <viewController id="AXs-oO-c5P" customClass="searchVC" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="TlI-01-TiI"/>
+                        <viewControllerLayoutGuide type="bottom" id="ZQz-LW-eKf"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="3N2-BR-mlT">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <userGuides>
+                            <userLayoutGuide location="190" affinity="minY"/>
+                        </userGuides>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="GoodWithLaunchImage.png" translatesAutoresizingMaskIntoConstraints="NO" id="3OW-W3-i1P">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                            </imageView>
+                            <textField opaque="NO" clipsSubviews="YES" alpha="0.0" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="bezel" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="hGh-AC-hVA">
+                                <rect key="frame" x="20" y="275" width="280" height="50"/>
+                                <color key="textColor" red="1" green="0.5" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" name="Courier" family="Courier" pointSize="26"/>
+                                <textInputTraits key="textInputTraits" autocorrectionType="no" spellCheckingType="no" returnKeyType="done" enablesReturnKeyAutomatically="YES"/>
+                                <connections>
+                                    <action selector="textFieldIsEditing:" destination="AXs-oO-c5P" eventType="editingChanged" id="Ntp-oe-wDf"/>
+                                    <action selector="textFieldReturn:" destination="AXs-oO-c5P" eventType="editingDidEndOnExit" id="wj6-dl-Ltm"/>
+                                </connections>
+                            </textField>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.0" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="PjE-wm-lFh">
+                                <rect key="frame" x="28" y="276" width="272" height="50"/>
+                                <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="26"/>
+                                <color key="textColor" red="0.40000000596046448" green="0.40000000596046448" blue="0.40000000596046448" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.0" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Ingredient Not Found" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="109" translatesAutoresizingMaskIntoConstraints="NO" id="jHV-C3-L7s">
+                                <rect key="frame" x="106" y="334" width="109" height="54"/>
+                                <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="15"/>
+                                <color key="textColor" red="0.40000000596046448" green="0.40000000596046448" blue="0.40000000596046448" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="RKx-0C-Kzd"/>
+                    <connections>
+                        <outlet property="autocompleteLabel" destination="PjE-wm-lFh" id="7yv-Dg-1sN"/>
+                        <outlet property="background" destination="3OW-W3-i1P" id="Ckj-Fn-Qtj"/>
+                        <outlet property="notFoundLabel" destination="jHV-C3-L7s" id="HPQ-kX-gQX"/>
+                        <outlet property="searchField" destination="hGh-AC-hVA" id="fP5-qD-Flk"/>
+                        <segue destination="eMh-ZK-OoB" kind="push" identifier="Transition" id="ld6-db-YTr"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="HUR-Fu-vKw" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="110" y="-4"/>
+        </scene>
+        <!--BreakdownVC-->
+        <scene sceneID="cRg-F6-6Kc">
+            <objects>
+                <viewController storyboardIdentifier="Breakdown" useStoryboardIdentifierAsRestorationIdentifier="YES" id="eMh-ZK-OoB" customClass="breakdownVC" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="rf8-im-KZp"/>
+                        <viewControllerLayoutGuide type="bottom" id="TS3-Z7-1Fi"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="NeD-t7-J5J">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="GWBreakdownBG.png" translatesAutoresizingMaskIntoConstraints="NO" id="vZA-50-gcs">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                            </imageView>
+                            <containerView contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="LyE-xj-xcT">
+                                <rect key="frame" x="0.0" y="289" width="320" height="285"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <connections>
+                                    <segue destination="Po8-br-0V3" kind="embed" id="7Kk-f5-hOS"/>
+                                </connections>
+                            </containerView>
+                            <view alpha="0.0" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Kt5-FZ-Tmx" customClass="piechartView">
+                                <rect key="frame" x="100" y="115" width="120" height="120"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="UEe-V5-8DW"/>
+                    <connections>
+                        <outlet property="containerView" destination="LyE-xj-xcT" id="Qmj-TQ-ld6"/>
+                        <outlet property="piechart" destination="Kt5-FZ-Tmx" id="LhB-Vl-sTv"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="VvU-G1-Ngf" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="563" y="-44"/>
+        </scene>
+        <!--Recipe Web View-->
+        <scene sceneID="JnK-Sk-OC6">
+            <objects>
+                <viewController storyboardIdentifier="web" useStoryboardIdentifierAsRestorationIdentifier="YES" id="wpo-Fk-1eb" customClass="recipeWebView" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Vsh-rg-WWy"/>
+                        <viewControllerLayoutGuide type="bottom" id="bNJ-1M-DM2"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="CN8-xw-6Lt">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <webView contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="L2b-Yk-Aqs">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            </webView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="M1o-fm-n2F"/>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+                    <connections>
+                        <outlet property="webView" destination="L2b-Yk-Aqs" id="xSH-s3-tip"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="b4H-Ru-w0y" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1089" y="-4"/>
+        </scene>
+        <!--Recipes Table View Controller-->
+        <scene sceneID="ORQ-OF-FkW">
+            <objects>
+                <tableViewController id="Po8-br-0V3" customClass="recipesTableViewController" sceneMemberID="viewController">
+                    <tableView key="view" opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" alpha="0.0" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="grouped" separatorStyle="none" rowHeight="75" sectionHeaderHeight="10" sectionFooterHeight="10" id="C0V-59-cwb">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="285"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="Cell" rowHeight="75" id="DON-9R-YTg" customClass="recipeCell">
+                                <rect key="frame" x="0.0" y="55" width="320" height="44"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="DON-9R-YTg" id="2Ya-iR-OxK">
+                                    <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="GWCellBG.png" translatesAutoresizingMaskIntoConstraints="NO" id="2Z4-DI-82Y">
+                                            <rect key="frame" x="0.0" y="0.0" width="320" height="75"/>
+                                        </imageView>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="hRs-GD-Z26">
+                                            <rect key="frame" x="8" y="8.5" width="73" height="59"/>
+                                        </imageView>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="223" translatesAutoresizingMaskIntoConstraints="NO" id="8N9-VS-USa">
+                                            <rect key="frame" x="89" y="16.5" width="223" height="41"/>
+                                            <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="17"/>
+                                            <color key="textColor" red="0.40000000596046448" green="0.40000000596046448" blue="0.40000000596046448" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" hidesWhenStopped="YES" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="g9w-Qh-fa4">
+                                            <rect key="frame" x="150" y="27" width="20" height="20"/>
+                                        </activityIndicatorView>
+                                    </subviews>
+                                </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="loadingSpinner" destination="g9w-Qh-fa4" id="uSz-c3-W48"/>
+                                    <outlet property="thumbnail" destination="hRs-GD-Z26" id="xBd-DH-3gI"/>
+                                    <outlet property="titleLabel" destination="8N9-VS-USa" id="6jw-1j-z7b"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="Po8-br-0V3" id="yMn-gy-dee"/>
+                            <outlet property="delegate" destination="Po8-br-0V3" id="RU3-7d-VbK"/>
+                        </connections>
+                    </tableView>
+                    <connections>
+                        <segue destination="wpo-Fk-1eb" kind="push" identifier="webview" id="p44-V2-efT"/>
+                    </connections>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="kfn-2Z-4Tc" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="568" y="657.5"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="kRd-Ji-TkH">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" navigationBarHidden="YES" id="iM3-qY-oNz" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" alpha="0.24999999999999967" contentMode="scaleToFill" id="SYN-uB-HZS">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <textAttributes key="titleTextAttributes">
+                            <fontDescription key="fontDescription" name="MalayalamSangamMN-Bold" family="Malayalam Sangam MN" pointSize="24"/>
+                            <color key="textColor" red="0.40000000600000002" green="0.40000000600000002" blue="0.40000000600000002" alpha="1" colorSpace="calibratedRGB"/>
+                        </textAttributes>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="AXs-oO-c5P" kind="relationship" relationship="rootViewController" id="DdD-RQ-esu"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="hVQ-uQ-hyB" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-364" y="-4"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="GWBreakdownBG.png" width="640" height="1136"/>
+        <image name="GWCellBG.png" width="320" height="75"/>
+        <image name="GoodWithLaunchImage.png" width="640" height="1136"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

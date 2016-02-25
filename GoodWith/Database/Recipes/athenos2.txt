@@ -1,0 +1,2423 @@
+<?xml version="1.0" standalone="yes" encoding="ISO-8859-1"?>
+<!DOCTYPE mx2 SYSTEM "mx2.dtd">
+<mx2 source="MasterCook 6.0" date="August 08, 2001">
+<Summ>
+<Nam>
+Applesauce Muffins
+</Nam>
+<Nam>
+Baked Feta Cheese Appetizer
+</Nam>
+<Nam>
+Black Bean Soup
+</Nam>
+<Nam>
+Caesar Potatoes
+</Nam>
+<Nam>
+Chicken And Asparagus Pasta With Mushrooms
+</Nam>
+<Nam>
+Chicken And Hummus Panini
+</Nam>
+<Nam>
+Country Breakfast
+</Nam>
+<Nam>
+Crabmeat Stuffed Mushrooms
+</Nam>
+<Nam>
+Feta Stuffed Burgers
+</Nam>
+<Nam>
+Garlic Herb Turkey Burgers
+</Nam>
+<Nam>
+Greek Isles Fettuccine
+</Nam>
+<Nam>
+Grilled Taco Cheeseburgers
+</Nam>
+<Nam>
+Hot Feta Artichoke Dip
+</Nam>
+<Nam>
+Mediterranean Grilled Steak Wraps
+</Nam>
+<Nam>
+Orange Oriental Sesame Beef Stir-Fry
+</Nam>
+<Nam>
+Party Meatballs With Yogurt And Feta Sauce
+</Nam>
+<Nam>
+Pasta With Chicken, Roasted Red Peppers And Feta
+</Nam>
+<Nam>
+Plum Tomato And Pesto Bread
+</Nam>
+<Nam>
+Red Pepper Bruschetta With Feta
+</Nam>
+<Nam>
+Saturday Skillet Breakfast
+</Nam>
+<Nam>
+Savory Parmesan Bites
+</Nam>
+<Nam>
+Shrimp Scampi
+</Nam>
+<Nam>
+Shrimp With Tomato And Feta
+</Nam>
+<Nam>
+Spicy Citrus Chicken Wings
+</Nam>
+<Nam>
+Spring Garden Bacon Frittata
+</Nam></Summ>
+<RcpE name="Applesauce Muffins" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                            Applesauce Muffins
+
+Recipe By     :n/a
+Serving Size  : 12    Preparation Time :0:00
+Categories    : Breads/Rolls                    Muffins
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1 1/4           cups  flour
+  1         tablespoon  Calumet Baking Powder
+     1/4      teaspoon  salt
+  2               cups  Post Fruit & Fibre Cereal
+  1                cup  fat free milk
+  1                     egg
+     1/2           cup  applesauce
+     1/3           cup  brown sugar - (firmly packed)
+  2        tablespoons  margarine -- melted
+
+Heat oven to 400 degrees.  Spray muffin pan with no stick cooking spray.
+
+Mix flour, baking powder and salt in large bowl.  Mix cereal and milk in another bowl; let stand 3 minutes.
+
+Beat egg in small bowl; stir in applesauce, sugar and margarine.  Stir into cereal mixture.  Add to flour mixture; stir just until moistened.  (Batter will be lumpy.)
+
+Spoon batter into prepared muffin pan, filling each cup 2/3 full.  Bake 20 minutes or until golden brown.  Serve warm.
+
+This recipe yields 12 muffins.
+
+Storage Know-How:  Store completely cooled muffins in airtight container up to 2 days.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 78 Calories; 2g Fat (28.0% calories from fat); 2g Protein; 12g Carbohydrate; 1g Dietary Fiber; 16mg Cholesterol; 72mg Sodium.  Exchanges: 1/2 Grain(Starch); 0 Lean Meat; 0 Fruit; 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="12"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Breads/Rolls
+</CatT>
+<CatT>
+Muffins
+</CatT>
+</CatS>
+<IngR name="flour" unit="cups" qty="1 1/4"></IngR>
+<IngR name="Calumet Baking Powder" unit="tablespoon" qty="1"></IngR>
+<IngR name="salt" unit="teaspoon" qty="1/4"></IngR>
+<IngR name="Post Fruit &amp; Fibre Cereal" unit="cups" qty="2"></IngR>
+<IngR name="fat free milk" unit="cup" qty="1"></IngR>
+<IngR name="egg" qty="1"></IngR>
+<IngR name="applesauce" unit="cup" qty="1/2"></IngR>
+<IngR name="brown sugar - (firmly packed)" unit="cup" qty="1/3"></IngR>
+<IngR name="margarine" unit="tablespoons" qty="2">
+<IPrp>
+melted
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Heat oven to 400 degrees.  Spray muffin pan with no stick cooking spray.
+</DirT>
+<DirT>
+Mix flour, baking powder and salt in large bowl.  Mix cereal and milk in another bowl; let stand 3 minutes.
+</DirT>
+<DirT>
+Beat egg in small bowl; stir in applesauce, sugar and margarine.  Stir into cereal mixture.  Add to flour mixture; stir just until moistened.  (Batter will be lumpy.)
+</DirT>
+<DirT>
+Spoon batter into prepared muffin pan, filling each cup 2/3 full.  Bake 20 minutes or until golden brown.  Serve warm.
+</DirT>
+<DirT>
+This recipe yields 12 muffins.
+</DirT>
+<DirT>
+Storage Know-How:  Store completely cooled muffins in airtight container up to 2 days.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Baked Feta Cheese Appetizer" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                       Baked Feta Cheese Appetizer
+
+Recipe By     :n/a
+Serving Size  : 8     Preparation Time :0:00
+Categories    : Appetizers
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1            package  refrigerated crescent dinner rolls -- (4 oz)
+  1            package  Athenos Traditional Feta Cheese - (8 oz)
+     1/2      teaspoon  dried oregano
+  1                     egg -- beaten
+
+Unroll dough on lightly greased cookie sheet; press seams together to form 12- by 4-inch rectangle.
+
+Sprinkle feta cheese with oregano; lightly press oregano into feta cheese.  Place feta cheese, oregano-side up, in center of dough.  Bring edges of dough up over feta cheese; press edges together to seal, completely enclosing feta cheese.  Brush with egg.
+
+Bake at 350 degrees for 20 minutes or until lightly browned.  Serve with crackers, French bread or fresh fruit slices.
+
+This recipe yields 8 servings.
+
+Great Substitute:  Try 1 package (8-oz) Athenos Feta Cheese with Basil & Tomato, Garlic & Herb or Peppercorn in place of Traditional Feta Cheese.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 8 Calories; 1g Fat (60.5% calories from fat); 1g Protein; trace Carbohydrate; trace Dietary Fiber; 23mg Cholesterol; 7mg Sodium.  Exchanges: 0 Grain(Starch); 0 Lean Meat; 0 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="8"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Appetizers
+</CatT>
+</CatS>
+<IngR name="refrigerated crescent dinner rolls" unit="package" qty="1">
+<IPrp>
+(4 oz)
+</IPrp>
+</IngR>
+<IngR name="Athenos Traditional Feta Cheese - (8 oz)" unit="package" qty="1"></IngR>
+<IngR name="dried oregano" unit="teaspoon" qty="1/2"></IngR>
+<IngR name="egg" qty="1">
+<IPrp>
+beaten
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Unroll dough on lightly greased cookie sheet; press seams together to form 12- by 4-inch rectangle.
+</DirT>
+<DirT>
+Sprinkle feta cheese with oregano; lightly press oregano into feta cheese.  Place feta cheese, oregano-side up, in center of dough.  Bring edges of dough up over feta cheese; press edges together to seal, completely enclosing feta cheese.  Brush with egg.
+</DirT>
+<DirT>
+Bake at 350 degrees for 20 minutes or until lightly browned.  Serve with crackers, French bread or fresh fruit slices.
+</DirT>
+<DirT>
+This recipe yields 8 servings.
+</DirT>
+<DirT>
+Great Substitute:  Try 1 package (8-oz) Athenos Feta Cheese with Basil &amp; Tomato, Garlic &amp; Herb or Peppercorn in place of Traditional Feta Cheese.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Black Bean Soup" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                             Black Bean Soup
+
+Recipe By     :n/a
+Serving Size  : 7     Preparation Time :0:00
+Categories    : Soups/Stews
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  2               cans  black beans - (15 oz ea) -- undrained, divided
+  3               cups  water
+     1/2           cup  chopped onion
+  1           envelope  Good Seasons Italian or
+                        Garlic & Herb Salad Dressing Mix
+  1 1/2           cups  Minute Instant Brown Rice -- uncooked
+                        Breakstone's or Knudsen Light Sour Cream
+                        Cilantro leaves
+                        Chopped red pepper
+
+Place 1 1/2 cans of the beans with liquid in blender container; cover.  Blend until smooth.  Pour into large saucepan.  Stir in remaining beans, water, onion and salad dressing mix.
+
+Bring to boil.  Stir in rice.  Reduce heat to low; cover and simmer 5 minutes.
+
+Spoon into individual serving bowls; top with remaining ingredients.
+
+This recipe yields 7 (1-cup) servings.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 4 Calories; trace Fat (3.4% calories from fat); trace Protein; 1g Carbohydrate; trace Dietary Fiber; 0mg Cholesterol; 3mg Sodium.  Exchanges: 0 Vegetable.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="7"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Soups/Stews
+</CatT>
+</CatS>
+<IngR name="black beans - (15 oz ea)" unit="cans" qty="2">
+<IPrp>
+undrained, divided
+</IPrp>
+</IngR>
+<IngR name="water" unit="cups" qty="3"></IngR>
+<IngR name="chopped onion" unit="cup" qty="1/2"></IngR>
+<IngR name="Good Seasons Italian or" unit="envelope" qty="1"></IngR>
+<IngR name="Garlic &amp; Herb Salad Dressing Mix"></IngR>
+<IngR name="Minute Instant Brown Rice" unit="cups" qty="1 1/2">
+<IPrp>
+uncooked
+</IPrp>
+</IngR>
+<IngR name="Breakstone&apos;s or Knudsen Light Sour Cream"></IngR>
+<IngR name="Cilantro leaves"></IngR>
+<IngR name="Chopped red pepper"></IngR>
+<DirS>
+<DirT>
+Place 1 1/2 cans of the beans with liquid in blender container; cover.  Blend until smooth.  Pour into large saucepan.  Stir in remaining beans, water, onion and salad dressing mix.
+</DirT>
+<DirT>
+Bring to boil.  Stir in rice.  Reduce heat to low; cover and simmer 5 minutes.
+</DirT>
+<DirT>
+Spoon into individual serving bowls; top with remaining ingredients.
+</DirT>
+<DirT>
+This recipe yields 7 (1-cup) servings.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Caesar Potatoes" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                             Caesar Potatoes
+
+Recipe By     :n/a
+Serving Size  : 6     Preparation Time :0:00
+Categories    : Side Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1           envelope  Good Seasons Gourmet Caesar or
+                        Italian Salad Dressing Mix
+     1/4           cup  vinegar
+  3        tablespoons  oil
+  1 1/2         pounds  red potatoes -- cut into chunks
+  1             medium  red or green pepper -- cut into 1" pieces
+  1             medium  onion -- cut into 1" pieces
+
+Prepare salad dressing mix as directed on envelope with vinegar and oil, omitting water.  Toss remaining ingredients with dressing mixture.  Spoon evenly onto double layer of heavy-duty aluminum foil; close foil to form tightly-sealed pouch.
+
+Place on grill over medium coals.  Grill 30 to 35 minutes or until tender, turning halfway through grilling time to prevent burning.
+
+This recipe yields 6 (3/4-cup) servings.
+
+To Bake: Prepare as directed except for grilling.  Spoon evenly into 15- by 10- by 1-inch baking pan lined with foil.  Bake at 400 degrees for 40 minutes or until tender.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 158 Calories; 7g Fat (38.3% calories from fat); 3g Protein; 23g Carbohydrate; 2g Dietary Fiber; 0mg Cholesterol; 7mg Sodium.  Exchanges: 1 Grain(Starch); 1/2 Vegetable; 1 1/2 Fat; 0 Other Carbohydrates.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="6"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Side Dish
+</CatT>
+</CatS>
+<IngR name="Good Seasons Gourmet Caesar or" unit="envelope" qty="1"></IngR>
+<IngR name="Italian Salad Dressing Mix"></IngR>
+<IngR name="vinegar" unit="cup" qty="1/4"></IngR>
+<IngR name="oil" unit="tablespoons" qty="3"></IngR>
+<IngR name="red potatoes" unit="pounds" qty="1 1/2">
+<IPrp>
+cut into chunks
+</IPrp>
+</IngR>
+<IngR name="red or green pepper" unit="medium" qty="1">
+<IPrp>
+cut into 1&quot; pieces
+</IPrp>
+</IngR>
+<IngR name="onion" unit="medium" qty="1">
+<IPrp>
+cut into 1&quot; pieces
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Prepare salad dressing mix as directed on envelope with vinegar and oil, omitting water.  Toss remaining ingredients with dressing mixture.  Spoon evenly onto double layer of heavy-duty aluminum foil; close foil to form tightly-sealed pouch.
+</DirT>
+<DirT>
+Place on grill over medium coals.  Grill 30 to 35 minutes or until tender, turning halfway through grilling time to prevent burning.
+</DirT>
+<DirT>
+This recipe yields 6 (3/4-cup) servings.
+</DirT>
+<DirT>
+To Bake: Prepare as directed except for grilling.  Spoon evenly into 15- by 10- by 1-inch baking pan lined with foil.  Bake at 400 degrees for 40 minutes or until tender.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Chicken And Asparagus Pasta With Mushrooms" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                Chicken And Asparagus Pasta With Mushrooms
+
+Recipe By     :n/a
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Main Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  8             ounces  portabella mushrooms -- sliced
+  1              pound  fresh asparagus -- cut 2" pieces
+  1                cup  Kraft Special Collection Balsamic
+                        Vinaigrette
+  2        tablespoons  chopped sundried tomatoes
+  2               cups  bowtie or shell pasta -- cooked, drained
+  1            package  Louis Rich Carving Board Grilled
+                        Chicken Breast Strips - (6 oz)
+
+Cook mushrooms and asparagus in 1/4 cup dressing in large skillet just until tender, stirring frequently.
+
+Add remaining dressing, tomatoes, pasta and chicken; cook, covered, 5 minutes or until heated through.
+
+This recipe yields 4 servings.
+
+Variation:  Add 2 tablespoon capers with the dressing for an elegant twist.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 26 Calories; trace Fat (6.0% calories from fat); 3g Protein; 5g Carbohydrate; 2g Dietary Fiber; 0mg Cholesterol; 2mg Sodium.  Exchanges: 1 Vegetable.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Main Dish
+</CatT>
+</CatS>
+<IngR name="portabella mushrooms" unit="ounces" qty="8">
+<IPrp>
+sliced
+</IPrp>
+</IngR>
+<IngR name="fresh asparagus" unit="pound" qty="1">
+<IPrp>
+cut 2&quot; pieces
+</IPrp>
+</IngR>
+<IngR name="Kraft Special Collection Balsamic" unit="cup" qty="1"></IngR>
+<IngR name="Vinaigrette"></IngR>
+<IngR name="chopped sundried tomatoes" unit="tablespoons" qty="2"></IngR>
+<IngR name="bowtie or shell pasta" unit="cups" qty="2">
+<IPrp>
+cooked, drained
+</IPrp>
+</IngR>
+<IngR name="Louis Rich Carving Board Grilled" unit="package" qty="1"></IngR>
+<IngR name="Chicken Breast Strips - (6 oz)"></IngR>
+<DirS>
+<DirT>
+Cook mushrooms and asparagus in 1/4 cup dressing in large skillet just until tender, stirring frequently.
+</DirT>
+<DirT>
+Add remaining dressing, tomatoes, pasta and chicken; cook, covered, 5 minutes or until heated through.
+</DirT>
+<DirT>
+This recipe yields 4 servings.
+</DirT>
+<DirT>
+Variation:  Add 2 tablespoon capers with the dressing for an elegant twist.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Chicken And Hummus Panini" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                        Chicken And Hummus Panini
+
+Recipe By     :n/a
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Sandwiches
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  8             slices  crusty Italian bread
+  1            package  Athenos Original Hummus - (7 oz)
+  2                     boneless skinless chicken breast halves -- grilled or
+                        broiled, cut into 1/4" slices
+                        Tomato slices -- as needed
+                        Fresh basil leaves -- as needed
+  1            package  Athenos Feta Cheese with
+                        Basil & Tomato - (8 oz) -- thinly sliced
+                        Red onion slices -- as needed
+                        Olive oil -- as needed
+
+Spread 1 side of each bread slice with hummus.  Top with chicken slices, tomato, basil leaves, feta cheese, onion and second bread slice.
+
+Brush outsides of sandwiches with oil.  Cook sandwiches in skillet on medium heat until lightly browned on both sides.
+
+This recipe yields 4 sandwiches.
+
+Great Substitutes:  Try 1 package (6-oz) Louis Rich Carving Board Grilled Chicken Breast Strips in place of chicken.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 65 Calories; 1g Fat (10.8% calories from fat); 14g Protein; 0g Carbohydrate; 0g Dietary Fiber; 34mg Cholesterol; 38mg Sodium.  Exchanges: 2 Lean Meat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Sandwiches
+</CatT>
+</CatS>
+<IngR name="crusty Italian bread" unit="slices" qty="8"></IngR>
+<IngR name="Athenos Original Hummus - (7 oz)" unit="package" qty="1"></IngR>
+<IngR name="boneless skinless chicken breast halves" qty="2">
+<IPrp>
+grilled or
+</IPrp>
+</IngR>
+<IngR name="broiled, cut into 1/4&quot; slices"></IngR>
+<IngR name="Tomato slices">
+<IPrp>
+as needed
+</IPrp>
+</IngR>
+<IngR name="Fresh basil leaves">
+<IPrp>
+as needed
+</IPrp>
+</IngR>
+<IngR name="Athenos Feta Cheese with" unit="package" qty="1"></IngR>
+<IngR name="Basil &amp; Tomato - (8 oz)">
+<IPrp>
+thinly sliced
+</IPrp>
+</IngR>
+<IngR name="Red onion slices">
+<IPrp>
+as needed
+</IPrp>
+</IngR>
+<IngR name="Olive oil">
+<IPrp>
+as needed
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Spread 1 side of each bread slice with hummus.  Top with chicken slices, tomato, basil leaves, feta cheese, onion and second bread slice.
+</DirT>
+<DirT>
+Brush outsides of sandwiches with oil.  Cook sandwiches in skillet on medium heat until lightly browned on both sides.
+</DirT>
+<DirT>
+This recipe yields 4 sandwiches.
+</DirT>
+<DirT>
+Great Substitutes:  Try 1 package (6-oz) Louis Rich Carving Board Grilled Chicken Breast Strips in place of chicken.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Country Breakfast" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                            Country Breakfast
+
+Recipe By     :n/a
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Breakfast
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  4               cups  cubed cooked potatoes
+     1/2           cup  chopped green pepper
+  2        tablespoons  chopped onion
+     1/3           cup  butter or margarine
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+  4                     eggs
+  1                cup  Kraft Shredded Cheddar Cheese
+
+Cook and stir potatoes, green pepper and onion in butter in skillet on medium heat until lightly browned.  Season to taste with salt and pepper.
+
+Break eggs over potato mixture.  Cover; cook until eggs are set.  Top with cheese.  Cover; continue cooking until cheese is melted.
+
+This recipe yields 4 servings.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 208 Calories; 20g Fat (84.7% calories from fat); 6g Protein; 2g Carbohydrate; trace Dietary Fiber; 228mg Cholesterol; 212mg Sodium.  Exchanges: 1 Lean Meat; 1/2 Vegetable; 3 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Breakfast
+</CatT>
+</CatS>
+<IngR name="cubed cooked potatoes" unit="cups" qty="4"></IngR>
+<IngR name="chopped green pepper" unit="cup" qty="1/2"></IngR>
+<IngR name="chopped onion" unit="tablespoons" qty="2"></IngR>
+<IngR name="butter or margarine" unit="cup" qty="1/3"></IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="eggs" qty="4"></IngR>
+<IngR name="Kraft Shredded Cheddar Cheese" unit="cup" qty="1"></IngR>
+<DirS>
+<DirT>
+Cook and stir potatoes, green pepper and onion in butter in skillet on medium heat until lightly browned.  Season to taste with salt and pepper.
+</DirT>
+<DirT>
+Break eggs over potato mixture.  Cover; cook until eggs are set.  Top with cheese.  Cover; continue cooking until cheese is melted.
+</DirT>
+<DirT>
+This recipe yields 4 servings.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Crabmeat Stuffed Mushrooms" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                        Crabmeat Stuffed Mushrooms
+
+Recipe By     :n/a
+Serving Size  : 12    Preparation Time :0:00
+Categories    : Appetizers                      Mushrooms
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  12             large  mushrooms - (to 14)
+  2        tablespoons  sliced green onion
+  3        tablespoons  butter or margarine -- divided
+  3        tablespoons  fresh bread crumbs
+  1            package  Philadelphia Cream Cheese - (3 oz) -- softened
+  1            package  frozen crabmeat - (6 oz) -- thawed, drained,
+                        and flaked
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+
+Remove mushroom stems; chop enough stems to measure 1/3 cup.  Cook and stir chopped stems and onion in 1 tablespoon of the butter; stir in crumbs.
+
+Add mushroom mixture to cream cheese, mixing until well blended.  Gently stir in crabmeat; season to taste with salt and pepper, if desired.
+
+Brush mushroom caps with remaining 2 tablespoons butter, melted.  Fill with cream cheese mixture; place in shallow baking dish.  Bake at 350 degrees for 18 to 20 minutes or until thoroughly heated.
+
+This recipe yields 12 to 14 mushrooms.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 27 Calories; 3g Fat (93.7% calories from fat); trace Protein; trace Carbohydrate; trace Dietary Fiber; 8mg Cholesterol; 33mg Sodium.  Exchanges: 0 Grain(Starch); 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="12"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Appetizers
+</CatT>
+<CatT>
+Mushrooms
+</CatT>
+</CatS>
+<IngR name="mushrooms - (to 14)" unit="large" qty="12"></IngR>
+<IngR name="sliced green onion" unit="tablespoons" qty="2"></IngR>
+<IngR name="butter or margarine" unit="tablespoons" qty="3">
+<IPrp>
+divided
+</IPrp>
+</IngR>
+<IngR name="fresh bread crumbs" unit="tablespoons" qty="3"></IngR>
+<IngR name="Philadelphia Cream Cheese - (3 oz)" unit="package" qty="1">
+<IPrp>
+softened
+</IPrp>
+</IngR>
+<IngR name="frozen crabmeat - (6 oz)" unit="package" qty="1">
+<IPrp>
+thawed, drained,
+</IPrp>
+</IngR>
+<IngR name="and flaked"></IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Remove mushroom stems; chop enough stems to measure 1/3 cup.  Cook and stir chopped stems and onion in 1 tablespoon of the butter; stir in crumbs.
+</DirT>
+<DirT>
+Add mushroom mixture to cream cheese, mixing until well blended.  Gently stir in crabmeat; season to taste with salt and pepper, if desired.
+</DirT>
+<DirT>
+Brush mushroom caps with remaining 2 tablespoons butter, melted.  Fill with cream cheese mixture; place in shallow baking dish.  Bake at 350 degrees for 18 to 20 minutes or until thoroughly heated.
+</DirT>
+<DirT>
+This recipe yields 12 to 14 mushrooms.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Feta Stuffed Burgers" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                           Feta Stuffed Burgers
+
+Recipe By     :n/a
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Sandwiches
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1 1/2         pounds  lean ground beef
+  1            package  Athenos Traditional Crumbled Feta Cheese -- (4 oz), divided
+  4                     rolls or hamburger buns -- split, toasted
+
+Shape meat into 8 thin patties.  Top 4 patties each with 1/4 of the feta cheese.  Top those patties with remaining patties; pinch edges together to seal.
+
+Place on grill over medium coals.  Grill 7 to 9 minutes on each side or until cooked through (160 degrees).  Serve patties in rolls with your favorite toppings.
+
+This recipe yields 4 sandwiches.
+
+Great Substitute:  Try 1 package (4-oz) Athenos Crumbled Feta Cheese with Basil & Tomato, Garlic & Herb, or Peppercorn in place of Traditional Feta Cheese.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 449 Calories; 35g Fat (72.4% calories from fat); 30g Protein; 0g Carbohydrate; 0g Dietary Fiber; 128mg Cholesterol; 117mg Sodium.  Exchanges: 4 1/2 Lean Meat; 4 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Sandwiches
+</CatT>
+</CatS>
+<IngR name="lean ground beef" unit="pounds" qty="1 1/2"></IngR>
+<IngR name="Athenos Traditional Crumbled Feta Cheese" unit="package" qty="1">
+<IPrp>
+(4 oz), divided
+</IPrp>
+</IngR>
+<IngR name="rolls or hamburger buns" qty="4">
+<IPrp>
+split, toasted
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Shape meat into 8 thin patties.  Top 4 patties each with 1/4 of the feta cheese.  Top those patties with remaining patties; pinch edges together to seal.
+</DirT>
+<DirT>
+Place on grill over medium coals.  Grill 7 to 9 minutes on each side or until cooked through (160 degrees).  Serve patties in rolls with your favorite toppings.
+</DirT>
+<DirT>
+This recipe yields 4 sandwiches.
+</DirT>
+<DirT>
+Great Substitute:  Try 1 package (4-oz) Athenos Crumbled Feta Cheese with Basil &amp; Tomato, Garlic &amp; Herb, or Peppercorn in place of Traditional Feta Cheese.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Garlic Herb Turkey Burgers" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                        Garlic Herb Turkey Burgers
+
+Recipe By     :n/a
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Sandwiches
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1            package  Louis Rich Frozen Ground Turkey - (16 oz) -- thawed
+  1           envelope  Good Seasons Garlic & Herb
+                        Salad Dressing Mix
+  4                     Kaiser rolls -- split, toasted
+  4                     Claussen Burger Slices - (to 8)
+
+Mix turkey and salad dressing mix.  Shape into 4 patties.
+
+Place patties on grill over medium coals.  Grill 7 to 9 minutes on each side or until cooked through (165 degrees).
+
+Fill rolls with patties and pickle slices.
+
+This recipe yields 4 sandwiches.
+
+Variations:  Top each patty with 1 Kraft Singles Process Cheese Food during last 1 minute of grilling.
+
+Prepare as directed, substituting 1/3 cup Kraft 100% Grated Parmesan Cheese for Good Seasons Salad Dressing Mix.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 0 Calories; 0g Fat (0.0% calories from fat); 0g Protein; 0g Carbohydrate; 0g Dietary Fiber; 0mg Cholesterol; 0mg Sodium.  Exchanges: .
+
+
+Nutr. Assoc. : 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Sandwiches
+</CatT>
+</CatS>
+<IngR name="Louis Rich Frozen Ground Turkey - (16 oz)" unit="package" qty="1">
+<IPrp>
+thawed
+</IPrp>
+</IngR>
+<IngR name="Good Seasons Garlic &amp; Herb" unit="envelope" qty="1"></IngR>
+<IngR name="Salad Dressing Mix"></IngR>
+<IngR name="Kaiser rolls" qty="4">
+<IPrp>
+split, toasted
+</IPrp>
+</IngR>
+<IngR name="Claussen Burger Slices - (to 8)" qty="4"></IngR>
+<DirS>
+<DirT>
+Mix turkey and salad dressing mix.  Shape into 4 patties.
+</DirT>
+<DirT>
+Place patties on grill over medium coals.  Grill 7 to 9 minutes on each side or until cooked through (165 degrees).
+</DirT>
+<DirT>
+Fill rolls with patties and pickle slices.
+</DirT>
+<DirT>
+This recipe yields 4 sandwiches.
+</DirT>
+<DirT>
+Variations:  Top each patty with 1 Kraft Singles Process Cheese Food during last 1 minute of grilling.
+</DirT>
+<DirT>
+Prepare as directed, substituting 1/3 cup Kraft 100% Grated Parmesan Cheese for Good Seasons Salad Dressing Mix.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Greek Isles Fettuccine" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                          Greek Isles Fettuccine
+
+Recipe By     :n/a
+Serving Size  : 6     Preparation Time :0:00
+Categories    : Main Dish                       Pasta
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  12            ounces  fettuccine
+  3        tablespoons  olive oil
+  1            package  Athenos Crumbled Feta Cheese with
+                        Basil & Tomato - (8 oz)
+  2               cups  chopped tomatoes
+     1/4           cup  julienne-cut fresh basil
+                        = (or 2 tspns dried basil leaves, crushed)
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+
+Cook fettuccine 8 to 10 minutes or until al dente.  Drain.  Return to pan; toss with oil.  Toss with feta cheese, tomatoes and basil.  Season to taste with pepper and salt.
+
+This recipe yields 6 servings.
+
+Great Substitute:  Try Athenos Feta Cheese with Garlic & Herb in place of Athenos Feta Cheese with Basil & Tomato.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 72 Calories; 7g Fat (82.5% calories from fat); 1g Protein; 3g Carbohydrate; 1g Dietary Fiber; 0mg Cholesterol; 5mg Sodium.  Exchanges: 1/2 Vegetable; 1 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="6"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Main Dish
+</CatT>
+<CatT>
+Pasta
+</CatT>
+</CatS>
+<IngR name="fettuccine" unit="ounces" qty="12"></IngR>
+<IngR name="olive oil" unit="tablespoons" qty="3"></IngR>
+<IngR name="Athenos Crumbled Feta Cheese with" unit="package" qty="1"></IngR>
+<IngR name="Basil &amp; Tomato - (8 oz)"></IngR>
+<IngR name="chopped tomatoes" unit="cups" qty="2"></IngR>
+<IngR name="julienne-cut fresh basil" unit="cup" qty="1/4"></IngR>
+<IngR name="= (or 2 tspns dried basil leaves, crushed)"></IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Cook fettuccine 8 to 10 minutes or until al dente.  Drain.  Return to pan; toss with oil.  Toss with feta cheese, tomatoes and basil.  Season to taste with pepper and salt.
+</DirT>
+<DirT>
+This recipe yields 6 servings.
+</DirT>
+<DirT>
+Great Substitute:  Try Athenos Feta Cheese with Garlic &amp; Herb in place of Athenos Feta Cheese with Basil &amp; Tomato.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Grilled Taco Cheeseburgers" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                        Grilled Taco Cheeseburgers
+
+Recipe By     :n/a
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Sandwiches
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1              pound  ground beef
+  1            package  Taco Bell Home Originals
+                        Taco Seasoning Mix - (1 1/4 oz)
+  8             slices  Kraft Deli Deluxe Process American Cheese
+  4                     Kaiser rolls or hamburger buns -- split, toasted
+                        Lettuce leaves
+                        Taco Bell Home Originals Thick ëN
+                        Chunky Salsa
+
+Mix meat and seasoning mix.  Shape into 4 patties.
+
+Place patties on grill over medium coals.  Grill 7 to 9 minutes on each side or until cooked through (160 degrees).
+
+Top each patty with 2 process cheese slices; grill until process cheese begins to melt.  Fill rolls with lettuce and cheeseburgers; top with salsa.
+
+This recipe yields 4 sandwiches.
+
+Special Extras:  Top with your favorite taco toppings.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 352 Calories; 30g Fat (78.2% calories from fat); 19g Protein; 0g Carbohydrate; 0g Dietary Fiber; 96mg Cholesterol; 77mg Sodium.  Exchanges: 2 1/2 Lean Meat; 4 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Sandwiches
+</CatT>
+</CatS>
+<IngR name="ground beef" unit="pound" qty="1"></IngR>
+<IngR name="Taco Bell Home Originals" unit="package" qty="1"></IngR>
+<IngR name="Taco Seasoning Mix - (1 1/4 oz)"></IngR>
+<IngR name="Kraft Deli Deluxe Process American Cheese" unit="slices" qty="8"></IngR>
+<IngR name="Kaiser rolls or hamburger buns" qty="4">
+<IPrp>
+split, toasted
+</IPrp>
+</IngR>
+<IngR name="Lettuce leaves"></IngR>
+<IngR name="Taco Bell Home Originals Thick ëN"></IngR>
+<IngR name="Chunky Salsa"></IngR>
+<DirS>
+<DirT>
+Mix meat and seasoning mix.  Shape into 4 patties.
+</DirT>
+<DirT>
+Place patties on grill over medium coals.  Grill 7 to 9 minutes on each side or until cooked through (160 degrees).
+</DirT>
+<DirT>
+Top each patty with 2 process cheese slices; grill until process cheese begins to melt.  Fill rolls with lettuce and cheeseburgers; top with salsa.
+</DirT>
+<DirT>
+This recipe yields 4 sandwiches.
+</DirT>
+<DirT>
+Special Extras:  Top with your favorite taco toppings.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Hot Feta Artichoke Dip" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                          Hot Feta Artichoke Dip
+
+Recipe By     :n/a
+Serving Size  : 0     Preparation Time :0:00
+Categories    : Dips/Spreads
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1                can  artichoke hearts - (14 oz) -- drained, chopped
+  1            package  Athenos Traditional Crumbled Feta Cheese -- (8 oz)
+  1                cup  Kraft Real Mayonnaise
+     1/2           cup  Di Giorno Shredded Parmesan Cheese
+  1                jar  diced pimientos - (2 oz) -- drained
+  1                     garlic clove -- minced
+
+Mix all ingredients.  Spoon into 9-inch pie plate or 3-cup shallow baking dish.
+
+Bake at 350 degrees for 20 to 25 minutes or until lightly browned.  Garnish with chopped tomato and sliced green onion.
+
+Serve with assorted crackers or pita triangles.
+
+This recipe yields 2 cups.
+
+Make-Ahead:  Prepare as directed except for baking; cover.  Refrigerate overnight.  Bake uncovered at 350 degrees for 30 to 35 minutes or until lightly browned.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+Yield:
+  "2 cups"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 4 Calories; trace Fat (1.9% calories from fat); trace Protein; 1g Carbohydrate; trace Dietary Fiber; 0mg Cholesterol; 1mg Sodium.  Exchanges: 0 Vegetable.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Dips/Spreads
+</CatT>
+</CatS>
+<IngR name="artichoke hearts - (14 oz)" unit="can" qty="1">
+<IPrp>
+drained, chopped
+</IPrp>
+</IngR>
+<IngR name="Athenos Traditional Crumbled Feta Cheese" unit="package" qty="1">
+<IPrp>
+(8 oz)
+</IPrp>
+</IngR>
+<IngR name="Kraft Real Mayonnaise" unit="cup" qty="1"></IngR>
+<IngR name="Di Giorno Shredded Parmesan Cheese" unit="cup" qty="1/2"></IngR>
+<IngR name="diced pimientos - (2 oz)" unit="jar" qty="1">
+<IPrp>
+drained
+</IPrp>
+</IngR>
+<IngR name="garlic clove" qty="1">
+<IPrp>
+minced
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Mix all ingredients.  Spoon into 9-inch pie plate or 3-cup shallow baking dish.
+</DirT>
+<DirT>
+Bake at 350 degrees for 20 to 25 minutes or until lightly browned.  Garnish with chopped tomato and sliced green onion.
+</DirT>
+<DirT>
+Serve with assorted crackers or pita triangles.
+</DirT>
+<DirT>
+This recipe yields 2 cups.
+</DirT>
+<DirT>
+Make-Ahead:  Prepare as directed except for baking; cover.  Refrigerate overnight.  Bake uncovered at 350 degrees for 30 to 35 minutes or until lightly browned.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+<Yield unit="cups" qty="2.000000"/>
+</RcpE>
+<RcpE name="Mediterranean Grilled Steak Wraps" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                    Mediterranean Grilled Steak Wraps
+
+Recipe By     :n/a
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Sandwiches                      Wraps
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+     1/2           cup  Kraft Italian dressing
+  1         tablespoon  chopped fresh mint -- (optional)
+  1              large  orange -- peeled, chopped
+     1/2           cup  chopped red onion
+  1            package  Athenos Traditional Crumbled Feta Cheese -- (4 oz)
+     3/4         pound  boneless beef skirt steak
+  4                     flour tortillas - (10" dia)
+                        = (or six 8"-dia flour tortillas)
+
+Mix dressing and mint.  Toss 1/2 of the dressing mixture with orange, onion and feta cheese.
+
+Place steak on greased grill over medium coals.  Grill 5 to 6 minutes on each side or until cooked through, brushing frequently with remaining dressing.
+
+Slice steak into thin strips.  Top tortillas with steak strips and orange mixture; wrap.
+
+This recipe yields 4 servings.
+
+Great Substitute:  Substitute 1 pound boneless skinless chicken breasts for skirt steak.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 16 Calories; trace Fat (2.4% calories from fat); trace Protein; 4g Carbohydrate; 1g Dietary Fiber; 0mg Cholesterol; trace Sodium.  Exchanges: 0 Vegetable; 0 Fruit.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Sandwiches
+</CatT>
+<CatT>
+Wraps
+</CatT>
+</CatS>
+<IngR name="Kraft Italian dressing" unit="cup" qty="1/2"></IngR>
+<IngR name="chopped fresh mint" unit="tablespoon" qty="1">
+<IPrp>
+(optional)
+</IPrp>
+</IngR>
+<IngR name="orange" unit="large" qty="1">
+<IPrp>
+peeled, chopped
+</IPrp>
+</IngR>
+<IngR name="chopped red onion" unit="cup" qty="1/2"></IngR>
+<IngR name="Athenos Traditional Crumbled Feta Cheese" unit="package" qty="1">
+<IPrp>
+(4 oz)
+</IPrp>
+</IngR>
+<IngR name="boneless beef skirt steak" unit="pound" qty="3/4"></IngR>
+<IngR name="flour tortillas - (10&quot; dia)" qty="4"></IngR>
+<IngR name="= (or six 8&quot;-dia flour tortillas)"></IngR>
+<DirS>
+<DirT>
+Mix dressing and mint.  Toss 1/2 of the dressing mixture with orange, onion and feta cheese.
+</DirT>
+<DirT>
+Place steak on greased grill over medium coals.  Grill 5 to 6 minutes on each side or until cooked through, brushing frequently with remaining dressing.
+</DirT>
+<DirT>
+Slice steak into thin strips.  Top tortillas with steak strips and orange mixture; wrap.
+</DirT>
+<DirT>
+This recipe yields 4 servings.
+</DirT>
+<DirT>
+Great Substitute:  Substitute 1 pound boneless skinless chicken breasts for skirt steak.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Orange Oriental Sesame Beef Stir-Fry" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                   Orange Oriental Sesame Beef Stir-Fry
+
+Recipe By     :n/a
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Main Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+     1/4           cup  orange juice
+  2        tablespoons  soy sauce
+  1           envelope  Good Seasons Oriental Sesame
+                        Salad Dressing Mix
+     1/2           cup  oil
+  1         tablespoon  grated orange peel
+  1                     garlic clove -- minced
+  1              pound  lean boneless beef sirloin -- cut into strips
+  5               cups  cut-up fresh vegetables
+                        = (or 1 pkg (16-oz) frozen mixed
+                        vegetables, thawed)
+                        Hot cooked Minute White Rice
+
+Mix juice, soy sauce, salad dressing mix, oil, peel and garlic in cruet or small bowl as directed on envelope.
+
+Heat 1 tablespoon of the dressing mixture in large skillet on medium heat.  Add meat; cook and stir until cooked through.
+
+Add vegetables and remaining dressing mixture; cook and stir until vegetables are tender-crisp.  Serve over rice.
+
+This recipe yields 4 servings.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 255 Calories; 27g Fat (94.4% calories from fat); 1g Protein; 3g Carbohydrate; trace Dietary Fiber; 0mg Cholesterol; 515mg Sodium.  Exchanges: 0 Vegetable; 0 Fruit; 5 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Main Dish
+</CatT>
+</CatS>
+<IngR name="orange juice" unit="cup" qty="1/4"></IngR>
+<IngR name="soy sauce" unit="tablespoons" qty="2"></IngR>
+<IngR name="Good Seasons Oriental Sesame" unit="envelope" qty="1"></IngR>
+<IngR name="Salad Dressing Mix"></IngR>
+<IngR name="oil" unit="cup" qty="1/2"></IngR>
+<IngR name="grated orange peel" unit="tablespoon" qty="1"></IngR>
+<IngR name="garlic clove" qty="1">
+<IPrp>
+minced
+</IPrp>
+</IngR>
+<IngR name="lean boneless beef sirloin" unit="pound" qty="1">
+<IPrp>
+cut into strips
+</IPrp>
+</IngR>
+<IngR name="cut-up fresh vegetables" unit="cups" qty="5"></IngR>
+<IngR name="= (or 1 pkg (16-oz) frozen mixed"></IngR>
+<IngR name="vegetables, thawed)"></IngR>
+<IngR name="Hot cooked Minute White Rice"></IngR>
+<DirS>
+<DirT>
+Mix juice, soy sauce, salad dressing mix, oil, peel and garlic in cruet or small bowl as directed on envelope.
+</DirT>
+<DirT>
+Heat 1 tablespoon of the dressing mixture in large skillet on medium heat.  Add meat; cook and stir until cooked through.
+</DirT>
+<DirT>
+Add vegetables and remaining dressing mixture; cook and stir until vegetables are tender-crisp.  Serve over rice.
+</DirT>
+<DirT>
+This recipe yields 4 servings.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Party Meatballs With Yogurt And Feta Sauce" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                Party Meatballs With Yogurt And Feta Sauce
+
+Recipe By     :n/a
+Serving Size  : 0     Preparation Time :0:00
+Categories    : Meatballs
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1              pound  ground beef
+     1/2           cup  chopped fresh flat-leaf parsley
+  1                     egg
+     1/4           cup  dry bread crumbs
+  2                     garlic cloves -- minced
+     1/2      teaspoon  salt
+     1/4      teaspoon  freshly-ground black pepper
+  1         tablespoon  olive oil
+                        === YOGURT AND FETA SAUCE ===
+  1            package  Athenos Traditional Crumbled Feta Cheese -- (4 oz)
+     3/4           cup  plain yogurt
+  2        tablespoons  milk
+  1                     garlic clove -- minced
+     1/3           cup  chopped seeded tomato
+     1/3           cup  chopped seeded peeled cucumber
+  1           teaspoon  finely-chopped fresh dill
+
+Mix meat, parsley, egg, crumbs, garlic, salt and pepper.  Shape into 1-inch meatballs.
+
+Heat oil in medium skillet.  Add meatballs.  Cook on medium-low heat 12 to 15 minutes or until cooked through, stirring occasionally.  Serve with Yogurt And Feta Sauce.
+
+Yogurt And Feta Sauce:  Place feta cheese, yogurt, milk and garlic in food processor container fitted with steel blade or in blender container; cover.  Blend until smooth.  Stir in tomato, cucumber and dill.  (Makes 2 cups)
+
+This recipe yields 20 meatballs.
+
+Variation:  Try ground lamb in place of half or all of the ground beef.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+Yield:
+  "20 meatballs"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 1844 Calories; 147g Fat (72.5% calories from fat); 92g Protein; 33g Carbohydrate; 1g Dietary Fiber; 600mg Cholesterol; 1764mg Sodium.  Exchanges: 1 1/2 Grain(Starch); 11 1/2 Lean Meat; 1/2 Vegetable; 1 Non-Fat Milk; 23 Fat; 1/2 Other Carbohydrates.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Meatballs
+</CatT>
+</CatS>
+<IngR name="ground beef" unit="pound" qty="1"></IngR>
+<IngR name="chopped fresh flat-leaf parsley" unit="cup" qty="1/2"></IngR>
+<IngR name="egg" qty="1"></IngR>
+<IngR name="dry bread crumbs" unit="cup" qty="1/4"></IngR>
+<IngR name="garlic cloves" qty="2">
+<IPrp>
+minced
+</IPrp>
+</IngR>
+<IngR name="salt" unit="teaspoon" qty="1/2"></IngR>
+<IngR name="freshly-ground black pepper" unit="teaspoon" qty="1/4"></IngR>
+<IngR name="olive oil" unit="tablespoon" qty="1"></IngR>
+<IngR name="=== YOGURT AND FETA SAUCE ==="></IngR>
+<IngR name="Athenos Traditional Crumbled Feta Cheese" unit="package" qty="1">
+<IPrp>
+(4 oz)
+</IPrp>
+</IngR>
+<IngR name="plain yogurt" unit="cup" qty="3/4"></IngR>
+<IngR name="milk" unit="tablespoons" qty="2"></IngR>
+<IngR name="garlic clove" qty="1">
+<IPrp>
+minced
+</IPrp>
+</IngR>
+<IngR name="chopped seeded tomato" unit="cup" qty="1/3"></IngR>
+<IngR name="chopped seeded peeled cucumber" unit="cup" qty="1/3"></IngR>
+<IngR name="finely-chopped fresh dill" unit="teaspoon" qty="1"></IngR>
+<DirS>
+<DirT>
+Mix meat, parsley, egg, crumbs, garlic, salt and pepper.  Shape into 1-inch meatballs.
+</DirT>
+<DirT>
+Heat oil in medium skillet.  Add meatballs.  Cook on medium-low heat 12 to 15 minutes or until cooked through, stirring occasionally.  Serve with Yogurt And Feta Sauce.
+</DirT>
+<DirT>
+Yogurt And Feta Sauce:  Place feta cheese, yogurt, milk and garlic in food processor container fitted with steel blade or in blender container; cover.  Blend until smooth.  Stir in tomato, cucumber and dill.  (Makes 2 cups)
+</DirT>
+<DirT>
+This recipe yields 20 meatballs.
+</DirT>
+<DirT>
+Variation:  Try ground lamb in place of half or all of the ground beef.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+<Yield unit="meatballs" qty="20.000000"/>
+</RcpE>
+<RcpE name="Pasta With Chicken, Roasted Red Peppers And Feta" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+             Pasta With Chicken, Roasted Red Peppers And Feta
+
+Recipe By     :n/a
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Main Dish                       Pasta
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  2                     garlic cloves -- minced
+     1/4           cup  olive oil -- divided
+  1                jar  roasted red peppers - (12 oz) -- drained, and
+                        chopped fine
+  1            package  Louis Rich Carving Board Grilled
+                        Chicken Breast Strips - (6 oz)
+  8             ounces  farfalle (small bow tie pasta)
+  2           packages  Athenos Traditional Crumbled Feta Cheese -- (4 oz ea)
+  1         tablespoon  chopped fresh parsley -- (optional)
+
+Cook and stir garlic in 2 tablespoons of the oil on medium heat 3 minutes.  Add roasted red peppers, chicken breast strips and remaining 2 tablespoons oil.  Cook 2 minutes or until thoroughly heated.
+
+Cook pasta as directed on package; drain.  Toss vegetable mixture with hot pasta and feta cheese.  Sprinkle with parsley.
+
+This recipe yields 4 servings.
+
+Great Substitutes:  Substitute 2 packages (4-oz each) of your favorite Athenos Crumbled Feta Cheese.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 122 Calories; 14g Fat (97.8% calories from fat); trace Protein; 1g Carbohydrate; trace Dietary Fiber; 0mg Cholesterol; 1mg Sodium.  Exchanges: 0 Vegetable; 2 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Main Dish
+</CatT>
+<CatT>
+Pasta
+</CatT>
+</CatS>
+<IngR name="garlic cloves" qty="2">
+<IPrp>
+minced
+</IPrp>
+</IngR>
+<IngR name="olive oil" unit="cup" qty="1/4">
+<IPrp>
+divided
+</IPrp>
+</IngR>
+<IngR name="roasted red peppers - (12 oz)" unit="jar" qty="1">
+<IPrp>
+drained, and
+</IPrp>
+</IngR>
+<IngR name="chopped fine"></IngR>
+<IngR name="Louis Rich Carving Board Grilled" unit="package" qty="1"></IngR>
+<IngR name="Chicken Breast Strips - (6 oz)"></IngR>
+<IngR name="farfalle (small bow tie pasta)" unit="ounces" qty="8"></IngR>
+<IngR name="Athenos Traditional Crumbled Feta Cheese" unit="packages" qty="2">
+<IPrp>
+(4 oz ea)
+</IPrp>
+</IngR>
+<IngR name="chopped fresh parsley" unit="tablespoon" qty="1">
+<IPrp>
+(optional)
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Cook and stir garlic in 2 tablespoons of the oil on medium heat 3 minutes.  Add roasted red peppers, chicken breast strips and remaining 2 tablespoons oil.  Cook 2 minutes or until thoroughly heated.
+</DirT>
+<DirT>
+Cook pasta as directed on package; drain.  Toss vegetable mixture with hot pasta and feta cheese.  Sprinkle with parsley.
+</DirT>
+<DirT>
+This recipe yields 4 servings.
+</DirT>
+<DirT>
+Great Substitutes:  Substitute 2 packages (4-oz each) of your favorite Athenos Crumbled Feta Cheese.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Plum Tomato And Pesto Bread" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                       Plum Tomato And Pesto Bread
+
+Recipe By     :n/a
+Serving Size  : 24    Preparation Time :0:00
+Categories    : Breads/Rolls
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1                     loaf Italian bread - (16 oz) -- halved lengthwise
+  1            package  Di Giorno Basil Pesto - (7 oz)
+  4                     plum tomatoes -- sliced
+  2               cups  Kraft Natural Finely Shredded Mozzarella
+                        Cheese
+
+Place bread, cut-side up, on cookie sheet.  Bake at 400 degrees for 8 to 10 minutes or until golden brown.
+
+Spread each bread half with pesto sauce; top with tomato slices.  Sprinkle with cheese.  Bake an additional 8 to 10 minutes or until cheese is melted.  Garnish with chopped fresh basil.  Cut into slices.  Serve warm.
+
+This recipe yields 24 servings.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 2 Calories; trace Fat (11.7% calories from fat); trace Protein; trace Carbohydrate; trace Dietary Fiber; 0mg Cholesterol; 1mg Sodium.  Exchanges: 0 Vegetable.
+
+
+Nutr. Assoc. : 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="24"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Breads/Rolls
+</CatT>
+</CatS>
+<IngR name="loaf Italian bread - (16 oz)" qty="1">
+<IPrp>
+halved lengthwise
+</IPrp>
+</IngR>
+<IngR name="Di Giorno Basil Pesto - (7 oz)" unit="package" qty="1"></IngR>
+<IngR name="plum tomatoes" qty="4">
+<IPrp>
+sliced
+</IPrp>
+</IngR>
+<IngR name="Kraft Natural Finely Shredded Mozzarella" unit="cups" qty="2"></IngR>
+<IngR name="Cheese"></IngR>
+<DirS>
+<DirT>
+Place bread, cut-side up, on cookie sheet.  Bake at 400 degrees for 8 to 10 minutes or until golden brown.
+</DirT>
+<DirT>
+Spread each bread half with pesto sauce; top with tomato slices.  Sprinkle with cheese.  Bake an additional 8 to 10 minutes or until cheese is melted.  Garnish with chopped fresh basil.  Cut into slices.  Serve warm.
+</DirT>
+<DirT>
+This recipe yields 24 servings.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Red Pepper Bruschetta With Feta" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                     Red Pepper Bruschetta With Feta
+
+Recipe By     :n/a
+Serving Size  : 0     Preparation Time :0:00
+Categories    : Appetizers
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1                jar  roasted red peppers - (7 oz) -- drained, chopped
+  1            package  Athenos Traditional Crumbled Feta Cheese -- (4 oz), chopped fine
+     1/4           cup  chopped green onions
+  1                     garlic clove -- minced
+                        Olive oil -- as needed
+  1           teaspoon  lemon juice
+  1                     loaf French bread -- cut 1/2" slices
+
+Mix red peppers, feta cheese, onions, garlic, 1 tablespoon olive oil and lemon juice; set aside.
+
+Brush bread slices lightly with additional olive oil.  Place on cookie sheet.  Broil on each side until lightly toasted.  Top each toast slice with about 1 tablespoon red pepper mixture.
+
+This recipe yields about 1 1/2 dozen.
+
+Great Substitute:  Try Athenos Crumbled Feta Cheese with Peppercorn in place of Traditional Feta Cheese.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+Yield:
+  "1 1/2 dozen"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 1256 Calories; 14g Fat (9.9% calories from fat); 41g Protein; 239g Carbohydrate; 14g Dietary Fiber; 0mg Cholesterol; 2767mg Sodium.  Exchanges: 16 1/2 Grain(Starch); 1/2 Vegetable; 0 Fruit; 2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Appetizers
+</CatT>
+</CatS>
+<IngR name="roasted red peppers - (7 oz)" unit="jar" qty="1">
+<IPrp>
+drained, chopped
+</IPrp>
+</IngR>
+<IngR name="Athenos Traditional Crumbled Feta Cheese" unit="package" qty="1">
+<IPrp>
+(4 oz), chopped fine
+</IPrp>
+</IngR>
+<IngR name="chopped green onions" unit="cup" qty="1/4"></IngR>
+<IngR name="garlic clove" qty="1">
+<IPrp>
+minced
+</IPrp>
+</IngR>
+<IngR name="Olive oil">
+<IPrp>
+as needed
+</IPrp>
+</IngR>
+<IngR name="lemon juice" unit="teaspoon" qty="1"></IngR>
+<IngR name="loaf French bread" qty="1">
+<IPrp>
+cut 1/2&quot; slices
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Mix red peppers, feta cheese, onions, garlic, 1 tablespoon olive oil and lemon juice; set aside.
+</DirT>
+<DirT>
+Brush bread slices lightly with additional olive oil.  Place on cookie sheet.  Broil on each side until lightly toasted.  Top each toast slice with about 1 tablespoon red pepper mixture.
+</DirT>
+<DirT>
+This recipe yields about 1 1/2 dozen.
+</DirT>
+<DirT>
+Great Substitute:  Try Athenos Crumbled Feta Cheese with Peppercorn in place of Traditional Feta Cheese.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+<Yield unit="dozen" qty="1.500000"/>
+</RcpE>
+<RcpE name="Saturday Skillet Breakfast" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                        Saturday Skillet Breakfast
+
+Recipe By     :n/a
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Breakfast
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  8             slices  Louis Rich Turkey Bacon -- cut 1/4" pieces
+  1             medium  potato -- cut small cubes
+  2                     green onions -- thinly sliced
+     1/2      teaspoon  chili powder
+  1             carton  cholesterol-free egg product - (8 oz)
+                        = (or 4 eggs, beaten)
+
+Place turkey bacon and potato in nonstick skillet.  Cook on medium heat 10 minutes or until potatoes are fork-tender, stirring frequently.
+
+Stir in onions and chili powder.  Pour egg product evenly over mixture; cover.  Reduce heat to low.  Cook 5 minutes or until mixture is set.  Cut into 4 wedges.
+
+This recipe yields 4 servings.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 27 Calories; trace Fat (2.9% calories from fat); 1g Protein; 6g Carbohydrate; 1g Dietary Fiber; 0mg Cholesterol; 6mg Sodium.  Exchanges: 1/2 Grain(Starch); 0 Vegetable; 0 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Breakfast
+</CatT>
+</CatS>
+<IngR name="Louis Rich Turkey Bacon" unit="slices" qty="8">
+<IPrp>
+cut 1/4&quot; pieces
+</IPrp>
+</IngR>
+<IngR name="potato" unit="medium" qty="1">
+<IPrp>
+cut small cubes
+</IPrp>
+</IngR>
+<IngR name="green onions" qty="2">
+<IPrp>
+thinly sliced
+</IPrp>
+</IngR>
+<IngR name="chili powder" unit="teaspoon" qty="1/2"></IngR>
+<IngR name="cholesterol-free egg product - (8 oz)" unit="carton" qty="1"></IngR>
+<IngR name="= (or 4 eggs, beaten)"></IngR>
+<DirS>
+<DirT>
+Place turkey bacon and potato in nonstick skillet.  Cook on medium heat 10 minutes or until potatoes are fork-tender, stirring frequently.
+</DirT>
+<DirT>
+Stir in onions and chili powder.  Pour egg product evenly over mixture; cover.  Reduce heat to low.  Cook 5 minutes or until mixture is set.  Cut into 4 wedges.
+</DirT>
+<DirT>
+This recipe yields 4 servings.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Savory Parmesan Bites" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                          Savory Parmesan Bites
+
+Recipe By     :n/a
+Serving Size  : 0     Preparation Time :0:00
+Categories    : Appetizers
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1            package  Philadelphia Brand Cream Cheese - (8 oz) -- softened
+  1 1/4           cups  Kraft 100% Grated Parmesan Cheese - (5 oz) -- divided
+  2               cans  refrigerated crescent dinner rolls -- (8 oz ea)
+  1                cup  chopped red bell pepper
+     1/4           cup  chopped fresh parsley
+
+Mix cream cheese and 1 cup of the Parmesan cheese with electric mixer on medium speed until well blended.
+
+Separate crescent rolls into 8 rectangles; seal perforations.  Spread 3 tablespoon cream cheese mixture on each rectangle; top with red pepper and parsley.  Fold long end up over filling to center; fold up again to enclose remaining filling.  Cut each into 4 equal-size squares.
+
+Place, seam-side down, on cookie sheet.  Sprinkle with remaining Parmesan cheese.  Bake at 350 degrees for 13 to 15 minutes or until golden brown.
+
+This recipe yields 32 pieces.
+
+Variations:  Substitute 1 jar (12-oz) roasted red peppers, drained, chopped for red bell pepper.
+
+Substitute 1 package (3-oz) Oscar Mayer Pepperoni for red bell pepper and parsley.
+
+Substitute 1 jar (13 1/4-oz) sliced mushrooms for red bell pepper and parsley.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+Yield:
+  "32 pieces"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 46 Calories; trace Fat (6.7% calories from fat); 2g Protein; 11g Carbohydrate; 3g Dietary Fiber; 0mg Cholesterol; 11mg Sodium.  Exchanges: 1 1/2 Vegetable.
+
+
+Nutr. Assoc. : 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Appetizers
+</CatT>
+</CatS>
+<IngR name="Philadelphia Brand Cream Cheese - (8 oz)" unit="package" qty="1">
+<IPrp>
+softened
+</IPrp>
+</IngR>
+<IngR name="Kraft 100% Grated Parmesan Cheese - (5 oz)" unit="cups" qty="1 1/4">
+<IPrp>
+divided
+</IPrp>
+</IngR>
+<IngR name="refrigerated crescent dinner rolls" unit="cans" qty="2">
+<IPrp>
+(8 oz ea)
+</IPrp>
+</IngR>
+<IngR name="chopped red bell pepper" unit="cup" qty="1"></IngR>
+<IngR name="chopped fresh parsley" unit="cup" qty="1/4"></IngR>
+<DirS>
+<DirT>
+Mix cream cheese and 1 cup of the Parmesan cheese with electric mixer on medium speed until well blended.
+</DirT>
+<DirT>
+Separate crescent rolls into 8 rectangles; seal perforations.  Spread 3 tablespoon cream cheese mixture on each rectangle; top with red pepper and parsley.  Fold long end up over filling to center; fold up again to enclose remaining filling.  Cut each into 4 equal-size squares.
+</DirT>
+<DirT>
+Place, seam-side down, on cookie sheet.  Sprinkle with remaining Parmesan cheese.  Bake at 350 degrees for 13 to 15 minutes or until golden brown.
+</DirT>
+<DirT>
+This recipe yields 32 pieces.
+</DirT>
+<DirT>
+Variations:  Substitute 1 jar (12-oz) roasted red peppers, drained, chopped for red bell pepper.
+</DirT>
+<DirT>
+Substitute 1 package (3-oz) Oscar Mayer Pepperoni for red bell pepper and parsley.
+</DirT>
+<DirT>
+Substitute 1 jar (13 1/4-oz) sliced mushrooms for red bell pepper and parsley.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+<Yield unit="pieces" qty="32.000000"/>
+</RcpE>
+<RcpE name="Shrimp Scampi" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                              Shrimp Scampi
+
+Recipe By     :n/a
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Seafood                         Shellfish
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+     1/4           cup  lemon juice
+     1/4           cup  water
+  1           envelope  Good Seasons Garlic & Herb or
+                        Cheese Garlic Salad Dressing Mix
+     1/4           cup  extra-virgin olive oil -- divided
+  2        tablespoons  chopped fresh parsley
+  1           teaspoon  minced garlic -- (optional)
+     1/8      teaspoon  freshly-ground black pepper
+  1              small  onion -- chopped
+  1              pound  medium shrimp -- cleaned
+
+Mix juice, water, salad dressing mix, 2 tablespoons of the olive oil, parsley, garlic and pepper in cruet or small bowl as directed on envelope.  Set aside.
+
+Heat remaining 2 tablespoons olive oil in large skillet on medium heat.  Add onion; cook and stir until tender but not browned.  Add shrimp; cook 3 minutes or until shrimp turn pink, stirring occasionally.  Stir in dressing mixture.
+
+Bring to boil on medium heat; boil 1 minute.  Serve over cooked rice or pasta.
+
+This recipe yields 4 servings.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 256 Calories; 15g Fat (55.1% calories from fat); 23g Protein; 5g Carbohydrate; 1g Dietary Fiber; 173mg Cholesterol; 171mg Sodium.  Exchanges: 3 Lean Meat; 1/2 Vegetable; 0 Fruit; 2 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Seafood
+</CatT>
+<CatT>
+Shellfish
+</CatT>
+</CatS>
+<IngR name="lemon juice" unit="cup" qty="1/4"></IngR>
+<IngR name="water" unit="cup" qty="1/4"></IngR>
+<IngR name="Good Seasons Garlic &amp; Herb or" unit="envelope" qty="1"></IngR>
+<IngR name="Cheese Garlic Salad Dressing Mix"></IngR>
+<IngR name="extra-virgin olive oil" unit="cup" qty="1/4">
+<IPrp>
+divided
+</IPrp>
+</IngR>
+<IngR name="chopped fresh parsley" unit="tablespoons" qty="2"></IngR>
+<IngR name="minced garlic" unit="teaspoon" qty="1">
+<IPrp>
+(optional)
+</IPrp>
+</IngR>
+<IngR name="freshly-ground black pepper" unit="teaspoon" qty="1/8"></IngR>
+<IngR name="onion" unit="small" qty="1">
+<IPrp>
+chopped
+</IPrp>
+</IngR>
+<IngR name="medium shrimp" unit="pound" qty="1">
+<IPrp>
+cleaned
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Mix juice, water, salad dressing mix, 2 tablespoons of the olive oil, parsley, garlic and pepper in cruet or small bowl as directed on envelope.  Set aside.
+</DirT>
+<DirT>
+Heat remaining 2 tablespoons olive oil in large skillet on medium heat.  Add onion; cook and stir until tender but not browned.  Add shrimp; cook 3 minutes or until shrimp turn pink, stirring occasionally.  Stir in dressing mixture.
+</DirT>
+<DirT>
+Bring to boil on medium heat; boil 1 minute.  Serve over cooked rice or pasta.
+</DirT>
+<DirT>
+This recipe yields 4 servings.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Shrimp With Tomato And Feta" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                       Shrimp With Tomato And Feta
+
+Recipe By     :n/a
+Serving Size  : 4     Preparation Time :0:00
+Categories    : Seafood                         Shellfish
+
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+     1/2           cup  chopped onion
+  2        tablespoons  olive oil
+  1                can  Italian-style plum tomatoes - (28 oz) -- drained, cut up
+     1/3           cup  dry white wine
+  2          teaspoons  dried oregano leaves
+     3/4         pound  medium shrimp -- cleaned
+  1            package  Athenos Traditional Crumbled Feta Cheese -- (4 oz)
+  2        tablespoons  chopped fresh parsley
+
+Cook and stir onion in oil in large skillet on medium heat 3 minutes.  Add tomatoes, wine and oregano.  Reduce heat to low; simmer 5 minutes or until thickened.
+
+Add shrimp.  Cook 3 minutes, stirring frequently, until shrimp are pink.  Sprinkle with feta cheese; simmer 1 minute.  Stir in parsley.
+
+Serve with hot cooked rice and garnish with fresh herbs, if desired.
+
+This recipe yields 4 servings.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 172 Calories; 8g Fat (47.8% calories from fat); 17g Protein; 3g Carbohydrate; trace Dietary Fiber; 129mg Cholesterol; 129mg Sodium.  Exchanges: 2 1/2 Lean Meat; 1/2 Vegetable; 1 1/2 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="4"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Seafood
+</CatT>
+<CatT>
+Shellfish
+</CatT>
+</CatS>
+<IngR name="chopped onion" unit="cup" qty="1/2"></IngR>
+<IngR name="olive oil" unit="tablespoons" qty="2"></IngR>
+<IngR name="Italian-style plum tomatoes - (28 oz)" unit="can" qty="1">
+<IPrp>
+drained, cut up
+</IPrp>
+</IngR>
+<IngR name="dry white wine" unit="cup" qty="1/3"></IngR>
+<IngR name="dried oregano leaves" unit="teaspoons" qty="2"></IngR>
+<IngR name="medium shrimp" unit="pound" qty="3/4">
+<IPrp>
+cleaned
+</IPrp>
+</IngR>
+<IngR name="Athenos Traditional Crumbled Feta Cheese" unit="package" qty="1">
+<IPrp>
+(4 oz)
+</IPrp>
+</IngR>
+<IngR name="chopped fresh parsley" unit="tablespoons" qty="2"></IngR>
+<DirS>
+<DirT>
+Cook and stir onion in oil in large skillet on medium heat 3 minutes.  Add tomatoes, wine and oregano.  Reduce heat to low; simmer 5 minutes or until thickened.
+</DirT>
+<DirT>
+Add shrimp.  Cook 3 minutes, stirring frequently, until shrimp are pink.  Sprinkle with feta cheese; simmer 1 minute.  Stir in parsley.
+</DirT>
+<DirT>
+Serve with hot cooked rice and garnish with fresh herbs, if desired.
+</DirT>
+<DirT>
+This recipe yields 4 servings.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE>
+<RcpE name="Spicy Citrus Chicken Wings" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                        Spicy Citrus Chicken Wings
+
+Recipe By     :n/a
+Serving Size  : 0     Preparation Time :0:00
+Categories    : Appetizers                      Chicken
+                Poultry
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+     1/2           cup  honey
+     1/4           cup  orange juice
+  1           envelope  Good Seasons Italian, Zesty Italian,
+                        Garlic & Herb or Honey Mustard Salad
+                        Dressing Mix
+  1         tablespoon  hot pepper sauce
+  28                    chicken wings -- separated at joints,
+                        tips discarded, or drumettes
+
+Mix honey, juice, salad dressing mix and hot pepper sauce in large bowl.  Reserve 1/4 cup marinade; refrigerate.
+
+Add chicken to bowl with remaining marinade; toss to coat.  Cover. Refrigerate at least 1 hour to marinate.  Drain.
+
+Broil chicken wings on broiler pan 4 inches from heat 16 to 20 minutes or until chicken is cooked through, turning and brushing occasionally with reserved 1/4 cup marinade.
+
+This recipe yields 28 appetizers.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+Yield:
+  "28 appetizers"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 3591 Calories; 219g Fat (55.3% calories from fat); 252g Protein; 146g Carbohydrate; 1g Dietary Fiber; 1056mg Cholesterol; 1379mg Sodium.  Exchanges: 35 1/2 Lean Meat; 1/2 Fruit; 22 Fat; 9 1/2 Other Carbohydrates.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Appetizers
+</CatT>
+<CatT>
+Chicken
+</CatT>
+<CatT>
+Poultry
+</CatT>
+</CatS>
+<IngR name="honey" unit="cup" qty="1/2"></IngR>
+<IngR name="orange juice" unit="cup" qty="1/4"></IngR>
+<IngR name="Good Seasons Italian, Zesty Italian," unit="envelope" qty="1"></IngR>
+<IngR name="Garlic &amp; Herb or Honey Mustard Salad"></IngR>
+<IngR name="Dressing Mix"></IngR>
+<IngR name="hot pepper sauce" unit="tablespoon" qty="1"></IngR>
+<IngR name="chicken wings" qty="28">
+<IPrp>
+separated at joints,
+</IPrp>
+</IngR>
+<IngR name="tips discarded, or drumettes"></IngR>
+<DirS>
+<DirT>
+Mix honey, juice, salad dressing mix and hot pepper sauce in large bowl.  Reserve 1/4 cup marinade; refrigerate.
+</DirT>
+<DirT>
+Add chicken to bowl with remaining marinade; toss to coat.  Cover. Refrigerate at least 1 hour to marinate.  Drain.
+</DirT>
+<DirT>
+Broil chicken wings on broiler pan 4 inches from heat 16 to 20 minutes or until chicken is cooked through, turning and brushing occasionally with reserved 1/4 cup marinade.
+</DirT>
+<DirT>
+This recipe yields 28 appetizers.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+<Yield unit="appetizers" qty="28.000000"/>
+</RcpE>
+<RcpE name="Spring Garden Bacon Frittata" author="n/a">
+<RTxt>
+<![CDATA[                      
+* Exported from MasterCook *
+
+                       Spring Garden Bacon Frittata
+
+Recipe By     :n/a
+Serving Size  : 6     Preparation Time :0:00
+Categories    : Main Dish
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1         tablespoon  vegetable oil
+  2               cups  frozen shredded hash brown potatoes
+  6                     eggs -- beaten
+  1            package  Oscar Mayer Ready-to-Serve Bacon -- (2.1 oz), cut
+                        into 1/2" pieces
+     1/3           cup  sliced green onions
+  1           teaspoon  minced fresh chives -- (optional)
+                        Salt -- to taste
+                        Freshly-ground black pepper -- to taste
+     1/3           cup  Kraft Shredded Sharp Cheddar Cheese
+
+Heat oil in medium nonstick skillet on medium-high heat.  Add potatoes; cook 6 to 8 minutes or until potatoes are warm and beginning to brown, stirring occasionally.  Spread potatoes to evenly cover surface of skillet.
+
+Mix eggs, bacon, onions, chives, salt and pepper in small bowl.  Spoon egg mixture evenly over potatoes.  Reduce heat to medium-low; cover.  Cook 8 minutes or until eggs are set.  Remove from heat.
+
+Sprinkle with cheese.  Slip spatula underneath, tip skillet to loosen and gently slide onto serving plate.  Garnish with tomatoes and additional chives.  Cut into wedges.
+
+This recipe yields 6 servings.
+
+Variation:  Prepare as directed, substituting 12 slices Oscar Mayer Center Cut bacon, cooked for Ready-to-Serve Bacon.
+
+Tip:  To easily cut and separate Ready-to-Serve Bacon, separate slices and stack on top of each other.  Cut into 1/2-inch pieces using clean kitchen shears.
+
+Source:
+  "Athenos' recipe archive at http://www.athenos.com"
+S(Formatted for MC6):
+  "08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"
+
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 87 Calories; 7g Fat (69.7% calories from fat); 6g Protein; 1g Carbohydrate; trace Dietary Fiber; 187mg Cholesterol; 56mg Sodium.  Exchanges: 1 Lean Meat; 0 Vegetable; 1 Fat.
+
+
+Nutr. Assoc. : 0 0 0 0 0 0 0 0 0 0
+
+]]>
+</RTxt>
+<Serv qty="6"/>
+<PrpT elapsed="0:00"/>
+<CatS>
+<CatT>
+Main Dish
+</CatT>
+</CatS>
+<IngR name="vegetable oil" unit="tablespoon" qty="1"></IngR>
+<IngR name="frozen shredded hash brown potatoes" unit="cups" qty="2"></IngR>
+<IngR name="eggs" qty="6">
+<IPrp>
+beaten
+</IPrp>
+</IngR>
+<IngR name="Oscar Mayer Ready-to-Serve Bacon" unit="package" qty="1">
+<IPrp>
+(2.1 oz), cut
+</IPrp>
+</IngR>
+<IngR name="into 1/2&quot; pieces"></IngR>
+<IngR name="sliced green onions" unit="cup" qty="1/3"></IngR>
+<IngR name="minced fresh chives" unit="teaspoon" qty="1">
+<IPrp>
+(optional)
+</IPrp>
+</IngR>
+<IngR name="Salt">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Freshly-ground black pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR name="Kraft Shredded Sharp Cheddar Cheese" unit="cup" qty="1/3"></IngR>
+<DirS>
+<DirT>
+Heat oil in medium nonstick skillet on medium-high heat.  Add potatoes; cook 6 to 8 minutes or until potatoes are warm and beginning to brown, stirring occasionally.  Spread potatoes to evenly cover surface of skillet.
+</DirT>
+<DirT>
+Mix eggs, bacon, onions, chives, salt and pepper in small bowl.  Spoon egg mixture evenly over potatoes.  Reduce heat to medium-low; cover.  Cook 8 minutes or until eggs are set.  Remove from heat.
+</DirT>
+<DirT>
+Sprinkle with cheese.  Slip spatula underneath, tip skillet to loosen and gently slide onto serving plate.  Garnish with tomatoes and additional chives.  Cut into wedges.
+</DirT>
+<DirT>
+This recipe yields 6 servings.
+</DirT>
+<DirT>
+Variation:  Prepare as directed, substituting 12 slices Oscar Mayer Center Cut bacon, cooked for Ready-to-Serve Bacon.
+</DirT>
+<DirT>
+Tip:  To easily cut and separate Ready-to-Serve Bacon, separate slices and stack on top of each other.  Cut into 1/2-inch pieces using clean kitchen shears.
+</DirT>
+</DirS>
+<Srce>
+Athenos&apos; recipe archive at http://www.athenos.com
+</Srce>
+<AltS label="Formatted for MC6" source="08-07-2001  by  Joe Comiskey  -  jcomiskey@krypto.net"/>
+</RcpE></mx2>
